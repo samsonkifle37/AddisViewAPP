@@ -47,3 +47,4 @@ npm run dev
 ## 🇪🇹 Cultural Touch
 AddisView is built with Ethiopian aesthetics in mind, using a color palette inspired by the landscape and culture.
 "# AddisViewAPP" 
+"# addisview" 
