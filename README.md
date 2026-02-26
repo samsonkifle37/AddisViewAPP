@@ -48,3 +48,4 @@ npm run dev
 AddisView is built with Ethiopian aesthetics in mind, using a color palette inspired by the landscape and culture.
 "# AddisViewAPP" 
 "# addisview" 
+"# addisview" 
