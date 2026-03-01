@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme {
+  --font-ethiopia: "Outfit", sans-serif;
+  --color-ethiopia-green: #078930;
+  --color-ethiopia-yellow: #FCDD09;
+  --color-ethiopia-red: #DA121A;
+  --color-brand-dark: #0f172a;
+  --color-brand-muted: #64748b;
+  --color-surface: #f8fafc;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-ethiopia);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Custom scrollbar hide */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Line clamping */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

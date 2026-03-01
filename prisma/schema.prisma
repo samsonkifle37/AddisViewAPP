@@ -1,0 +1,137 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id            String     @id @default(uuid())
+  name          String
+  email         String     @unique
+  passwordHash  String
+  roles         String[]   @default(["traveller"])
+  languages     String[]   @default(["en"])
+  bio           String?
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+  favorites     Favorite[]
+  reviews       Review[]
+}
+
+model Place {
+  id               String       @id @default(uuid())
+  type             String       // hotel, guesthouse, apartment, tour, restaurant, club, resort
+  name             String
+  slug             String       @unique
+  shortDescription String?
+  longDescription  String?
+  city             String
+  area             String       @default("")
+  country          String       @default("Ethiopia")
+  latitude         Float?
+  longitude        Float?
+  websiteUrl       String?
+  bookingUrl       String?
+  phone            String?
+  email            String?
+  tags             String[]     @default([])
+  source           String       @default("manual-seed")
+  isActive         Boolean      @default(true)
+  createdAt        DateTime     @default(now())
+  updatedAt        DateTime     @updatedAt
+  images           PlaceImage[]
+  favorites        Favorite[]
+  reviews          Review[]
+  hostListings     HostListing[]
+}
+
+model PlaceImage {
+  id            String   @id @default(uuid())
+  placeId       String
+  place         Place    @relation(fields: [placeId], references: [id], onDelete: Cascade)
+  imageUrl      String
+  sourcePageUrl String?
+  altText       String?
+  priority      Int      @default(0)  // 0 = hero, higher = gallery
+  createdAt     DateTime @default(now())
+}
+
+model Review {
+  id        String   @id @default(uuid())
+  placeId   String
+  place     Place    @relation(fields: [placeId], references: [id], onDelete: Cascade)
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  rating    Int      // 1-5
+  title     String?
+  body      String?
+  createdAt DateTime @default(now())
+}
+
+model Favorite {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  placeId   String
+  place     Place    @relation(fields: [placeId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@unique([userId, placeId])
+}
+
+// ── Host Listing (Become a Host) ────────────
+enum HostListingStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+enum HostPlaceType {
+  APARTMENT
+  GUESTHOUSE
+  ENTIRE_HOME
+  PRIVATE_ROOM
+  SHARED_ROOM
+}
+
+model HostListing {
+  id               String            @id @default(uuid())
+  status           HostListingStatus @default(PENDING)
+  placeType        HostPlaceType
+  title            String
+  description      String
+  city             String
+  area             String            @default("")
+  country          String            @default("Ethiopia")
+  maxGuests        Int
+  bedrooms         Int
+  beds             Int
+  bathrooms        Int
+  pricePerNight    Float
+  amenities        String[]          @default([])
+  hostName         String
+  hostEmail        String
+  hostPhone        String
+  rejectionReason  String?
+  approvedByUserId String?
+  approvedAt       DateTime?
+  linkedPlaceId    String?
+  createdAt        DateTime          @default(now())
+  updatedAt        DateTime          @updatedAt
+
+  images           HostListingImage[]
+  linkedPlace      Place?            @relation(fields: [linkedPlaceId], references: [id])
+
+  @@index([status])
+}
+
+model HostListingImage {
+  id             String      @id @default(uuid())
+  hostListingId  String
+  hostListing    HostListing @relation(fields: [hostListingId], references: [id], onDelete: Cascade)
+  imageUrl       String
+  altText        String?
+  createdAt      DateTime    @default(now())
+}
