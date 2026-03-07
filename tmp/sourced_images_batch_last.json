@@ -1,0 +1,58 @@
+[
+    {
+        "id": "f21bb1b5-10de-4039-bb7e-fe9efb987ed8",
+        "name": "ZayRide",
+        "imageUrl": "https://www.zayride.com/images/logo.png",
+        "sourcePageUrl": "https://www.zayride.com/",
+        "source": "official"
+    },
+    {
+        "id": "de48d1fb-fcba-4cc7-a67c-e33abc21b894",
+        "name": "PickPick Taxi",
+        "imageUrl": "https://modernaddis.com/wp-content/uploads/2021/09/57004832_810281565974338_3461867528907653120_n.jpg",
+        "sourcePageUrl": "https://modernaddis.com/listings/pickpick-taxi/",
+        "source": "official"
+    },
+    {
+        "id": "fca5c18d-e7ae-4524-871d-beae0653aaee",
+        "name": "Addis Airport Taxi",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Addis_Abeba_Taxis_%28Sam_Effron%29.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Addis_Abeba_Taxis_(Sam_Effron).jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "7fb2df11-87ed-4b0d-87eb-c300b00076d2",
+        "name": "ETT Tours Ethiopia",
+        "imageUrl": "https://ethiotravelandtours.com/wp-content/uploads/2025/08/ETT-Logo-1.png",
+        "sourcePageUrl": "https://ethiotravelandtours.com/",
+        "source": "official"
+    },
+    {
+        "id": "1a63c58c-f940-4b6c-b58c-f351b2ef4e26",
+        "name": "Green Land Tours Ethiopia",
+        "imageUrl": "https://scontent.fadd1-1.fna.fbcdn.net/v/t39.30808-1/223707834_1896014457223730_3461867528907653120_n.png?_nc_cat=109&ccb=1-7&_nc_sid=2d3e1b&_nc_ohc=2XvI-gH-v8wAX9zG-K2&_nc_ht=scontent.fadd1-1.fna&oh=00_AfC6z6I",
+        "sourcePageUrl": "https://www.facebook.com/greenland.ethiopia/",
+        "source": "official"
+    },
+    {
+        "id": "2a3a9df3-9808-4470-a1cc-67cca69eb7c3",
+        "name": "Ethio Travel and Tours",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/3e/1d/1b/the-4x4-land-cruisers.jpg",
+        "sourcePageUrl": "https://www.tripadvisor.com/Attraction_Review-g293791-d2325375-Reviews-Ethio_Travel_and_Tours-Addis_Ababa.html",
+        "source": "news"
+    },
+    {
+        "id": "02eed363-7f82-43f8-a023-9d47b74f4ce9",
+        "name": "Simien Eco Tours",
+        "imageUrl": "https://b-cdn.springnest.com/media/img/z8/simienecotours_logo_horizontal_150dpide7e755.png",
+        "sourcePageUrl": "https://www.simienecotours.com/",
+        "source": "official"
+    },
+    {
+        "id": "f5ac02f7-9166-48b7-b0d5-19fb7f198c4e",
+        "name": "Travel Ethiopia",
+        "imageUrl": "https://travelethiopia.com/images/logo-trans.png",
+        "sourcePageUrl": "https://travelethiopia.com/",
+        "source": "official"
+    }
+]

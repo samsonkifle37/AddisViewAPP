@@ -1,0 +1,205 @@
+[
+    {
+        "id": "0483a594-e04c-483e-a75b-36b5385d6d34",
+        "name": "Hyatt Regency Addis Ababa",
+        "imageUrl": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2019/02/20/0825/Hyatt-Regency-Addis-Ababa-P009-Cascara-Court-Yard.jpg/Hyatt-Regency-Addis-Ababa-P009-Cascara-Court-Yard.16x9.jpg?imwidth=1920",
+        "sourcePageUrl": "https://www.hyatt.com/hyatt-regency/en-US/addra-hyatt-regency-addis-ababa",
+        "source": "official"
+    },
+    {
+        "id": "2babe647-79db-46d5-8ec9-0be1a3e3dcde",
+        "name": "Radisson Blu Addis Ababa",
+        "imageUrl": "https://visitethiopia.et/uploads/0000/1/2024/04/16/r.jpg",
+        "sourcePageUrl": "https://visitethiopia.et/hotel/radisson-blu-hotel-addis-ababa",
+        "source": "official"
+    },
+    {
+        "id": "15f1f8aa-f5a2-484b-9f46-612ff2c2a157",
+        "name": "Capital Hotel & Spa",
+        "imageUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63285961.jpg?k=b690c02f5f6a54aa1f626d02f259b329ac77a74d9d2d76b54eb97e2bb8241589&o=",
+        "sourcePageUrl": "https://www.booking.com/hotel/et/capital-and-spa.html",
+        "source": "official"
+    },
+    {
+        "id": "8a5f9ab7-e183-401e-bad6-e7a40834b32f",
+        "name": "Marriott Executive Apartments Addis Ababa",
+        "imageUrl": "https://q-xx.bstatic.com/xdata/images/hotel/max500/632312120.jpg?k=ccf029847cac45a5d8e7a2783f52d62d0db506417c256b279e241c2cf0ffeebb&o=",
+        "sourcePageUrl": "https://www.marriott.com/en-us/hotels/adder-marriott-executive-apartments-addis-ababa/overview/",
+        "source": "official"
+    },
+    {
+        "id": "51efc284-9cc3-4b54-857c-b73acb4fa5c8",
+        "name": "Golden Tulip Addis Ababa",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Golden_Tulip_Addis_Ababa_Hotel_External.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Golden_Tulip_Addis_Ababa_Hotel_External.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "80c2fb2e-a2b8-43eb-82c1-3627d892e13d",
+        "name": "Best Western Plus Addis Ababa",
+        "imageUrl": "https://ik.imgkit.net/3vlqs5axxjf/external/https://media.iceportal.com/102413/photos/84578621_XL.jpg?tr=w-1200%2Cfo-auto",
+        "sourcePageUrl": "https://www.travelweekly.com/Hotels/Addis-Ababa-Ethiopia/Best-Western-Plus-Addis-Ababa-p56055808",
+        "source": "official"
+    },
+    {
+        "id": "cee4b837-89e0-498a-bf19-01d55c6cb343",
+        "name": "Jupiter International Hotel",
+        "imageUrl": "https://webbox.imgix.net/images/mvqnaiwlzbipmgce/8354285c-0cf5-4895-85f4-1d94819f3e40.jpg?auto=format,compress&fit=crop&crop=entropy&w=750&h=600",
+        "sourcePageUrl": "https://www.jupiterinternationalhotel.com/",
+        "source": "official"
+    },
+    {
+        "id": "7352b79a-c758-45d1-a438-a43ba11d3b27",
+        "name": "Harmony Hotel Addis Ababa",
+        "imageUrl": "https://pix8.agoda.net/hotelImages/237466/-1/3c1e3a1f8db11234771488667a99f6af.jpg?ca=13&ce=1&s=1024x768",
+        "sourcePageUrl": "https://www.agoda.com/harmony-hotel/hotel/addis-ababa-et.html",
+        "source": "official"
+    },
+    {
+        "id": "fc7ab57d-fb13-4135-9e03-7fffc0521864",
+        "name": "Hotel Lobelia",
+        "imageUrl": "https://images.trvl-media.com/hotels/9000000/8260000/8257300/8257232/af0714b7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "sourcePageUrl": "https://www.expedia.com/Addis-Ababa-Hotels-Hotel-Lobelia.h8257232.Hotel-Information",
+        "source": "official"
+    },
+    {
+        "id": "acaabadc-7f2f-4923-b9e2-cd60628bde0b",
+        "name": "Bole Ambassador Hotel",
+        "imageUrl": "https://ik.imgkit.net/3vlqs5axxjf/external/https://media.iceportal.com/102413/photos/9378621_XL.jpg?tr=w-1200%2Cfo-auto",
+        "sourcePageUrl": "https://www.travelweekly.com/Hotels/Addis-Ababa-Ethiopia/Bole-Ambassador-Hotel-p4427338",
+        "source": "official"
+    },
+    {
+        "id": "aaa13088-bae5-48a0-8c4b-f2a46b1f8551",
+        "name": "Moplaco Coffee Shop",
+        "imageUrl": "https://typica.coffee/wp-content/uploads/2021/03/Moplaco-1-1024x683.jpg",
+        "sourcePageUrl": "https://typica.coffee/en/producers/moplaco",
+        "source": "official"
+    },
+    {
+        "id": "6fad0b58-712a-4e40-8326-f7bbb96927e2",
+        "name": "Atikilt Tera vegetable market",
+        "imageUrl": "https://addisfortune.news/wp-content/uploads/2021/01/Atkilt-Tera.jpg",
+        "sourcePageUrl": "https://addisfortune.news/holiday-market-dampened-by-rising-food-prices/",
+        "source": "official"
+    },
+    {
+        "id": "04400156-bfb9-43f9-9bf7-1034e0ddad96",
+        "name": "Sabon Tera Market",
+        "imageUrl": "https://migrationology.com/wp-content/uploads/2015/05/addis-ababa-mercato-36-800x533.jpg",
+        "sourcePageUrl": "https://migrationology.com/addis-mercato-market/",
+        "source": "official"
+    },
+    {
+        "id": "bbb32171-f4ee-4e7d-aeef-1f59cb81db22",
+        "name": "Lucy Lounge",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0c/5d/46/78/garden-view.jpg",
+        "sourcePageUrl": "https://www.tripadvisor.com/Restaurant_Review-g293791-d2085725-Reviews-Lucy_Lounge_Restaurant-Addis_Ababa.html",
+        "source": "official"
+    },
+    {
+        "id": "91003df1-d60b-440d-baa0-3e7c35c9dcee",
+        "name": "Five Loaves Restaurant",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/06/15/84/8f/five-loaves.jpg",
+        "sourcePageUrl": "https://www.tripadvisor.com/Restaurant_Review-g293791-d2541893-Reviews-Five_Loaves-Addis_Ababa.html",
+        "source": "official"
+    },
+    {
+        "id": "57d8a146-0fda-412f-9ebc-994d8d3cb1d9",
+        "name": "Dashen Traditional Restaurant",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0d/6a/e5/2a/outdoor-seating.jpg",
+        "sourcePageUrl": "https://www.tripadvisor.com/Restaurant_Review-g293791-d2105156-Reviews-Dashen_Traditional_Restaurant-Addis_Ababa.html",
+        "source": "official"
+    },
+    {
+        "id": "c91e1910-878e-4bd5-8dc4-d00870fa0e10",
+        "name": "Sishu Restaurant",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/03/c2/f7/60/sishu.jpg",
+        "sourcePageUrl": "https://www.tripadvisor.com/Restaurant_Review-g293791-d3209869-Reviews-Sishu-Addis_Ababa.html",
+        "source": "official"
+    },
+    {
+        "id": "f2ee20ab-9727-4445-9ab9-325b2ba0a4ea",
+        "name": "Habesha 2000",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0c/5a/2a/6e/traditional-dance.jpg",
+        "sourcePageUrl": "https://www.tripadvisor.com/Restaurant_Review-g293791-d815779-Reviews-Habesha_2000-Addis_Ababa.html",
+        "source": "official"
+    },
+    {
+        "id": "85368033-8861-495e-8bef-c684b5e6ece3",
+        "name": "2000 Habesha Cultural Restaurant",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-w/1a/0c/47/9b/entrance.jpg",
+        "sourcePageUrl": "https://www.tripadvisor.com/Restaurant_Review-g293791-d1123456-Reviews-2000_Habesha_Cultural_Restaurant-Addis_Ababa.html",
+        "source": "official"
+    },
+    {
+        "id": "91962938-38ba-469c-ae6d-7889d7d741d4",
+        "name": "Addis City Highlights Tour",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/ET-Addis_Abeba%2C_Churchill_Road.JPG",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:ET-Addis_Abeba,_Churchill_Road.JPG",
+        "source": "wikimedia"
+    },
+    {
+        "id": "311eb0dd-2691-4dbe-831a-bef6166180a0",
+        "name": "Merkato Market Tour",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Addis_Mercato%2C_Ad%C3%ADs_Abeba%2C_Etiop%C3%ADa%2C_2024-01-19%2C_DD_26.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Addis_Mercato,_Ad%C3%ADs_Abeba,_Etiop%C3%ADa,_2024-01-19,_DD_26.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "05269324-2f89-416b-9fda-831a60fa8923",
+        "name": "Coffee Ceremony Experience",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ethiopian_coffee_ceremony_-_Addis_Ababa.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ethiopian_coffee_ceremony_-_Addis_Ababa.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "1e9e4de8-9695-42cd-9c2f-2059cfa6711e",
+        "name": "Entoto Mountain Tour",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Addis_Ababa_from_Entoto_Mountains.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Addis_Ababa_from_Entoto_Mountains.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "05c48f7f-ff4d-47c6-9e34-c2288dd3fc17",
+        "name": "Addis Food Tour",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Ethiopian_fasting_platter.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ethiopian_fasting_platter.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "70ca6741-8a47-4576-92ee-d3c926cdf277",
+        "name": "Historical Addis Walking Tour",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Addis_Ababa_-_Piassa.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Addis_Ababa_-_Piassa.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "a874eee5-b7c4-4bf6-af48-a540b850fab0",
+        "name": "Unity Park Guided Tour",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Unity_Park_Addis_Ababa_Ethiopia_3.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Unity_Park_Addis_Ababa_Ethiopia_3.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "09dab671-528d-4c5f-a620-4e8e9e826c04",
+        "name": "Addis Nightlife Tour",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Addis_Ababa_at_the_night_time.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Addis_Ababa_at_the_night_time.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "a17bcbd1-50fa-435c-ae7d-d520e12d94a2",
+        "name": "Ride Ethiopia",
+        "imageUrl": "https://ethiopianmonitor.com/wp-content/uploads/2020/01/images-2.jpg",
+        "sourcePageUrl": "https://ethiopianmonitor.com/2020/01/30/ride-adds-new-tech-to-protect-drivers-their-cars/",
+        "source": "blog"
+    },
+    {
+        "id": "81b346e0-1f00-4030-9dd1-0fe270f20779",
+        "name": "Feres Ride",
+        "imageUrl": "https://pbs.twimg.com/media/FI_U_rXWYAs0h6O?format=jpg&name=large",
+        "sourcePageUrl": "https://twitter.com/businessinfoeth/status/1481514336021667843",
+        "source": "blog"
+    }
+]

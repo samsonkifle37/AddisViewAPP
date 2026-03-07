@@ -1,0 +1,43 @@
+﻿[dotenv@17.3.1] injecting env (5) from .env -- tip: ­ƒöÉ prevent building .env in docker: https://dotenvx.com/prebuild
+[
+  {
+    "id": "f21bb1b5-10de-4039-bb7e-fe9efb987ed8",
+    "name": "ZayRide",
+    "slug": "zayride-transport"
+  },
+  {
+    "id": "de48d1fb-fcba-4cc7-a67c-e33abc21b894",
+    "name": "PickPick Taxi",
+    "slug": "pickpick-taxi-transport"
+  },
+  {
+    "id": "fca5c18d-e7ae-4524-871d-beae0653aaee",
+    "name": "Addis Airport Taxi",
+    "slug": "addis-airport-taxi-transport"
+  },
+  {
+    "id": "7fb2df11-87ed-4b0d-87eb-c300b00076d2",
+    "name": "ETT Tours Ethiopia",
+    "slug": "ett-tours-ethiopia-tour_operator"
+  },
+  {
+    "id": "1a63c58c-f940-4b6c-b58c-f351b2ef4e26",
+    "name": "Green Land Tours Ethiopia",
+    "slug": "green-land-tours-ethiopia-tour_operator"
+  },
+  {
+    "id": "2a3a9df3-9808-4470-a1cc-67cca69eb7c3",
+    "name": "Ethio Travel and Tours",
+    "slug": "ethio-travel-and-tours-tour_operator"
+  },
+  {
+    "id": "02eed363-7f82-43f8-a023-9d47b74f4ce9",
+    "name": "Simien Eco Tours",
+    "slug": "simien-eco-tours-tour_operator"
+  },
+  {
+    "id": "f5ac02f7-9166-48b7-b0d5-19fb7f198c4e",
+    "name": "Travel Ethiopia",
+    "slug": "travel-ethiopia-tour_operator"
+  }
+]

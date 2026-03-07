@@ -1,0 +1,14 @@
+﻿[dotenv@17.3.1] injecting env (5) from .env.local -- tip: ÔÜí´©Å secrets for agents: https://dotenvx.com/as2
+[dotenv@17.3.1] injecting env (4) from .env -- tip: ­ƒöÉ prevent committing .env to code: https://dotenvx.com/precommit
+Starting bulk process...
+Results Summary:
+Total: 68
+Succeeded: 0
+Some failed. Details of first failure:
+{
+  "name": "Holy Trinity Cathedral",
+  "success": false,
+  "data": {
+    "error": "PrismaClientValidationError: \nInvalid `__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$prisma$2e$ts__$5b$app$2d$route$5d$__$28$ecmascript$29$__[\"default\"].placeImage.create()` invocation in\nG:\\AddisView\\.next\\dev\\server\\chunks\\[root-of-the-server]__a2ab7248._.js:176:160\n\n  173         data: imageMetadata\n  174     });\n  175 } else {\nÔåÆ 176     await __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$prisma$2e$ts__$5b$app$2d$route$5d$__$28$ecmascript$29$__[\"default\"].placeImage.create({\n            data: {\n              placeId: \"55292ed7-896c-41c8-a231-d31cca7ac877\",\n              imageUrl: \"https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/holy-trinity-cathedral-museum/cover.jpeg\",\n              imageSource: \"wikimedia\",\n              ~~~~~~~~~~~\n              sourcePageUrl: \"https://commons.wikimedia.org/wiki/File:Holy_Trinity_Cathedral,_Addis_Ababa_(3434312871).jpg\",\n              verifiedAt: new Date(\"2026-03-05T21:28:48.351Z\"),\n              priority: 0,\n          ?   id?: String,\n          ?   altText?: String | Null,\n          ?   createdAt?: DateTime\n            }\n          })\n\nUnknown argument `imageSource`. Available options are marked with ?."
+  }
+}

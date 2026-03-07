@@ -1,0 +1,72 @@
+[
+    {
+        "id": "55292ed7-896c-41c8-a231-d31cca7ac877",
+        "name": "Holy Trinity Cathedral",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Holy_Trinity_Cathedral%2C_Addis_Ababa_%283434312871%29.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Cathedral,_Addis_Ababa_(3434312871).jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "b893f013-545c-481b-bf72-984d0fad98d4",
+        "name": "Unity Park",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Unity_ParkU.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Unity_ParkU.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "01dc98e3-aa22-4c97-9cb5-fabd8ae9f263",
+        "name": "Menelik II Palace",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Palacio_de_Menelik_II%2C_Ad%C3%ADs_Abeba%2C_Etiop%C3%ADa%2C_2024-01-19%2C_DD_03.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Palacio_de_Menelik_II,_Ad%C3%ADs_Abeba,_Etiop%C3%ADa,_2024-01-19,_DD_03.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "5e4a5cc1-d3dd-4c5f-bba1-e36a9f7701e6",
+        "name": "Red Terror Martyrs Memorial Museum",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Red_Terror_Martyrs%27_Memorial_Museum_in_Addis_Ababa_02.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Red_Terror_Martyrs%27_Memorial_Museum_in_Addis_Ababa_02.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "69a105ed-0739-4f8f-aaf6-460e74ef6d22",
+        "name": "Ethnological Museum (Addis Ababa University)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Facade_and_entrance_of_the_Ethnological_Museum%2C_Addis_Ababa_%2826430577063%29.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Facade_and_entrance_of_the_Ethnological_Museum,_Addis_Ababa_(26430577063).jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "3ff755aa-0980-4d66-8ff1-fca02750ceae",
+        "name": "Entoto Natural Park",
+        "imageUrl": "https://aacaprac.gov.et/project/entoto-park/kuru_technology_assets/media/0_Addis_Ababa_Park_3.jpg",
+        "sourcePageUrl": "https://aacaprac.gov.et/project/entoto-park/",
+        "source": "official"
+    },
+    {
+        "id": "a9713e6b-b379-44d7-bec8-b0766c299b06",
+        "name": "Sheger Riverside Park",
+        "imageUrl": "https://shabait.com/wp-content/uploads/2020/09/Addis-Ababa-Sheger-River-Project.jpg",
+        "sourcePageUrl": "https://shabait.com/2020/09/12/sheger-project-the-pride-of-addis/",
+        "source": "official"
+    },
+    {
+        "id": "bbe775c9-6acf-40e9-8a2b-28c27aff9606",
+        "name": "Friendship Park",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/AddisView.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:AddisView.jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "e6c552e0-51ae-4f29-bc7d-2d959e912d42",
+        "name": "Addis Ababa Museum",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Addis_Ababa_Museum_%2811243068196%29.jpg",
+        "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Addis_Ababa_Museum_(11243068196).jpg",
+        "source": "wikimedia"
+    },
+    {
+        "id": "5298080e-edb9-467f-820b-c697b866572c",
+        "name": "Africa Hall (UNECA)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/African_Hall_Addis_Abeba.jpg",
+        "sourcePageUrl": "https://en.wikipedia.org/wiki/File:African_Hall_Addis_Abeba.jpg",
+        "source": "wikimedia"
+    }
+]

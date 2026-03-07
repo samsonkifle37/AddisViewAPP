@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bole Ambassador Hotel",
+    "id": "acaabadc-7f2f-4923-b9e2-cd60628bde0b",
+    "type": "hotel",
+    "slug": "bole-ambassador-hotel-hotel",
+    "hasMainRow": true,
+    "imagesCount": 1,
+    "primaryVerifiedExists": false,
+    "imageUrlStored": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Addis_Ababa_Bole_International_Airport.jpg/800px-Addis_Ababa_Bole_International_Airport.jpg",
+    "isSupabaseUrl": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Hotel Lobelia",
+    "id": "fc7ab57d-fb13-4135-9e03-7fffc0521864",
+    "type": "hotel",
+    "slug": "hotel-lobelia-hotel",
+    "hasMainRow": true,
+    "imagesCount": 1,
+    "primaryVerifiedExists": false,
+    "imageUrlStored": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ethiopia_Addis_Ababa_skyline.jpg/800px-Ethiopia_Addis_Ababa_skyline.jpg",
+    "isSupabaseUrl": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Castelli Restaurant",
+    "id": "0473949f-1d6c-45fe-a1cf-327fec892bc7",
+    "type": "restaurant",
+    "slug": "castelli-restaurant-restaurant",
+    "hasMainRow": true,
+    "imagesCount": 1,
+    "primaryVerifiedExists": false,
+    "imageUrlStored": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Castelli_Addis_Ababa.jpg/800px-Castelli_Addis_Ababa.jpg",
+    "isSupabaseUrl": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Five Loaves Restaurant",
+    "id": "91003df1-d60b-440d-baa0-3e7c35c9dcee",
+    "type": "restaurant",
+    "slug": "five-loaves-restaurant-restaurant",
+    "hasMainRow": true,
+    "imagesCount": 1,
+    "primaryVerifiedExists": false,
+    "imageUrlStored": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ethiopian_food_in_Addis_Ababa.jpg/800px-Ethiopian_food_in_Addis_Ababa.jpg",
+    "isSupabaseUrl": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Green Land Tours Ethiopia",
+    "id": "1a63c58c-f940-4b6c-b58c-f351b2ef4e26",
+    "type": "tour_operator",
+    "slug": "green-land-tours-ethiopia-tour_operator",
+    "hasMainRow": true,
+    "imagesCount": 1,
+    "primaryVerifiedExists": false,
+    "imageUrlStored": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Simien_Mountains_National_Park.jpg/800px-Simien_Mountains_National_Park.jpg",
+    "isSupabaseUrl": false,
+    "auditStatus": "ok"
+  }
+]
