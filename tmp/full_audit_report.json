@@ -1,0 +1,1674 @@
+[
+  {
+    "name": "Bole Luxury Apartment",
+    "type": "apartment",
+    "slug": "bole-luxury-apartment",
+    "id": "25824fad-88a3-4922-9169-b1b528f9e853",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Fully furnished luxury apartment in Bole — perfect for famil",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Fendika Cultural Center",
+    "type": "club",
+    "slug": "fendika-cultural-center",
+    "id": "6ae2a42a-b842-4a35-b259-10efd121b63e",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1200",
+      "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Legendary Azmari music venue and cultural center preserving ",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "The Mosaic Hotel",
+    "type": "club",
+    "slug": "the-mosaic-hotel",
+    "id": "03d2a91e-090e-4f51-9288-641dbddeb875",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?w=1200",
+      "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Trendy Bole hotel with a popular rooftop bar featuring live ",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Totot Lounge",
+    "type": "club",
+    "slug": "totot-lounge",
+    "id": "3c10dd29-53e7-4832-b59e-f07bbce0fc85",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=1200",
+      "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Stylish lounge near Edna Mall known for its vibrant nightlif",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Alem Bunna",
+    "type": "coffee",
+    "slug": "alem-bunna-coffee",
+    "id": "b93a5ed4-97bd-4fa7-8c5c-ac2041e1055f",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ethiopian_Coffee_Ceremony.jpg/800px-Ethiopian_Coffee_Ceremony.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "A respected local cafe chain famous among daily commuters.",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Galani Coffee",
+    "type": "coffee",
+    "slug": "galani-coffee-coffee",
+    "id": "04ecbc66-19da-4c15-b1f5-e2e21078d74d",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/galani-coffee-coffee/cover.png"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A highly aesthetically pleasing industrial-chic coffee shop ",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Garden of Coffee",
+    "type": "coffee",
+    "slug": "garden-of-coffee-coffee",
+    "id": "dcf61b97-7e82-49e9-a505-b56ef29531cd",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/garden-of-coffee-coffee/cover.webp"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "An artisan coffee shop where beans are hand-roasted in front",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Kaldi's Coffee (Bole branch)",
+    "type": "coffee",
+    "slug": "kaldis-coffee-bole-branch-coffee",
+    "id": "94582738-ace3-4c76-a4fa-a9a3d82cd279",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/kaldis-coffee-bole-branch-coffee/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Often called the 'Starbucks of Ethiopia', serving strong esp",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Kaldi's Coffee (Kazanchis)",
+    "type": "coffee",
+    "slug": "kaldis-coffee-kazanchis-coffee",
+    "id": "07f95fe3-1d4d-4704-a51f-3b9b92b8b5ff",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/kaldis-coffee-kazanchis-coffee/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A bustling neighborhood branch of the beloved Ethiopian coff",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Moplaco Coffee Shop",
+    "type": "coffee",
+    "slug": "moplaco-coffee-shop-coffee",
+    "id": "aaa13088-bae5-48a0-8c4b-f2a46b1f8551",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/A_cup_of_coffee_with_roasted_coffee_beans.jpg/800px-A_cup_of_coffee_with_roasted_coffee_beans.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "A premium specialty coffee exporter serving exceptional brew",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Tomoca Coffee",
+    "type": "coffee",
+    "slug": "tomoca-coffee-coffee",
+    "id": "76ed8ba7-b890-4ffe-b642-bc5aca5abb36",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/tomoca-coffee-coffee/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "The oldest and most famous coffee roaster in Addis Ababa wit",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Adot Tina Hotel",
+    "type": "guesthouse",
+    "slug": "adot-tina-hotel",
+    "id": "f36e090e-cc60-4a56-a932-fac45b0a3f13",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200",
+      "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Boutique guesthouse in Bole offering personalized service an",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Z Guest House",
+    "type": "guesthouse",
+    "slug": "z-guest-house",
+    "id": "c9afc042-45e6-44db-9a62-13973d704f93",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=1200",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Charming budget-friendly guesthouse in the historic Arada di",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Best Western Plus Addis Ababa",
+    "type": "hotel",
+    "slug": "best-western-plus-addis-ababa-hotel",
+    "id": "80c2fb2e-a2b8-43eb-82c1-3627d892e13d",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/best-western-plus-addis-ababa-hotel/cover.webp"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A highly-rated, comfortable western-style hotel right near t",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Bole Ambassador Hotel",
+    "type": "hotel",
+    "slug": "bole-ambassador-hotel-hotel",
+    "id": "acaabadc-7f2f-4923-b9e2-cd60628bde0b",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Addis_Ababa_Bole_International_Airport.jpg/800px-Addis_Ababa_Bole_International_Airport.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "A well-established staple in the Bole area, close to all the",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Capital Hotel & Spa",
+    "type": "hotel",
+    "slug": "capital-hotel-and-spa-hotel",
+    "id": "15f1f8aa-f5a2-484b-9f46-612ff2c2a157",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/capital-hotel-and-spa-hotel/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A five-star experience known for its expansive fitness and s",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Ethiopian Skylight Hotel",
+    "type": "hotel",
+    "slug": "ethiopian-skylight-hotel",
+    "id": "b759254e-f009-4345-984e-1d8dd2ccb5b8",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1200",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Modern luxury hotel operated by Ethiopian Airlines, strategi",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Golden Tulip Addis Ababa",
+    "type": "hotel",
+    "slug": "golden-tulip-addis-ababa-hotel",
+    "id": "51efc284-9cc3-4b54-857c-b73acb4fa5c8",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/golden-tulip-addis-ababa-hotel/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A reliable, modern upscale hotel situated in the lively Bole",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Haile Grand Addis Ababa",
+    "type": "hotel",
+    "slug": "haile-grand-addis-ababa",
+    "id": "5008bf5f-1ac7-42ff-a20d-840b7a6a1a63",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=1200",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Flagship Ethiopian-owned luxury hotel by Olympic champion Ha",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Harmony Hotel Addis Ababa",
+    "type": "hotel",
+    "slug": "harmony-hotel-addis-ababa-hotel",
+    "id": "7352b79a-c758-45d1-a438-a43ba11d3b27",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/harmony-hotel-addis-ababa-hotel/cover.gif"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Offering spacious rooms and a large indoor swimming pool.",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Hotel Lobelia",
+    "type": "hotel",
+    "slug": "hotel-lobelia-hotel",
+    "id": "fc7ab57d-fb13-4135-9e03-7fffc0521864",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ethiopia_Addis_Ababa_skyline.jpg/800px-Ethiopia_Addis_Ababa_skyline.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "A very popular and budget-friendly choice with clean rooms a",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Hyatt Regency Addis Ababa",
+    "type": "hotel",
+    "slug": "hyatt-regency-addis-ababa-hotel",
+    "id": "63c933a0-bc78-443b-b489-ea6af97547f7",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Inside_the_African_Union%2C_Addis_Ababa_%282%29.jpg/800px-Inside_the_African_Union%2C_Addis_Ababa_%282%29.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "A sleek, modern luxury hotel located centrally in Meskel Squ",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Hyatt Regency Addis Ababa",
+    "type": "hotel",
+    "slug": "hyatt-regency-addis-ababa",
+    "id": "0483a594-e04c-483e-a75b-36b5385d6d34",
+    "primary_image_present": "yes",
+    "gallery_count": 3,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/hyatt-regency-addis-ababa/cover.webp",
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/hyatt-regency-addis-ababa/cover.webp",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1200"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Five-star luxury hotel overlooking Meskel Square in the hear",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Jupiter International Hotel",
+    "type": "hotel",
+    "slug": "jupiter-international-hotel-hotel",
+    "id": "cee4b837-89e0-498a-bf19-01d55c6cb343",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/jupiter-international-hotel-hotel/cover.avif"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A fantastic mid-range option with excellent hospitality and ",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Mado Hotel",
+    "type": "hotel",
+    "slug": "mado-hotel",
+    "id": "1d442578-3821-461e-9896-6c307a290a8f",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1200",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Stylish mid-range hotel in the vibrant Bole district, offeri",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Marriott Executive Apartments Addis Ababa",
+    "type": "hotel",
+    "slug": "marriott-executive-apartments-addis-ababa-hotel",
+    "id": "8a5f9ab7-e183-401e-bad6-e7a40834b32f",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/marriott-executive-apartments-addis-ababa-hotel/cover.avif"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Luxury extended-stay apartments perfect for international bu",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Radisson Blu Addis Ababa",
+    "type": "hotel",
+    "slug": "radisson-blu-addis-ababa-hotel",
+    "id": "2babe647-79db-46d5-8ec9-0be1a3e3dcde",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/radisson-blu-addis-ababa-hotel/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A top-tier business hotel in the Kazanchis diplomatic distri",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Sheraton Addis",
+    "type": "hotel",
+    "slug": "sheraton-addis-hotel",
+    "id": "55758457-2ee2-4e96-b80a-1922c6828ad7",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/sheraton-addis-hotel/cover.webp"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "The pinnacle of luxury in Addis Ababa, featuring majestic po",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Atikilt Tera vegetable market",
+    "type": "market",
+    "slug": "atikilt-tera-vegetable-market-market",
+    "id": "6fad0b58-712a-4e40-8326-f7bbb96927e2",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/atikilt-tera-vegetable-market-market/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "The city's main terminal market for fresh fruit, vegetables,",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Merkato Market",
+    "type": "market",
+    "slug": "merkato-market-market",
+    "id": "bc084d3e-d053-4bef-b040-5b0b7e0717ba",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/merkato-market-market/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "One of the largest open-air markets in Africa, where you can",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Piazza Market Area",
+    "type": "market",
+    "slug": "piazza-market-area-market",
+    "id": "8d060891-4515-4709-9166-b9ffa7d259e8",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/piazza-market-area-market/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A historic Italian-influenced shopping district famous for i",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Sabon Tera Market",
+    "type": "market",
+    "slug": "sabon-tera-market-market",
+    "id": "04400156-bfb9-43f9-9bf7-1034e0ddad96",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/sabon-tera-market-market/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A vibrant market specializing in wholesale goods, soaps, and",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Shiromeda Market",
+    "type": "market",
+    "slug": "shiromeda-market-market",
+    "id": "15a78687-228f-4483-a312-1b7964d2a11a",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/shiromeda-market-market/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "The absolute best place in the city to buy traditional Ethio",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Shola Market",
+    "type": "market",
+    "slug": "shola-market-market",
+    "id": "5dd786b9-a7e0-485c-a10a-31193c36f70f",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/shola-market-market/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A more relaxed but massive traditional market perfect for sp",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Addis Ababa Museum",
+    "type": "museum",
+    "slug": "addis-ababa-museum-museum",
+    "id": "e6c552e0-51ae-4f29-bc7d-2d959e912d42",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/addis-ababa-museum-museum/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A museum showcasing the growth and development of the capita",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Africa Hall (UNECA)",
+    "type": "museum",
+    "slug": "africa-hall-uneca-museum",
+    "id": "5298080e-edb9-467f-820b-c697b866572c",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/africa-hall-uneca-museum/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A historic landmark where the Organization of African Unity ",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Ethnological Museum (Addis Ababa University)",
+    "type": "museum",
+    "slug": "ethnological-museum-addis-ababa-university-museum",
+    "id": "69a105ed-0739-4f8f-aaf6-460e74ef6d22",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/ethnological-museum-addis-ababa-university-museum/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Housed in Haile Selassie's former palace, offering deep insi",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Holy Trinity Cathedral",
+    "type": "museum",
+    "slug": "holy-trinity-cathedral-museum",
+    "id": "55292ed7-896c-41c8-a231-d31cca7ac877",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/holy-trinity-cathedral-museum/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "The most important Orthodox cathedral in Ethiopia, housing t",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Menelik II Palace",
+    "type": "museum",
+    "slug": "menelik-ii-palace-museum",
+    "id": "01dc98e3-aa22-4c97-9cb5-fabd8ae9f263",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/menelik-ii-palace-museum/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "The first palace constructed in Addis Ababa, serving as the ",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "National Museum of Ethiopia",
+    "type": "museum",
+    "slug": "national-museum-of-ethiopia-museum",
+    "id": "ec1799e8-c537-45da-8f35-d700cd7da045",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/80/Ethiopian_National_Museum_in_Addis_Ababa.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "Home of the famous Lucy fossil and Ethiopia's most important",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": true,
+    "auditStatus": "broken"
+  },
+  {
+    "name": "Red Terror Martyrs Memorial Museum",
+    "type": "museum",
+    "slug": "red-terror-martyrs-memorial-museum-museum",
+    "id": "5e4a5cc1-d3dd-4c5f-bba1-e36a9f7701e6",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/red-terror-martyrs-memorial-museum-museum/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A solemn museum dedicated to the victims of the Derg regime'",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "St George Cathedral",
+    "type": "museum",
+    "slug": "st-george-cathedral-museum",
+    "id": "a8cfc05a-fa93-433f-9d56-902d403d3d38",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/st-george-cathedral-museum/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "An iconic octagonal cathedral commissioned by Emperor Meneli",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Unity Park",
+    "type": "museum",
+    "slug": "unity-park-museum",
+    "id": "b893f013-545c-481b-bf72-984d0fad98d4",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/unity-park-museum/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Located within the Grand Palace compound, featuring historic",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Yekatit 12 Monument",
+    "type": "museum",
+    "slug": "yekatit-12-monument-museum",
+    "id": "6e20c408-5158-4c2b-8043-f2ab48f948a3",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/yekatit-12-monument-museum/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A monument honoring victims of the Graziani massacre in Piaz",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Addis Ababa Lion Zoo",
+    "type": "park",
+    "slug": "addis-ababa-lion-zoo-park",
+    "id": "b02f6729-f491-4cce-b03a-f79d216e51bf",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/addis-ababa-lion-zoo-park/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A historic zoo known for housing the rare black-maned Ethiop",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Entoto Maryam Church area",
+    "type": "park",
+    "slug": "entoto-maryam-church-area-park",
+    "id": "a41f8bec-ffa5-4879-a201-e1a018b77074",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/entoto-maryam-church-area-park/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "An ancient church at the top of Mount Entoto surrounded by e",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Entoto Natural Park",
+    "type": "park",
+    "slug": "entoto-natural-park-park",
+    "id": "3ff755aa-0980-4d66-8ff1-fca02750ceae",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/entoto-natural-park-park/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A vast natural retreat overlooking Addis Ababa, offering hik",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Friendship Park",
+    "type": "park",
+    "slug": "friendship-park-park",
+    "id": "bbe775c9-6acf-40e9-8a2b-28c27aff9606",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/friendship-park-park/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A central park featuring modern landscaping, water features,",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Gulele Botanical Garden",
+    "type": "park",
+    "slug": "gulele-botanical-garden-park",
+    "id": "28fdff2f-042b-4a84-ad61-8507d784d62c",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/gulele-botanical-garden-park/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "The country's first botanical garden, preserving thousands o",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Mount Entoto viewpoint",
+    "type": "park",
+    "slug": "mount-entoto-viewpoint-park",
+    "id": "1b8cc80b-c760-42d6-842b-eb2cfdcbb885",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/mount-entoto-viewpoint-park/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "The absolute best panoramic viewing spot of the entire Addis",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Sheger Riverside Park",
+    "type": "park",
+    "slug": "sheger-riverside-park-park",
+    "id": "a9713e6b-b379-44d7-bec8-b0766c299b06",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/sheger-riverside-park-park/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A beautiful, newly developed park along the rivers of the ci",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Unity Park Gardens",
+    "type": "park",
+    "slug": "unity-park-gardens-park",
+    "id": "abe23c46-3ee8-421a-bfe6-a56197efdd75",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/unity-park-gardens-park/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "The beautifully curated gardens inside the historic Unity Pa",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Kuriftu Resort & Spa",
+    "type": "resort",
+    "slug": "kuriftu-resort-spa",
+    "id": "e3e222fd-194a-41a3-a046-91c619deba8e",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=1200",
+      "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Ethiopia's premier resort chain with lakeside properties off",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "2000 Habesha Cultural Restaurant",
+    "type": "restaurant",
+    "slug": "2000-habesha-cultural-restaurant-restaurant",
+    "id": "78677cb0-1792-40fd-b7ba-6191db1b3b9c",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ethiopian_food_on_a_large_injera.jpg/800px-Ethiopian_food_on_a_large_injera.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "Spacious venue offering a deep dive into Ethiopian culinary ",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "2000 Habesha Cultural Restaurant",
+    "type": "restaurant",
+    "slug": "2000-habesha-cultural-restaurant",
+    "id": "85368033-8861-495e-8bef-c684b5e6ece3",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/2000-habesha-cultural-restaurant/cover.jpeg",
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/2000-habesha-cultural-restaurant/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Grand Ethiopian cultural dining venue at Bole Atlas, famous ",
+    "maps_link_present": false,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Castelli Restaurant",
+    "type": "restaurant",
+    "slug": "castelli-restaurant-restaurant",
+    "id": "0473949f-1d6c-45fe-a1cf-327fec892bc7",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Castelli_Addis_Ababa.jpg/800px-Castelli_Addis_Ababa.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "A historic, world-class Italian restaurant in Piazza, freque",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Dashen Traditional Restaurant",
+    "type": "restaurant",
+    "slug": "dashen-traditional-restaurant-restaurant",
+    "id": "57d8a146-0fda-412f-9ebc-994d8d3cb1d9",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/dashen-traditional-restaurant-restaurant/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A quieter, more intimate traditional dining experience set i",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Five Loaves Restaurant",
+    "type": "restaurant",
+    "slug": "five-loaves-restaurant-restaurant",
+    "id": "91003df1-d60b-440d-baa0-3e7c35c9dcee",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ethiopian_food_in_Addis_Ababa.jpg/800px-Ethiopian_food_in_Addis_Ababa.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "A charming bistro and bakery known for its incredible pastri",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Habesha 2000",
+    "type": "restaurant",
+    "slug": "habesha-2000-restaurant",
+    "id": "f2ee20ab-9727-4445-9ab9-325b2ba0a4ea",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/habesha-2000-restaurant/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Another premier traditional restaurant experience with huge ",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Kategna Restaurant",
+    "type": "restaurant",
+    "slug": "kategna-restaurant-restaurant",
+    "id": "f2c31d57-12d0-4082-8aac-d1ac47be2872",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/kategna-restaurant-restaurant/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A modern, upscale take on traditional Ethiopian food, highly",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Lucy Lounge",
+    "type": "restaurant",
+    "slug": "lucy-lounge-restaurant",
+    "id": "bbb32171-f4ee-4e7d-aeef-1f59cb81db22",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ethiopia_Addis_Ababa_skyline.jpg/800px-Ethiopia_Addis_Ababa_skyline.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "A relaxed, sophisticated dining spot conveniently located ne",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Sishu Restaurant",
+    "type": "restaurant",
+    "slug": "sishu-restaurant-restaurant",
+    "id": "c91e1910-878e-4bd5-8dc4-d00870fa0e10",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/800px-Good_Food_Display_-_NCI_Visuals_Online.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "Famous for serving the absolute best burgers in Addis Ababa ",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Totot Traditional Restaurant",
+    "type": "restaurant",
+    "slug": "totot-traditional-restaurant",
+    "id": "0683b824-4a9e-423d-8b50-ad0b2c54fe9c",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Beloved traditional restaurant in Gerji known for its vibran",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Yod Abyssinia",
+    "type": "restaurant",
+    "slug": "yod-abyssinia-restaurant",
+    "id": "ea1704ef-1e40-485d-b23b-abf23015615c",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ethiopian_Coffee_Ceremony.jpg/800px-Ethiopian_Coffee_Ceremony.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "A legendary cultural restaurant offering traditional food an",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Yod Abyssinia Cultural Restaurant",
+    "type": "restaurant",
+    "slug": "yod-abyssinia-cultural-restaurant",
+    "id": "eda3476e-a143-497d-8185-135169dd669a",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200",
+      "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Award-winning cultural restaurant featuring traditional Ethi",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Addis City Highlights Tour",
+    "type": "tour",
+    "slug": "addis-city-highlights-tour-tour",
+    "id": "91962938-38ba-469c-ae6d-7889d7d741d4",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/tours/addis-city-highlights-tour-tour/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A full-day guided excursion covering the top monuments and m",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Addis Food Tour",
+    "type": "tour",
+    "slug": "addis-food-tour-tour",
+    "id": "05c48f7f-ff4d-47c6-9e34-c2288dd3fc17",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/tours/addis-food-tour-tour/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A culinary journey tasting injera, raw meat delicacies, and ",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Addis Nightlife Tour",
+    "type": "tour",
+    "slug": "addis-nightlife-tour-tour",
+    "id": "09dab671-528d-4c5f-a620-4e8e9e826c04",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/tours/addis-nightlife-tour-tour/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Experience the vibrant clubs, azmari bets (traditional bars)",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Bale Mountains National Park",
+    "type": "tour",
+    "slug": "bale-mountains-national-park",
+    "id": "dc7b52a3-d5d5-4f16-9e25-de4e50475120",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Home to the rare Ethiopian wolf and giant lobelia, the Bale ",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Coffee Ceremony Experience",
+    "type": "tour",
+    "slug": "coffee-ceremony-experience-tour",
+    "id": "05269324-2f89-416b-9fda-831a60fa8923",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/tours/coffee-ceremony-experience-tour/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A traditional, multi-step process showing how Ethiopians roa",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Danakil Depression Tour",
+    "type": "tour",
+    "slug": "danakil-depression-tour",
+    "id": "5e61b482-8084-4c04-9c2c-4c0ef25e0962",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1200",
+      "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Journey to one of Earth's most extreme and surreal landscape",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Entoto Mountain Tour",
+    "type": "tour",
+    "slug": "entoto-mountain-tour-tour",
+    "id": "1e9e4de8-9695-42cd-9c2f-2059cfa6711e",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/tours/entoto-mountain-tour-tour/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A scenic drive into the mountains surrounding the city, incl",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Entoto Natural Park",
+    "type": "tour",
+    "slug": "entoto-natural-park",
+    "id": "439c6f09-b352-402b-8361-5880c2eb692c",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200",
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Lush urban nature park atop Mount Entoto with hiking trails,",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Historical Addis Walking Tour",
+    "type": "tour",
+    "slug": "historical-addis-walking-tour-tour",
+    "id": "70ca6741-8a47-4576-92ee-d3c926cdf277",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/tours/historical-addis-walking-tour-tour/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Explore the Piazza district and learn about the city's found",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Merkato Market Tour",
+    "type": "tour",
+    "slug": "merkato-market-tour-tour",
+    "id": "311eb0dd-2691-4dbe-831a-bef6166180a0",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/tours/merkato-market-tour-tour/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A guided navigation through the chaotic, vibrant aisles of A",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Rock-Hewn Churches of Lalibela",
+    "type": "tour",
+    "slug": "rock-hewn-churches-of-lalibela",
+    "id": "94c62025-e2a7-4c16-9f40-1e15b03d0f86",
+    "primary_image_present": "yes",
+    "gallery_count": 2,
+    "image_urls": [
+      "https://images.unsplash.com/photo-1621252179027-94459d278660?w=1200",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1200"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "UNESCO World Heritage site featuring 11 medieval monolithic ",
+    "maps_link_present": true,
+    "website_present": true,
+    "contact_present": true,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Unity Park Guided Tour",
+    "type": "tour",
+    "slug": "unity-park-guided-tour-tour",
+    "id": "a874eee5-b7c4-4bf6-af48-a540b850fab0",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/tours/unity-park-guided-tour-tour/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A deep dive into the history of the Ethiopian monarchy withi",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Ethio Travel and Tours",
+    "type": "tour_operator",
+    "slug": "ethio-travel-and-tours-tour_operator",
+    "id": "2a3a9df3-9808-4470-a1cc-67cca69eb7c3",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Simien_Mountains_National_Park.jpg/800px-Simien_Mountains_National_Park.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "The leading company for comprehensive Ethiopian excursions.",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "ETT Tours Ethiopia",
+    "type": "tour_operator",
+    "slug": "ett-tours-ethiopia-tour_operator",
+    "id": "7fb2df11-87ed-4b0d-87eb-c300b00076d2",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/ett-tours-ethiopia-tour_operator/cover.png"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "One of the most affordable and robust group-tour operators f",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Green Land Tours Ethiopia",
+    "type": "tour_operator",
+    "slug": "green-land-tours-ethiopia-tour_operator",
+    "id": "1a63c58c-f940-4b6c-b58c-f351b2ef4e26",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Simien_Mountains_National_Park.jpg/800px-Simien_Mountains_National_Park.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "A highly experienced and premium tour operator established d",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Simien Eco Tours",
+    "type": "tour_operator",
+    "slug": "simien-eco-tours-tour_operator",
+    "id": "02eed363-7f82-43f8-a023-9d47b74f4ce9",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/simien-eco-tours-tour_operator/cover.webp"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Specialists in ethical, high-quality trekking tours in the S",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Travel Ethiopia",
+    "type": "tour_operator",
+    "slug": "travel-ethiopia-tour_operator",
+    "id": "f5ac02f7-9166-48b7-b0d5-19fb7f198c4e",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/travel-ethiopia-tour_operator/cover.png"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "A professional agency providing curated travel experiences a",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Addis Airport Taxi",
+    "type": "transport",
+    "slug": "addis-airport-taxi-transport",
+    "id": "fca5c18d-e7ae-4524-871d-beae0653aaee",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/addis-airport-taxi-transport/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "The official yellow cabs servicing Bole International Airpor",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Feres Ride",
+    "type": "transport",
+    "slug": "feres-ride-transport",
+    "id": "81b346e0-1f00-4030-9dd1-0fe270f20779",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Addis_Ababa_Light_Rail_vehicle%2C_March_2015.jpg/800px-Addis_Ababa_Light_Rail_vehicle%2C_March_2015.jpg"
+    ],
+    "has_supabase_image": false,
+    "has_wikimedia_image": true,
+    "description_present": true,
+    "short_desc": "A highly competitive ride-hailing app known for offering zer",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "PickPick Taxi",
+    "type": "transport",
+    "slug": "pickpick-taxi-transport",
+    "id": "de48d1fb-fcba-4cc7-a67c-e33abc21b894",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/pickpick-taxi-transport/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "Instantly recognizable yellow and green metered taxis across",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "Ride Ethiopia",
+    "type": "transport",
+    "slug": "ride-ethiopia-transport",
+    "id": "a17bcbd1-50fa-435c-ae7d-d520e12d94a2",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/ride-ethiopia-transport/cover.jpeg"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "The most popular, Uber-like ride-hailing app in the country.",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  },
+  {
+    "name": "ZayRide",
+    "type": "transport",
+    "slug": "zayride-transport",
+    "id": "f21bb1b5-10de-4039-bb7e-fe9efb987ed8",
+    "primary_image_present": "yes",
+    "gallery_count": 1,
+    "image_urls": [
+      "https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/zayride-transport/cover.png"
+    ],
+    "has_supabase_image": true,
+    "has_wikimedia_image": false,
+    "description_present": true,
+    "short_desc": "An early pioneer in the Ethiopian ride-hailing and taxi book",
+    "maps_link_present": true,
+    "website_present": false,
+    "contact_present": false,
+    "auditStatus": "ok"
+  }
+]
