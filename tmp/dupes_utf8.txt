@@ -1,0 +1,271 @@
+﻿
+===========================================
+­ƒöì  ADDISVIEW DUPLICATE IMAGE AUDIT  ­ƒöì
+===========================================
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/c/c1/Ramada_Addis%2C_Addis_Ababa.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/c/c1/Ramada_Addis%2C_Addis_Ababa.jpg
+Source : wikimedia
+  - Ramada Addis (Slug: ramada-addis)
+  - Ramada Addis (Slug: ramada-addis-1)
+
+[DUPLICATE GROUP] SHARED BY 3 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/a/a7/Golden_Tulip_Addis_Ababa_Hotel_External.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/a/a7/Golden_Tulip_Addis_Ababa_Hotel_External.jpg
+Source : wikimedia
+  - Golden Tulip Addis (Slug: golden-tulip-addis)
+  - Golden Tulip Addis (Slug: golden-tulip-addis-4)
+  - Golden Tulip Addis (Slug: golden-tulip-addis-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/7/78/Senaf%C3%A9%2C_bouganville_nel_giardino_dell%27ex-Momona_hotel_01.JPG
+Image  : https://upload.wikimedia.org/wikipedia/commons/7/78/Senaf%C3%A9%2C_bouganville_nel_giardino_dell%27ex-Momona_hotel_01.JPG
+Source : wikimedia
+  - Momona Hotel (Slug: momona-hotel)
+  - Momona Hotel (Slug: momona-hotel-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/8/84/View_from_Addis_Hilton_-_Flickr_-_Dave_Proffer.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/8/84/View_from_Addis_Hilton_-_Flickr_-_Dave_Proffer.jpg
+Source : wikimedia
+  - Hilton Addis Ababa (Slug: hilton-addis-ababa-2)
+  - Hilton Addis Ababa (Slug: hilton-addis-ababa-9)
+
+[DUPLICATE GROUP] SHARED BY 4 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/f/f0/Addis-sheraton.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/f/f0/Addis-sheraton.jpg
+Source : wikimedia
+  - Sheraton Addis (Slug: sheraton-addis-4)
+  - Sheraton Addis (Slug: sheraton-addis-5)
+  - Sheraton Addis (Slug: sheraton-addis-2)
+  - Sheraton Addis (Slug: sheraton-addis-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/c/c4/Hotel_Hilton_in_Addis_Abeba.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/c/c4/Hotel_Hilton_in_Addis_Abeba.jpg
+Source : wikimedia
+  - Hilton Addis Ababa (Slug: hilton-addis-ababa-4)
+  - Hilton Addis Ababa (Slug: hilton-addis-ababa-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/5/5f/Dil_Chora_Hospital%2C_Dire_Dawa%2C_Ethiopia%2C_2010_%285117158873%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/5/5f/Dil_Chora_Hospital%2C_Dire_Dawa%2C_Ethiopia%2C_2010_%285117158873%29.jpg
+Source : wikimedia
+  - Coffee Ceremony Experience (Slug: coffee-ceremony-experience)
+  - Coffee Ceremony Experience (Slug: coffee-ceremony-experience-6)
+
+[DUPLICATE GROUP] SHARED BY 4 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/1/1e/Citrus_Swallowtail_on_Bottlebrush_Flower_in_the_Precincts_of_the_Holy_Trinity_Cathedral_%283434350183%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/1/1e/Citrus_Swallowtail_on_Bottlebrush_Flower_in_the_Precincts_of_the_Holy_Trinity_Cathedral_%283434350183%29.jpg
+Source : wikimedia
+  - Holy Trinity Cathedral Tour (Slug: holy-trinity-cathedral-tour)
+  - Holy Trinity Cathedral Tour (Slug: holy-trinity-cathedral-tour-2)
+  - Holy Trinity Cathedral Tour (Slug: holy-trinity-cathedral-tour-4)
+  - Holy Trinity Cathedral Tour (Slug: holy-trinity-cathedral-tour-5)
+
+[DUPLICATE GROUP] SHARED BY 5 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/e/e2/African_Bamboo_Product_Innovation_Lab_%2812318906175%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/e/e2/African_Bamboo_Product_Innovation_Lab_%2812318906175%29.jpg
+Source : wikimedia
+  - Addis Food Tour (Slug: addis-food-tour)
+  - Addis Food Tour (Slug: addis-food-tour-2)
+  - Addis Food Tour (Slug: addis-food-tour-5)
+  - Addis Food Tour (Slug: addis-food-tour-10)
+  - Addis Food Tour (Slug: addis-food-tour-1)
+
+[DUPLICATE GROUP] SHARED BY 3 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/a/a3/Dil_Chora_Hospital%2C_Dire_Dawa%2C_Ethiopia%2C_2010_%285117763614%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/a/a3/Dil_Chora_Hospital%2C_Dire_Dawa%2C_Ethiopia%2C_2010_%285117763614%29.jpg
+Source : wikimedia
+  - Coffee Ceremony Experience (Slug: coffee-ceremony-experience-2)
+  - Coffee Ceremony Experience (Slug: coffee-ceremony-experience-8)
+  - Coffee Ceremony Experience (Slug: coffee-ceremony-experience-7)
+
+[DUPLICATE GROUP] SHARED BY 4 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/4/49/Tibs_in_Yod_Abyssinia.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/4/49/Tibs_in_Yod_Abyssinia.jpg
+Source : wikimedia
+  - Yod Abyssinia (Slug: yod-abyssinia)
+  - Yod Abyssinia (Slug: yod-abyssinia-4)
+  - Yod Abyssinia (Slug: yod-abyssinia-8)
+  - Yod Abyssinia (Slug: yod-abyssinia-1)
+
+[DUPLICATE GROUP] SHARED BY 4 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/b/b8/Ancient_Blocks_With_Sabaean_Inscriptions%2C_Yeha%2C_Ethiopia_%283146498586%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/b/b8/Ancient_Blocks_With_Sabaean_Inscriptions%2C_Yeha%2C_Ethiopia_%283146498586%29.jpg
+Source : wikimedia
+  - Habesha (Slug: habesha-2000)
+  - Habesha 2000 (Slug: habesha-2000-2)
+  - Habesha 2000 (Slug: habesha-2000-5)
+  - Habesha 2000 (Slug: habesha-2000-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/c/ce/LucyEthiopianRestaurantHouston.JPG
+Image  : https://upload.wikimedia.org/wikipedia/commons/c/ce/LucyEthiopianRestaurantHouston.JPG
+Source : wikimedia
+  - Lucy Restaurant (Slug: lucy-restaurant)
+  - Lucy Restaurant (Slug: lucy-restaurant-1)
+
+[DUPLICATE GROUP] SHARED BY 7 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/a/ab/Ethiopian_Folk_Group_%2811349425026%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/a/ab/Ethiopian_Folk_Group_%2811349425026%29.jpg
+Source : wikimedia
+  - 2000 Habesha Cultural Restaurant (Slug: 2000-habesha-cultural-restaurant)
+  - Habesha 2000 (Slug: habesha-2000-9)
+  - 2000 Habesha Cultural Restaurant (Slug: 2000-habesha-cultural-restaurant-9)
+  - Habesha 2000 (Slug: habesha-2000-10)
+  - 2000 Habesha Cultural Restaurant (Slug: 2000-habesha-cultural-restaurant-10)
+  ... and 2 more.
+
+[DUPLICATE GROUP] SHARED BY 5 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/6/6a/African_Bamboo_Product_Innovation_Lab_%2812319080523%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/6/6a/African_Bamboo_Product_Innovation_Lab_%2812319080523%29.jpg
+Source : wikimedia
+  - The Kitchen Addis (Slug: the-kitchen-addis)
+  - The Kitchen Addis (Slug: the-kitchen-addis-2)
+  - The Kitchen Addis (Slug: the-kitchen-addis-5)
+  - The Kitchen Addis (Slug: the-kitchen-addis-8)
+  - The Kitchen Addis (Slug: the-kitchen-addis-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/f/f3/Vacuum_coffee_maker_with_coffee_in_Brno%2C_Brno-City_District.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/f/f3/Vacuum_coffee_maker_with_coffee_in_Brno%2C_Brno-City_District.jpg
+Source : wikimedia
+  - KaldiÔÇÖs Coffee (Slug: kaldis-coffee)
+  - KaldiÔÇÖs Coffee (Slug: kaldis-coffee-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/8/83/Ethiopia_IMG_5782_Addis_Abeba_%2825052967317%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/8/83/Ethiopia_IMG_5782_Addis_Abeba_%2825052967317%29.jpg
+Source : wikimedia
+  - Fendika Cultural Center (Slug: fendika-cultural-center)
+  - Fendika Cultural Center (Slug: fendika-cultural-center-1)
+
+[DUPLICATE GROUP] SHARED BY 4 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/0/08/Tomoca%2C_Kaffa_Coffee_House%2C_Addis_%2812586176153%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/0/08/Tomoca%2C_Kaffa_Coffee_House%2C_Addis_%2812586176153%29.jpg
+Source : wikimedia
+  - Tomoca Coffee (Slug: tomoca-coffee-2)
+  - Tomoca Coffee (Slug: tomoca-coffee-3)
+  - Tomoca Coffee (Slug: tomoca-coffee)
+  - Tomoca Coffee (Slug: tomoca-coffee-1)
+
+[DUPLICATE GROUP] SHARED BY 4 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/5/55/National_museum_of_Ethiopia_New_facility.JPG
+Image  : https://upload.wikimedia.org/wikipedia/commons/5/55/National_museum_of_Ethiopia_New_facility.JPG
+Source : wikimedia
+  - National Museum (Slug: national-museum)
+  - Addis Ababa Museum (Slug: addis-ababa-museum)
+  - National Museum (Slug: national-museum-1)
+  - Addis Ababa Museum (Slug: addis-ababa-museum-1)
+
+[DUPLICATE GROUP] SHARED BY 4 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/7/70/Unity_Park_Addis_Ababa_Ethiopia_2.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/7/70/Unity_Park_Addis_Ababa_Ethiopia_2.jpg
+Source : wikimedia
+  - Unity Park (Slug: unity-park)
+  - Unity Park (Slug: unity-park-4)
+  - Unity Park (Slug: unity-park-2)
+  - Unity Park (Slug: unity-park-1)
+
+[DUPLICATE GROUP] SHARED BY 3 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/8/8d/Red_Terror_Martyrs%27_Memorial_Museum_in_Addis_Ababa_02.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/8/8d/Red_Terror_Martyrs%27_Memorial_Museum_in_Addis_Ababa_02.jpg
+Source : wikimedia
+  - Red Terror Museum (Slug: red-terror-museum)
+  - Red Terror Museum (Slug: red-terror-museum-4)
+  - Red Terror Museum (Slug: red-terror-museum-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/6/6c/Panoramic_View_of_the_Holy_Trinity_Cathedral%2C_Addis_Ababa%2C_Ethiopia_%283435906326%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/6/6c/Panoramic_View_of_the_Holy_Trinity_Cathedral%2C_Addis_Ababa%2C_Ethiopia_%283435906326%29.jpg
+Source : wikimedia
+  - Holy Trinity Cathedral (Slug: holy-trinity-cathedral)
+  - Holy Trinity Cathedral (Slug: holy-trinity-cathedral-1)
+
+[DUPLICATE GROUP] SHARED BY 3 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/b/b7/Katedr%C3%A1la_sv._Ji%C5%99%C3%AD.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/b/b7/Katedr%C3%A1la_sv._Ji%C5%99%C3%AD.jpg
+Source : wikimedia
+  - St George Cathedral (Slug: st-george-cathedral)
+  - St George Cathedral (Slug: st-george-cathedral-3)
+  - St George Cathedral (Slug: st-george-cathedral-1)
+
+[DUPLICATE GROUP] SHARED BY 4 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/9/9e/Merkato_Market_-_Flickr_-_Dave_Proffer.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/9/9e/Merkato_Market_-_Flickr_-_Dave_Proffer.jpg
+Source : wikimedia
+  - Merkato Market (Slug: merkato-market)
+  - Merkato Market (Slug: merkato-market-2)
+  - Merkato Market (Slug: merkato-market-4)
+  - Merkato Market (Slug: merkato-market-1)
+
+[DUPLICATE GROUP] SHARED BY 4 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/e/ed/Thierry_%26_Addis_Ababa_from_Entoto_%2816960248478%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/e/ed/Thierry_%26_Addis_Ababa_from_Entoto_%2816960248478%29.jpg
+Source : wikimedia
+  - Entoto Park (Slug: entoto-park)
+  - Entoto Park (Slug: entoto-park-2)
+  - Entoto Park (Slug: entoto-park-4)
+  - Entoto Park (Slug: entoto-park-1)
+
+[DUPLICATE GROUP] SHARED BY 3 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/b/bb/Judsk%C3%BD_lev%2C_Addis_Abeba.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/b/bb/Judsk%C3%BD_lev%2C_Addis_Abeba.jpg
+Source : wikimedia
+  - Lion of Judah Monument (Slug: lion-of-judah-monument)
+  - Lion of Judah Monument (Slug: lion-of-judah-monument-2)
+  - Lion of Judah Monument (Slug: lion-of-judah-monument-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/8/89/Friendship_Square%2C_Dalian.JPG
+Image  : https://upload.wikimedia.org/wikipedia/commons/8/89/Friendship_Square%2C_Dalian.JPG
+Source : wikimedia
+  - Friendship Park (Slug: friendship-park)
+  - Friendship Park (Slug: friendship-park-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/6/69/Emperor_Menelik_II%27s_Humble_Palace%2C_Addis_Abeba%2C_Ethiopia.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/6/69/Emperor_Menelik_II%27s_Humble_Palace%2C_Addis_Abeba%2C_Ethiopia.jpg
+Source : wikimedia
+  - Menelik II Palace (Slug: menelik-ii-palace)
+  - Menelik II Palace (Slug: menelik-ii-palace-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/b/b2/Adeola_and_H.E_Thabo_Mbeki%2C_Immediate_past_president_of_South_Africa_at_the_African_Union_Headquarters_in_Addis_Ababa%2C_Ethiopia.JPG
+Image  : https://upload.wikimedia.org/wikipedia/commons/b/b2/Adeola_and_H.E_Thabo_Mbeki%2C_Immediate_past_president_of_South_Africa_at_the_African_Union_Headquarters_in_Addis_Ababa%2C_Ethiopia.JPG
+Source : wikimedia
+  - African Union Headquarters (Slug: african-union-headquarters)
+  - African Union Headquarters (Slug: african-union-headquarters-1)
+
+[DUPLICATE GROUP] SHARED BY 4 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/4/49/Entoto_Maryam_Church%2C_Ethiopia.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/4/49/Entoto_Maryam_Church%2C_Ethiopia.jpg
+Source : wikimedia
+  - Entoto Maryam Church (Slug: entoto-maryam-church)
+  - Entoto Maryam Church (Slug: entoto-maryam-church-2)
+  - Entoto Maryam Church (Slug: entoto-maryam-church-4)
+  - Entoto Maryam Church (Slug: entoto-maryam-church-1)
+
+[DUPLICATE GROUP] SHARED BY 2 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/8/80/Ethiopian_National_Museum_in_Addis_Ababa.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/8/80/Ethiopian_National_Museum_in_Addis_Ababa.jpg
+Source : wikimedia
+  - Addis Ababa Museum (Slug: addis-ababa-museum-4)
+  - National Museum (Slug: national-museum-4)
+
+[DUPLICATE GROUP] SHARED BY 11 PROPERTIES:
+Hash   : https://upload.wikimedia.org/wikipedia/commons/f/fc/Quiet_Contemplation_%282206386521%29.jpg
+Image  : https://upload.wikimedia.org/wikipedia/commons/f/fc/Quiet_Contemplation_%282206386521%29.jpg
+Source : wikimedia
+  - Ras Hotel (Slug: ras-hotel)
+  - Ras Hotel (Slug: ras-hotel-1)
+  - Ras Hotel (Slug: ras-hotel-4)
+  - Ras Hotel (Slug: ras-hotel-5)
+  - Ras Hotel (Slug: ras-hotel-6)
+  ... and 6 more.
+
+
+===========================================
+

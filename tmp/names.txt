@@ -1,0 +1,60 @@
+﻿[dotenv@17.3.1] injecting env (5) from .env.local -- tip: ­ƒøá´©Å  run anywhere with `dotenvx run -- yourcommand`
+[dotenv@17.3.1] injecting env (5) from .env -- tip: ÔÜÖ´©Å  write to custom object with { processEnv: myObject }
+
+Search for 'ETT':
+
+Search for 'Addis Food':
+
+Search for 'Sabon':
+
+Search for 'Entoto':
+  - [439c6f09-b352-402b-8361-5880c2eb692c] Entoto Natural Park
+  - [a41f8bec-ffa5-4879-a201-e1a018b77074] Entoto Maryam Church area
+  - [1b8cc80b-c760-42d6-842b-eb2cfdcbb885] Mount Entoto viewpoint
+  - [1e9e4de8-9695-42cd-9c2f-2059cfa6711e] Entoto Mountain Tour
+
+Search for 'Simien':
+  - [02eed363-7f82-43f8-a023-9d47b74f4ce9] Simien Eco Tours
+
+Search for 'Ethio Travel':
+  - [2a3a9df3-9808-4470-a1cc-67cca69eb7c3] Ethio Travel and Tours
+
+Search for 'Green Land':
+  - [1a63c58c-f940-4b6c-b58c-f351b2ef4e26] Green Land Tours Ethiopia
+
+Search for 'Nightlife':
+  - [09dab671-528d-4c5f-a620-4e8e9e826c04] Addis Nightlife Tour
+
+Search for 'Walking':
+  - [70ca6741-8a47-4576-92ee-d3c926cdf277] Historical Addis Walking Tour
+
+Search for 'Merkato':
+  - [bc084d3e-d053-4bef-b040-5b0b7e0717ba] Merkato Market
+  - [311eb0dd-2691-4dbe-831a-bef6166180a0] Merkato Market Tour
+
+Search for 'Alem Bunna':
+  - [b93a5ed4-97bd-4fa7-8c5c-ac2041e1055f] Alem Bunna
+
+Search for 'Garden of Coffee':
+  - [dcf61b97-7e82-49e9-a505-b56ef29531cd] Garden of Coffee
+
+Search for 'Atikilt':
+  - [6fad0b58-712a-4e40-8326-f7bbb96927e2] Atikilt Tera vegetable market
+
+Search for 'Afro':
+  - [05c48f7f-ff4d-47c6-9e34-c2288dd3fc17] Afro Ethiopia tour
+
+Search for 'Abeal':
+  - [04400156-bfb9-43f9-9bf7-1034e0ddad96] AbealTibeb Shromeda
+
+Search for 'Galani':
+  - [04ecbc66-19da-4c15-b1f5-e2e21078d74d] Galani Coffee
+
+Search for 'Bale':
+  - [dc7b52a3-d5d5-4f16-9e25-de4e50475120] Bale Mountains National Park
+
+Search for 'Danakil':
+  - [5e61b482-8084-4c04-9c2c-4c0ef25e0962] Danakil Depression Tour
+
+Search for 'Lalibela':
+  - [94c62025-e2a7-4c16-9f40-1e15b03d0f86] Rock-Hewn Churches of Lalibela

@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import { Providers } from "./providers";
 import { BottomNav } from "@/components/BottomNav";
+import { OfflineBanner } from "@/components/OfflineBanner";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AddisView — Discover Ethiopia",
+  title: "NU — Discover Ethiopia",
   description:
-    "Your gateway to Ethiopian travel. Find stays, tours, dining, nightlife, and AI-powered trip planning.",
+    "Your smart travel companion for Ethiopia. Find stays, tours, food, airport pickup, and AI-planned itineraries — all in one place.",
   keywords: [
     "Ethiopia",
     "Travel",
@@ -14,7 +15,29 @@ export const metadata: Metadata = {
     "Hotels",
     "Tours",
     "Restaurants",
+    "AI Trip Planner"
   ],
+  manifest: "/manifest.json",
+  openGraph: {
+    title: "NU — Discover Ethiopia",
+    description: "Your smart travel companion for Ethiopia. Find stays, tours, food, airport pickup, and AI-planned itineraries.",
+    url: "https://nu.com",
+    siteName: "NU",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1518998053901-5348d3961a04?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+        width: 1200,
+        height: 630,
+        alt: "NU Explore Ethiopia",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  }
+};
+
+export const viewport = {
+  themeColor: "#1A1612",
 };
 
 export default function RootLayout({
@@ -26,12 +49,13 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <link
-          href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Noto+Sans+Ethiopic:wght@900&display=swap"
           rel="stylesheet"
         />
       </head>
       <body className="bg-surface text-brand-dark antialiased">
         <Providers>
+          <OfflineBanner />
           <main className="max-w-lg mx-auto min-h-screen pb-24 px-4">
             {children}
           </main>

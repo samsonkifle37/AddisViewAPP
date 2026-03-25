@@ -1,0 +1,46 @@
+=== NU DATASET AUDIT REPORT ===
+
+Total Approved Places: 384
+
+Category Coverage:
+ - apartment: 4
+ - park: 28
+ - restaurant: 140
+ - nightlife: 2
+ - museum: 17
+ - guesthouse: 5
+ - tour: 12
+ - coffee: 43
+ - resort: 5
+ - hotel: 109
+ - market: 2
+ - cafe: 4
+ - religious site: 4
+ - landmark: 3
+ - transport: 6
+
+Completeness Metrics:
+ - Images: 8.9%
+ - Phone: 77.1%
+ - Coordinates: 80.2%
+ - Website: 3.9%
+
+Verification Score Distribution:
+ - High (>=70): 0 | Med (40-69): 5 | Low (<40): 379
+
+Visual Score Distribution:
+ - High (>=70): 0 | Med (40-69): 0 | Low (<40): 384
+
+Source Diversity:
+ - OpenStreetMap: 148
+ - TripAdvisorMock: 1
+ - GoogleMapsMock: 1
+ - BookingMock: 1
+
+Geographic Out-of-Bounds Candidates (Addis Region): 1
+ - Mora Heights Hotel (5.9980948, 37.5474411) [ID:bc4a7d93]
+
+Duplicate Candidates Status:
+ - PENDING: 22
+
+Problematic Listings (High Trust but Missing Loc/Coords): 0

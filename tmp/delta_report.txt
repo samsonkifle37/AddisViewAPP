@@ -1,0 +1,48 @@
+╔══════════════════════════════════════════╗
+║   STRICT DELTA REPORT: POST-GOOGLE       ║
+║   Generated: 2026-03-20T20:55:49       ║
+╚══════════════════════════════════════════╝
+
+── HEADLINE METRICS ──
+% listings with ≥1 real image:  25.8%  (Δ +22.4pp from baseline 3.4%)
+% listings with ≥2 real images: 1.5%  (Δ -0.1pp from baseline 1.6%)
+Average visualScore:            0.9
+
+── MATURITY BANDS ──
+  Zero Images:   633  (was 425, Δ 208)
+  Hero Only:     207  (was 8, Δ +199)
+  2-3 Images:    11  (was 5, Δ +6)
+  Threshold Met: 2  (was 2, Δ +0)
+  Rich Gallery:  0  (was 0, Δ +0)
+
+── GOOGLE PLACES MATCH RESULTS ──
+  Auto-attached (APPROVED): 165
+  Queued for review (PENDING): 0
+  Rejected (FAILED): 240
+
+── CATEGORY UPLIFT (Target Categories) ──
+  RESTAURANT   (333 places): Zero=219 (Δ48), Hero=108 (Δ+107), Threshold=1
+  CAFE         (121 places): Zero=83 (Δ0), Hero=37 (Δ+0), Threshold=0
+  NIGHTLIFE    (2 places): Zero=0 (Δ0), Hero=2 (Δ+0), Threshold=0
+  TRANSPORT    (17 places): Zero=17 (Δ0), Hero=0 (Δ+0), Threshold=0
+  COFFEE       (43 places): Zero=35 (Δ-8), Hero=8 (Δ+8), Threshold=0
+
+── ALL CATEGORIES ──
+  RESTAURANT     (333): Zero=219, Hero=108, 2-3=5, Threshold=1
+  HOTEL          (174): Zero=133, Hero=39, 2-3=1, Threshold=1
+  CAFE           (121): Zero=83, Hero=37, 2-3=1, Threshold=0
+  MUSEUM         (45): Zero=41, Hero=1, 2-3=3, Threshold=0
+  GUESTHOUSE     (45): Zero=41, Hero=4, 2-3=0, Threshold=0
+  COFFEE         (43): Zero=35, Hero=8, 2-3=0, Threshold=0
+  PARK           (32): Zero=30, Hero=2, 2-3=0, Threshold=0
+  TRANSPORT      (17): Zero=17, Hero=0, 2-3=0, Threshold=0
+  LANDMARK       (14): Zero=12, Hero=1, 2-3=1, Threshold=0
+  TOUR           (12): Zero=12, Hero=0, 2-3=0, Threshold=0
+  RESORT         (5): Zero=2, Hero=3, 2-3=0, Threshold=0
+  RELIGIOUS SITE (4): Zero=3, Hero=1, 2-3=0, Threshold=0
+  APARTMENT      (4): Zero=3, Hero=1, 2-3=0, Threshold=0
+  NIGHTLIFE      (2): Zero=0, Hero=2, 2-3=0, Threshold=0
+  MARKET         (2): Zero=2, Hero=0, 2-3=0, Threshold=0
+
+── REMAINING ZERO-IMAGE COUNT ──
+  633 listings still at zero real images

@@ -1,0 +1,42 @@
+﻿npx : G:\AddisView\node_modules\openai\src\
+client.ts:392
+At line:1 char:1
++ npx tsx scripts/foundry-worker.ts 
+--ingest > error.log 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified 
+   : (G:\AddisView\no...c\client.ts:392:S  
+  tring) [], RemoteException
+    + FullyQualifiedErrorId : NativeComman 
+   dError
+ 
+      throw new Errors.OpenAIError(
+            ^
+
+OpenAIError: Missing credentials. Please 
+pass an `apiKey`, or set the 
+`OPENAI_API_KEY` environment variable.
+    at new OpenAI (G:\AddisView\node_module
+s\openai\src\client.ts:392:13)
+    at url (G:\AddisView\scripts\foundry-wo
+rker.ts:179:16)
+    at Object.<anonymous> (G:\AddisView\scr
+ipts\foundry-worker.ts:298:1)
+    at Module._compile 
+(node:internal/modules/cjs/loader:1812:14)
+    at Object.transformer (G:\AddisView\nod
+e_modules\tsx\dist\register-D46fvsV_.cjs:3:
+1104)
+    at Module.load 
+(node:internal/modules/cjs/loader:1533:32)
+    at Module._load 
+(node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad 
+(node:internal/modules/cjs/loader:255:19)
+    at loadCJSModuleWithModuleLoad (node:in
+ternal/modules/esm/translators:328:3)
+    at ModuleWrap.<anonymous> (node:interna
+l/modules/esm/translators:233:7)
+
+Node.js v24.14.0

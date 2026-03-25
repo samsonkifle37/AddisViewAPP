@@ -15,7 +15,7 @@ const navItems = [
     { href: "/", icon: Home, label: "Home" },
     { href: "/stays", icon: BedDouble, label: "Stays" },
     { href: "/tours", icon: Map, label: "Tours" },
-    { href: "/transport", icon: Car, label: "Trans" },
+    { href: "/transport", icon: Car, label: "Transport" },
     { href: "/profile", icon: User, label: "Profile" },
 ];
 
@@ -33,8 +33,8 @@ export function BottomNav() {
                             key={href}
                             href={href}
                             className={`flex flex-col items-center gap-0.5 py-1.5 px-3 rounded-2xl transition-all duration-300 ${isActive
-                                ? "text-ethiopia-green"
-                                : "text-gray-400 hover:text-gray-600"
+                                ? "text-[#D4AF37]"
+                                : "text-[#1A1A2E]/50 hover:text-[#1A1A2E]/80"
                                 }`}
                         >
                             <Icon
@@ -43,7 +43,7 @@ export function BottomNav() {
                                 strokeWidth={isActive ? 2.5 : 1.5}
                             />
                             <span
-                                className={`text-[9px] font-bold uppercase tracking-widest ${isActive ? "text-ethiopia-green" : ""
+                                className={`text-[10px] font-black uppercase tracking-widest ${isActive ? "text-[#D4AF37]" : ""
                                     }`}
                             >
                                 {label}

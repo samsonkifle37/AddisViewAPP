@@ -34,52 +34,98 @@ export async function POST(request: NextRequest) {
             }
 
             // Type matching based on interests
-            if (interestTags.includes("food") && place.type === "restaurant")
-                score += 2;
-            if (interestTags.includes("nightlife") && place.type === "club")
-                score += 2;
-            if (interestTags.includes("nature") && place.type === "tour") score += 2;
-            if (interestTags.includes("history") && place.type === "tour") score += 2;
-            if (interestTags.includes("culture") && place.type === "restaurant")
-                score += 1;
-
-            // Slight boost for stays if nights > 0
-            if (
-                nights &&
-                nights > 0 &&
-                ["hotel", "guesthouse", "apartment", "resort"].includes(place.type)
-            ) {
-                score += 1;
-            }
+            if (interestTags.includes("food") && place.type === "restaurant") score += 2;
+            if (interestTags.includes("nightlife") && place.type === "club") score += 2;
+            if (interestTags.includes("nature") && place.type === "park") score += 2;
+            if (interestTags.includes("history") && place.type === "museum") score += 2;
+            if (interestTags.includes("culture") && ["restaurant", "tour", "museum", "religious site", "landmark"].includes(place.type)) score += 1;
 
             return { ...place, score };
         });
 
-        // Sort by score descending, take top results
         scored.sort((a, b) => b.score - a.score);
-        const recommended = scored.slice(0, 6);
 
+        // ITINERARY BALANCE RULE
+        // Morning -> cultural site (museum, religious site, landmark)
+        // Afternoon -> market or tour (market, park, tour, attraction)
+        // Evening -> restaurant or nightlife (restaurant, cafe, club, nightlife)
+        
+        const morningTypes = ["museum", "religious site", "landmark"];
+        const afternoonTypes = ["market", "park", "tour", "attraction", "cafe"];
+        const eveningTypes = ["restaurant", "club", "nightlife"];
+        
+        const mornings = scored.filter(p => morningTypes.includes(p.type));
+        const afternoons = scored.filter(p => afternoonTypes.includes(p.type));
+        const evenings = scored.filter(p => eveningTypes.includes(p.type));
+
+        // Let's create an interleaved itinerary up to the requested days
+        const requestedDays = nights || 3;
+        const daysArray: any[] = [];
+        const usedIds = new Set();
+        let cardsGenerated = 0;
+        
+        for (let day = 1; day <= requestedDays; day++) {
+            // Pick Morning
+            let m = mornings.find(x => !usedIds.has(x.id));
+            if (!m) { usedIds.clear(); m = mornings.find(x => !usedIds.has(x.id)) || scored[0]; }
+            if (m) { usedIds.add(m.id); cardsGenerated++; }
+
+            // Pick Afternoon
+            let a = afternoons.find(x => !usedIds.has(x.id));
+            if (!a) { usedIds.clear(); a = afternoons.find(x => !usedIds.has(x.id)) || scored[1]; }
+            if (a) { usedIds.add(a.id); cardsGenerated++; }
+
+            // Pick Evening
+            let e = evenings.find(x => !usedIds.has(x.id));
+            if (!e) { usedIds.clear(); e = evenings.find(x => !usedIds.has(x.id)) || scored[2]; }
+            if (e) { usedIds.add(e.id); cardsGenerated++; }
+
+            daysArray.push({
+                day,
+                morning: m,
+                afternoon: a,
+                evening: e
+            });
+        }
+
+        const debug = {
+            requestedDays,
+            generatedDays: daysArray.length,
+            numberOfRenderedDays: daysArray.length, // Checked on client side mostly
+            totalCards: cardsGenerated
+        };
+        console.log("PLANNER DEBUG SUMMARY:", debug);
+
+        const recommendedFlat = daysArray.flatMap(d => [d.morning, d.afternoon, d.evening]).filter(Boolean);
         // Generate explanation
         const explanation = generateExplanation(
-            recommended,
+            recommendedFlat,
             budget,
             nights,
             interests,
             city
         );
 
+        const formatPlace = (r: any) => r ? ({
+            id: r.id,
+            name: r.name,
+            slug: r.slug,
+            type: r.type,
+            city: r.city,
+            area: r.area,
+            shortDescription: r.shortDescription,
+            heroImage: r.images?.[0]?.imageUrl || null,
+            score: r.score,
+        }) : null;
+
         return NextResponse.json({
-            recommendations: recommended.map((r) => ({
-                id: r.id,
-                name: r.name,
-                slug: r.slug,
-                type: r.type,
-                city: r.city,
-                area: r.area,
-                shortDescription: r.shortDescription,
-                heroImage: r.images[0]?.imageUrl || null,
-                score: r.score,
+            days: daysArray.map(d => ({
+                day: d.day,
+                morning: formatPlace(d.morning),
+                afternoon: formatPlace(d.afternoon),
+                evening: formatPlace(d.evening)
             })),
+            debug,
             explanation,
         });
     } catch (error) {

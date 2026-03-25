@@ -1,0 +1,53 @@
+﻿
+> v2@0.1.0 build
+> prisma generate && next build
+
+npm : Loaded Prisma config from 
+prisma.config.ts.
+At line:1 char:1
++ npm run build *>&1 | Out-File 
+tmp/build.txt -Encoding utf8
++ ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified 
+   : (Loaded Prisma c...isma.config.ts.:S  
+  tring) [], RemoteException
+    + FullyQualifiedErrorId : NativeComman 
+   dError
+ 
+
+Prisma schema loaded from 
+prisma\schema.prisma.
+
+Ô£ö Generated Prisma Client (v7.4.2) to .\node_modules\@prisma\client in 458ms
+
+Start by importing your Prisma Client (See: https://pris.ly/d/importing-client)
+
+
+Ôû▓ Next.js 16.1.6 (Turbopack)
+- Environments: .env.local, .env
+
+  Creating an optimized production build ...
+Ô£ô Compiled successfully in 3.1s
+  Running TypeScript ...
+Failed to compile.
+
+./src/app/admin/debug-images/page.tsx:17:45
+Type error: Parameter 'e' implicitly has 
+an 'any' type.
+
+[0m [90m 15 |[39m     })[33m;[39m
+ [90m 16 |[39m
+[31m[1m>[22m[39m[90m 17 |[39m     
+[36mconst[39m entities [33m=[39m data[
+33m?[39m[33m.[39mentities[33m?[39m[33
+m.[39mfilter(e [33m=>[39m
+ [90m    |[39m                           
+                  [31m[1m^[22m[39m
+ [90m 18 |[39m         e[33m.[39mname[
+33m.[39mtoLowerCase()[33m.[39mincludes(f
+ilter[33m.[39mtoLowerCase())
+ [90m 19 |[39m     ) [33m||[39m 
+[][33m;[39m
+ [90m 20 |[39m[0m
+Next.js build worker exited with code: 1 
+and signal: null

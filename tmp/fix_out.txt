@@ -1,0 +1,12 @@
+﻿[dotenv@17.3.1] injecting env (5) from .env.local -- tip: ­ƒñû agentic secret storage: https://dotenvx.com/as2
+[dotenv@17.3.1] injecting env (5) from .env -- tip: ­ƒøí´©Å auth for agents: https://vestauth.com
+Deleted: Feres
+Deleted: Ride
+Updated Type [hotel]: Radisson Blu Hotel, Addis Ababa
+Updated Type [hotel]: Hilton Addis Ababa
+Updated Type [hotel]: Jupiter International Hotel Bole
+Updated Type [hotel]: Sheraton Addis, a Luxury Collection Hotel
+Updated Type [hotel]: Monarch Parkview Hotel
+Updated Type [restaurant]: Castelli's Restaurant
+Updated Type [restaurant]: Marcus Addis Restaurant & Sky Bar
+Updated Type [restaurant]: Taste of Ethiopia

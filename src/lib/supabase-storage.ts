@@ -18,9 +18,9 @@ export async function mirrorImage(imageUrl: string, folder: string, filename: st
         const response = await axios.get(imageUrl, {
             responseType: 'arraybuffer',
             headers: {
-                'User-Agent': 'AddisViewImageValidator/1.0 (contact: admin@addisview.app)',
+                'User-Agent': 'NUImageValidator/1.0 (contact: admin@nu.app)',
                 'Accept': 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
-                'Referer': 'https://addisview.vercel.app'
+                'Referer': 'https://nu.vercel.app'
             }
         });
 

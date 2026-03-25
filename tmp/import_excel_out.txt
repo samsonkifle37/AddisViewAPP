@@ -1,0 +1,40 @@
+﻿[dotenv@17.3.1] injecting env (5) from .env.local -- tip: ­ƒøá´©Å  run anywhere with `dotenvx run -- yourcommand`
+[dotenv@17.3.1] injecting env (5) from .env -- tip: ÔÜÖ´©Å  specify custom .env file path with { path: '/custom/path/.env' }
+Connected to DB.
+node : Failed to import: error: column 
+"description" of relation "Place" does not 
+exist
+At line:1 char:1
++ node tmp/import_excel.js 2>&1 | Out-File 
+tmp/import_excel_out.txt -En ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified 
+   : (Failed to impor... does not exist:S  
+  tring) [], RemoteException
+    + FullyQualifiedErrorId : NativeComman 
+   dError
+ 
+    at G:\AddisView\node_modules\pg\lib\cli
+ent.js:631:17
+    at process.processTicksAndRejections 
+(node:internal/process/task_queues:104:5)
+    at async run 
+(G:\AddisView\tmp\import_excel.js:62:17) {
+  length: 131,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '31',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'analyze.c',
+  line: '2528',
+  routine: 'transformUpdateTargetList'
+}

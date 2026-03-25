@@ -22,6 +22,7 @@ import {
     Trash2,
     Send,
 } from "lucide-react";
+import { Logo } from "@/components/Logo";
 
 // ── Auth Modal ──────────────────────────────
 function AuthModal({ onClose }: { onClose: () => void }) {
@@ -67,20 +68,14 @@ function AuthModal({ onClose }: { onClose: () => void }) {
 
                 {/* Header */}
                 <div className="text-center mb-6">
-                    <div className="w-14 h-14 mx-auto bg-gradient-to-br from-ethiopia-green to-emerald-400 rounded-2xl flex items-center justify-center mb-3 shadow-lg shadow-ethiopia-green/20">
-                        {mode === "login" ? (
-                            <LogIn className="w-7 h-7 text-white" />
-                        ) : (
-                            <UserPlus className="w-7 h-7 text-white" />
-                        )}
-                    </div>
+                    <Logo className="w-16 h-16 mx-auto mb-3" />
                     <h2 className="text-xl font-black tracking-tight">
                         {mode === "login" ? "Welcome Back" : "Create Account"}
                     </h2>
                     <p className="text-gray-400 text-xs mt-1 font-medium">
                         {mode === "login"
                             ? "Sign in to access your saved places"
-                            : "Join AddisView to save your favorites"}
+                            : "Join NU to save your favorites"}
                     </p>
                 </div>
 
@@ -95,7 +90,7 @@ function AuthModal({ onClose }: { onClose: () => void }) {
                                 value={name}
                                 onChange={(e) => setName(e.target.value)}
                                 required
-                                className="w-full pl-11 pr-4 py-3.5 bg-gray-50 rounded-xl border border-gray-100 focus:outline-none focus:ring-2 focus:ring-ethiopia-green/20 focus:border-ethiopia-green/30 text-sm font-medium"
+                                className="w-full pl-11 pr-4 py-3.5 bg-gray-50 rounded-xl border border-gray-100 focus:outline-none focus:ring-2 focus:ring-[#D4AF37]/20 focus:border-[#D4AF37]/30 text-sm font-medium"
                             />
                         </div>
                     )}
@@ -108,7 +103,7 @@ function AuthModal({ onClose }: { onClose: () => void }) {
                             value={email}
                             onChange={(e) => setEmail(e.target.value)}
                             required
-                            className="w-full pl-11 pr-4 py-3.5 bg-gray-50 rounded-xl border border-gray-100 focus:outline-none focus:ring-2 focus:ring-ethiopia-green/20 focus:border-ethiopia-green/30 text-sm font-medium"
+                            className="w-full pl-11 pr-4 py-3.5 bg-gray-50 rounded-xl border border-gray-100 focus:outline-none focus:ring-2 focus:ring-[#D4AF37]/20 focus:border-[#D4AF37]/30 text-sm font-medium"
                         />
                     </div>
 
@@ -121,7 +116,7 @@ function AuthModal({ onClose }: { onClose: () => void }) {
                             onChange={(e) => setPassword(e.target.value)}
                             required
                             minLength={6}
-                            className="w-full pl-11 pr-4 py-3.5 bg-gray-50 rounded-xl border border-gray-100 focus:outline-none focus:ring-2 focus:ring-ethiopia-green/20 focus:border-ethiopia-green/30 text-sm font-medium"
+                            className="w-full pl-11 pr-4 py-3.5 bg-gray-50 rounded-xl border border-gray-100 focus:outline-none focus:ring-2 focus:ring-[#D4AF37]/20 focus:border-[#D4AF37]/30 text-sm font-medium"
                         />
                     </div>
 
@@ -134,7 +129,7 @@ function AuthModal({ onClose }: { onClose: () => void }) {
                     <button
                         type="submit"
                         disabled={loading}
-                        className="w-full bg-brand-dark text-white py-3.5 rounded-xl text-xs font-black uppercase tracking-widest flex items-center justify-center gap-2 hover:bg-gray-800 transition-colors shadow-lg disabled:opacity-50"
+                        className="w-full bg-[#1A1A2E] text-[#D4AF37] py-3.5 rounded-xl text-xs font-black uppercase tracking-widest flex items-center justify-center gap-2 hover:bg-gray-800 transition-colors shadow-lg disabled:opacity-50"
                     >
                         {loading ? (
                             <Loader2 className="w-4 h-4 animate-spin" />
@@ -157,7 +152,7 @@ function AuthModal({ onClose }: { onClose: () => void }) {
                             Don&apos;t have an account?{" "}
                             <button
                                 onClick={() => { setMode("register"); setError(""); }}
-                                className="text-ethiopia-green font-bold"
+                                className="text-[#D4AF37] font-bold"
                             >
                                 Sign Up
                             </button>
@@ -167,7 +162,7 @@ function AuthModal({ onClose }: { onClose: () => void }) {
                             Already have an account?{" "}
                             <button
                                 onClick={() => { setMode("login"); setError(""); }}
-                                className="text-ethiopia-green font-bold"
+                                className="text-[#D4AF37] font-bold"
                             >
                                 Sign In
                             </button>
@@ -240,7 +235,7 @@ function SavedPlaces() {
                 </p>
                 <Link
                     href="/stays"
-                    className="inline-flex items-center gap-1 mt-4 text-ethiopia-green text-[10px] font-black uppercase tracking-widest"
+                    className="inline-flex items-center gap-1 mt-4 text-[#D4AF37] text-[10px] font-black uppercase tracking-widest"
                 >
                     Explore Places <ArrowRight className="w-3.5 h-3.5" />
                 </Link>
@@ -297,176 +292,22 @@ function SavedPlaces() {
     );
 }
 
-// ── AI Trip Planner ─────────────────────────
-function AiTripPlanner() {
-    const [city, setCity] = useState("Addis Ababa");
-    const [nights, setNights] = useState("3");
-    const [budget, setBudget] = useState("mid-range");
-    const [interests, setInterests] = useState<string[]>([]);
-
-    const interestOptions = [
-        "food", "history", "nature", "nightlife", "culture", "adventure", "spa", "wildlife",
-    ];
-
-    const toggleInterest = (i: string) => {
-        setInterests((prev) =>
-            prev.includes(i) ? prev.filter((x) => x !== i) : [...prev, i]
-        );
-    };
-
-    const mutation = useMutation({
-        mutationFn: async () => {
-            const res = await fetch("/api/ai/recommend", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({
-                    city,
-                    nights: parseInt(nights),
-                    budget,
-                    interests,
-                }),
-            });
-            if (!res.ok) throw new Error("Failed");
-            return res.json();
-        },
-    });
-
+function TripPlans() {
     return (
-        <div className="space-y-5">
-            {/* City */}
-            <div>
-                <label className="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-1.5">
-                    City
-                </label>
-                <input
-                    type="text"
-                    value={city}
-                    onChange={(e) => setCity(e.target.value)}
-                    className="w-full px-4 py-3 bg-gray-50 rounded-xl border border-gray-100 focus:outline-none focus:ring-2 focus:ring-purple-500/20 text-sm font-medium"
-                />
+        <div className="flex flex-col items-center justify-center p-6 bg-white rounded-2xl border border-dashed border-gray-200">
+            <div className="w-12 h-12 bg-purple-50 rounded-2xl flex items-center justify-center mb-3">
+                <Sparkles className="w-6 h-6 text-purple-500" />
             </div>
-
-            {/* Nights + Budget */}
-            <div className="flex gap-3">
-                <div className="flex-1">
-                    <label className="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-1.5">
-                        Nights
-                    </label>
-                    <input
-                        type="number"
-                        min="1"
-                        max="30"
-                        value={nights}
-                        onChange={(e) => setNights(e.target.value)}
-                        className="w-full px-4 py-3 bg-gray-50 rounded-xl border border-gray-100 focus:outline-none focus:ring-2 focus:ring-purple-500/20 text-sm font-medium"
-                    />
-                </div>
-                <div className="flex-1">
-                    <label className="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-1.5">
-                        Budget
-                    </label>
-                    <select
-                        value={budget}
-                        onChange={(e) => setBudget(e.target.value)}
-                        className="w-full px-4 py-3 bg-gray-50 rounded-xl border border-gray-100 focus:outline-none focus:ring-2 focus:ring-purple-500/20 text-sm font-medium"
-                    >
-                        <option value="budget">Budget</option>
-                        <option value="mid-range">Mid-range</option>
-                        <option value="luxury">Luxury</option>
-                    </select>
-                </div>
-            </div>
-
-            {/* Interests */}
-            <div>
-                <label className="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-2">
-                    Interests
-                </label>
-                <div className="flex flex-wrap gap-2">
-                    {interestOptions.map((i) => (
-                        <button
-                            key={i}
-                            onClick={() => toggleInterest(i)}
-                            className={`px-3.5 py-2 rounded-xl text-[10px] font-bold uppercase tracking-wider transition-all border ${interests.includes(i)
-                                    ? "bg-purple-500 text-white border-purple-500 shadow-lg shadow-purple-200/50"
-                                    : "bg-white text-gray-400 border-gray-100"
-                                }`}
-                        >
-                            {i}
-                        </button>
-                    ))}
-                </div>
-            </div>
-
-            {/* Submit */}
-            <button
-                onClick={() => mutation.mutate()}
-                disabled={mutation.isPending}
-                className="w-full bg-gradient-to-r from-purple-600 to-violet-500 text-white py-3.5 rounded-xl text-xs font-black uppercase tracking-widest flex items-center justify-center gap-2 shadow-lg shadow-purple-200/50 hover:shadow-xl transition-all disabled:opacity-50"
+            <h3 className="text-sm font-bold text-gray-900">No trip plans logic</h3>
+            <p className="text-gray-400 text-[11px] mt-1 text-center font-medium max-w-[200px]">
+                Ask Selam to build an itinerary to see it saved here.
+            </p>
+            <Link
+                href="/plan"
+                className="inline-flex items-center justify-center gap-2 mt-4 bg-[#1A1A2E] text-[#D4AF37] px-5 py-2.5 rounded-xl text-xs font-black uppercase tracking-widest transition-colors shadow-lg shadow-gray-200/50 hover:bg-black"
             >
-                {mutation.isPending ? (
-                    <Loader2 className="w-4 h-4 animate-spin" />
-                ) : (
-                    <>
-                        <Sparkles className="w-4 h-4" /> Get Recommendations
-                    </>
-                )}
-            </button>
-
-            {/* Results */}
-            {mutation.data && (
-                <div className="space-y-3 pt-2">
-                    <div className="bg-gradient-to-br from-brand-dark to-gray-800 rounded-2xl p-4 shadow-xl">
-                        <p className="text-gray-300 text-xs leading-relaxed font-medium whitespace-pre-line">
-                            {mutation.data.explanation}
-                        </p>
-                    </div>
-
-                    {mutation.data.recommendations?.map(
-                        (rec: {
-                            id: string;
-                            name: string;
-                            slug: string;
-                            type: string;
-                            city: string;
-                            area: string;
-                            shortDescription: string | null;
-                            heroImage: string | null;
-                        }) => (
-                            <Link
-                                key={rec.id}
-                                href={`/place/${rec.slug}`}
-                                className="flex items-center gap-3 bg-white rounded-2xl p-3 shadow-sm border border-gray-50 group"
-                            >
-                                <div className="relative w-14 h-14 rounded-xl overflow-hidden flex-shrink-0">
-                                    {rec.heroImage ? (
-                                        <Image
-                                            src={rec.heroImage}
-                                            alt={rec.name}
-                                            fill
-                                            className="object-cover"
-                                            sizes="56px"
-                                        />
-                                    ) : (
-                                        <div className="w-full h-full bg-gray-200 flex items-center justify-center text-lg">
-                                            🏛️
-                                        </div>
-                                    )}
-                                </div>
-                                <div className="flex-1 min-w-0">
-                                    <h4 className="text-sm font-bold text-gray-900 truncate group-hover:text-ethiopia-green transition-colors">
-                                        {rec.name}
-                                    </h4>
-                                    <span className="text-[9px] font-bold uppercase tracking-wider text-gray-400">
-                                        {rec.type} · {rec.area || rec.city}
-                                    </span>
-                                </div>
-                                <ArrowRight className="w-4 h-4 text-gray-300 group-hover:text-ethiopia-green transition-colors flex-shrink-0" />
-                            </Link>
-                        )
-                    )}
-                </div>
-            )}
+                Create a Plan <ArrowRight className="w-3.5 h-3.5" />
+            </Link>
         </div>
     );
 }
@@ -493,23 +334,23 @@ export default function ProfilePage() {
         <div className="space-y-4 pt-6">
             {showAuth && <AuthModal onClose={() => setShowAuth(false)} />}
 
-            {/* Profile Header */}
-            <div className="bg-white rounded-[2rem] p-6 shadow-lg shadow-gray-200/30 border border-gray-50">
-                <div className="flex items-center gap-4">
-                    <div className="w-16 h-16 bg-gradient-to-br from-ethiopia-green to-emerald-400 rounded-2xl flex items-center justify-center shadow-lg shadow-ethiopia-green/20">
-                        <User className="w-8 h-8 text-white" />
+            {/* Profile Header or Unauthenticated State */}
+            {user ? (
+                <div className="bg-white rounded-[2rem] p-6 shadow-lg shadow-gray-200/30 border border-gray-50">
+                    <div className="flex items-center gap-4">
+                        <div className="w-16 h-16 bg-gradient-to-br from-ethiopia-green to-emerald-400 rounded-2xl flex items-center justify-center shadow-lg shadow-ethiopia-green/20">
+                            <User className="w-8 h-8 text-white" />
+                        </div>
+                        <div className="flex-1">
+                            <h2 className="text-xl font-black tracking-tight text-gray-900">
+                                {user.name}
+                            </h2>
+                            <p className="text-gray-400 text-xs font-medium mt-0.5">
+                                {user.email}
+                            </p>
+                        </div>
                     </div>
-                    <div className="flex-1">
-                        <h2 className="text-xl font-black tracking-tight text-gray-900">
-                            {user ? user.name : "Guest Traveler"}
-                        </h2>
-                        <p className="text-gray-400 text-xs font-medium mt-0.5">
-                            {user ? user.email : "Sign in to save your favorite places"}
-                        </p>
-                    </div>
-                </div>
 
-                {user ? (
                     <button
                         onClick={logout}
                         className="w-full mt-5 bg-gray-100 text-gray-600 py-3.5 rounded-2xl text-xs font-black uppercase tracking-widest flex items-center justify-center gap-2 hover:bg-gray-200 transition-colors"
@@ -517,16 +358,52 @@ export default function ProfilePage() {
                         <LogOut className="w-4 h-4" />
                         Sign Out
                     </button>
-                ) : (
+                </div>
+            ) : (
+                <div className="bg-white rounded-[2rem] p-6 shadow-xl shadow-gray-200/50 border border-gray-100 flex flex-col items-center text-center overflow-hidden relative">
+                    <div className="absolute top-0 right-0 w-48 h-48 bg-[#D4AF37]/5 rounded-full blur-3xl pointer-events-none" />
+                    
+                    <div className="w-24 h-24 mb-5 relative rounded-[2rem] overflow-hidden shadow-xl shadow-gray-200/40">
+                        <Image src="https://images.unsplash.com/photo-1547471080-7fc2caa6a54c?auto=format&fit=crop&q=80&w=400" alt="Unlock NU" fill className="object-cover" />
+                    </div>
+                    
+                    <h2 className="text-2xl font-black tracking-tight text-gray-900 leading-tight">
+                        Unlock the best of <br/><span className="text-[#C9973B]">Ethiopia</span>
+                    </h2>
+                    <p className="text-gray-500 text-xs font-medium mt-2 max-w-[240px]">
+                        Create an account to customize your journey and keep your travel plans in one place.
+                    </p>
+
+                    <div className="flex flex-col gap-3 w-full mt-6 mb-8 text-left max-w-[260px]">
+                        <div className="flex items-center gap-3">
+                            <div className="w-8 h-8 rounded-xl bg-rose-50 flex items-center justify-center shrink-0">
+                                <Heart className="w-4 h-4 text-rose-500" />
+                            </div>
+                            <span className="text-xs font-bold text-gray-700">Save your favourite spots</span>
+                        </div>
+                        <div className="flex items-center gap-3">
+                            <div className="w-8 h-8 rounded-xl bg-purple-50 flex items-center justify-center shrink-0">
+                                <Sparkles className="w-4 h-4 text-purple-500" />
+                            </div>
+                            <span className="text-xs font-bold text-gray-700">Access your trip plans</span>
+                        </div>
+                        <div className="flex items-center gap-3">
+                            <div className="w-8 h-8 rounded-xl bg-[#D4AF37]/10 flex items-center justify-center shrink-0">
+                                <MapPin className="w-4 h-4 text-[#C9973B]" />
+                            </div>
+                            <span className="text-xs font-bold text-gray-700">Get personalised picks</span>
+                        </div>
+                    </div>
+
                     <button
                         onClick={() => setShowAuth(true)}
-                        className="w-full mt-5 bg-brand-dark text-white py-3.5 rounded-2xl text-xs font-black uppercase tracking-widest flex items-center justify-center gap-2 hover:bg-gray-800 transition-colors shadow-lg shadow-gray-200/50"
+                        className="w-full bg-[#1A1A2E] text-[#D4AF37] py-4 rounded-2xl text-xs font-black uppercase tracking-widest flex items-center justify-center gap-2 hover:bg-gray-800 transition-all shadow-xl shadow-gray-200/50"
                     >
                         <LogIn className="w-4 h-4" />
-                        Sign In
+                        Sign In / Create Account
                     </button>
-                )}
-            </div>
+                </div>
+            )}
 
             {/* Quick Actions */}
             <div className="space-y-3">
@@ -566,7 +443,7 @@ export default function ProfilePage() {
                                 </p>
                                 <button
                                     onClick={() => setShowAuth(true)}
-                                    className="mt-3 text-ethiopia-green text-[10px] font-black uppercase tracking-widest"
+                                    className="mt-3 text-[#D4AF37] text-[10px] font-black uppercase tracking-widest"
                                 >
                                     Sign In →
                                 </button>
@@ -589,9 +466,9 @@ export default function ProfilePage() {
                         <Sparkles className="w-5 h-5 text-purple-500" />
                     </div>
                     <div className="flex-1 text-left">
-                        <h3 className="text-sm font-bold text-gray-900">AI Trip Planner</h3>
+                        <h3 className="text-sm font-bold text-gray-900">Trip Plans</h3>
                         <p className="text-[10px] text-gray-400 font-medium">
-                            Tell us your interests — we&apos;ll recommend places
+                            Your personalized itineraries
                         </p>
                     </div>
                     <ArrowRight
@@ -602,7 +479,7 @@ export default function ProfilePage() {
 
                 {activeSection === "ai" && (
                     <div className="px-1 pb-2">
-                        <AiTripPlanner />
+                        <TripPlans />
                     </div>
                 )}
 
@@ -640,17 +517,15 @@ export default function ProfilePage() {
                             </span>
                         </div>
                         <div className="flex justify-between items-center">
-                            <span className="text-sm font-medium text-gray-700">
-                                Notifications
-                            </span>
+                            <span className="text-sm font-medium text-gray-700">Currency</span>
                             <span className="text-xs font-bold text-gray-400 bg-gray-100 px-3 py-1 rounded-lg">
-                                On
+                                ETB / USD
                             </span>
                         </div>
                         <div className="flex justify-between items-center">
                             <span className="text-sm font-medium text-gray-700">Version</span>
-                            <span className="text-xs font-bold text-gray-400 bg-gray-100 px-3 py-1 rounded-lg">
-                                V2.0
+                            <span className="text-xs font-bold text-[#C9973B] bg-[#C9973B]/10 px-3 py-1 rounded-lg">
+                                V3.0 Final
                             </span>
                         </div>
                     </div>
@@ -658,10 +533,17 @@ export default function ProfilePage() {
             </div>
 
             {/* Footer */}
-            <div className="text-center pt-4 pb-8">
+            <div className="text-center pt-8 pb-8">
                 <p className="text-[10px] text-gray-300 font-bold uppercase tracking-widest">
-                    AddisView V2 — Discover Ethiopia
+                    NU V3 — Discover Ethiopia
                 </p>
+                <div className="flex items-center justify-center gap-4 mt-3 text-gray-400 text-xs">
+                    <Link href="#" className="hover:text-gray-600 transition">Terms</Link>
+                    <span>&middot;</span>
+                    <Link href="#" className="hover:text-gray-600 transition">Privacy</Link>
+                    <span>&middot;</span>
+                    <Link href="#" className="hover:text-gray-600 transition">Support</Link>
+                </div>
             </div>
         </div>
     );

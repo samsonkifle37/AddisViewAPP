@@ -1,0 +1,1 @@
+import prisma from '../src/lib/prisma'; prisma.ownerClaim.create({ data: { placeId: '04e4604d-e968-4537-ad34-e40801a613cf', fullName: 'John Doe', email: 'j@e.com', phone: '1', relationship: 'owner', status: 'PENDING' } }).then(console.log).catch(console.error);

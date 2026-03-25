@@ -1,0 +1,13 @@
+﻿[dotenv@17.3.1] injecting env (5) from .env.local -- tip: ­ƒöÉ prevent building .env in docker: https://dotenvx.com/prebuild
+[dotenv@17.3.1] injecting env (5) from .env -- tip: ÔÜÖ´©Å  suppress all logs with { quiet: true }
+Existing Hotel images:
+Hotel Lobelia: https://www.hotellobeliaaddis.com/img/home-about/home-about.png
+Harmony Hotel Addis Ababa: https://admin.harmonyhotelethiopia.com/public/storage/accommodation/1768833811.jpg
+Haile Grand Addis Ababa: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/5008bf5f-1ac7-42ff-a20d-840b7a6a1a63/official_hero.jpg
+Bole Ambassador Hotel: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/acaabadc-7f2f-4923-b9e2-cd60628bde0b/official_hero.jpg
+Kuriftu Resort & Spa: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/e3e222fd-194a-41a3-a046-91c619deba8e/official_hero.jpg
+Mado Hotel: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/1d442578-3821-461e-9896-6c307a290a8f/official_hero.jpg
+Sheraton Addis: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/sheraton-addis-hotel/cover.webp
+Radisson Blu Addis Ababa: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/radisson-blu-addis-ababa-hotel/cover.jpeg
+Golden Tulip Addis Ababa: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/golden-tulip-addis-ababa-hotel/cover.jpeg
+Jupiter International Hotel: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/jupiter-international-hotel-hotel/cover.avif

@@ -1,0 +1,18 @@
+=== PRE-GOOGLE BASELINE (2026-03-20) ===
+
+Listings with at least 1 real image: 3.4%
+Listings with 2+ real images: 1.6%
+
+Maturity Bands:
+ - Zero Images: 425
+ - Hero Only: 8
+ - 2-3 Images: 5
+ - Threshold Met: 2
+ - Rich Gallery: 0
+
+Category Coverage:
+ - RESTAURANT (173 places): Zero=171, Hero=1, Threshold=1
+ - HOTEL (120 places): Zero=117, Hero=1, Threshold=1
+ - COFFEE (43 places): Zero=43, Hero=0, Threshold=0
+ - PARK (29 places): Zero=27, Hero=2, Threshold=0
+ - MUSEUM (17 places): Zero=13, Hero=1, Threshold=0

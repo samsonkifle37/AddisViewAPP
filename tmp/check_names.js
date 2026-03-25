@@ -1,23 +1,23 @@
-const { Pool } = require('pg');
-require('dotenv').config();
+const { Client } = require('pg');
+const dotenv = require('dotenv');
 
-async function main() {
-    const pool = new Pool({
-        connectionString: process.env.DATABASE_URL,
-        ssl: { rejectUnauthorized: false }
-    });
+dotenv.config({ path: '.env.local' });
+dotenv.config({ path: '.env' });
 
-    const res = await pool.query(`
-        SELECT id, name, slug 
-        FROM "Place" 
-        WHERE name ILIKE '%Entoto Natural Park%' 
-           OR name ILIKE '%Sheger Riverside%' 
-           OR name ILIKE '%Friendship Park%' 
-           OR name ILIKE '%Addis Ababa Museum%'
-           OR name ILIKE '%Africa Hall%'
-    `);
-    console.log(JSON.stringify(res.rows, null, 2));
-    await pool.end();
+const dbUrl = process.env.DATABASE_URL;
+
+async function checkNames() {
+    const pg = new Client({ connectionString: dbUrl });
+    await pg.connect();
+
+    const terms = ['ETT', 'Addis Food', 'Sabon', 'Entoto', 'Simien', 'Ethio Travel', 'Green Land', 'Nightlife', 'Walking', 'Merkato', 'Alem Bunna', 'Garden of Coffee', 'Atikilt', 'Afro', 'Abeal', 'Galani', 'Bale', 'Danakil', 'Lalibela'];
+
+    for (const term of terms) {
+        let res = await pg.query(`SELECT id, name FROM "Place" WHERE name ILIKE $1`, [`%${term}%`]);
+        console.log(`\nSearch for '${term}':`);
+        res.rows.forEach(r => console.log(`  - [${r.id}] ${r.name}`));
+    }
+    await pg.end();
 }
 
-main().catch(console.error);
+checkNames();
