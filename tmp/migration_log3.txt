@@ -1,0 +1,210 @@
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🤖 agentic secret storage: https://dotenvx.com/as2
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 16 places needing images (batch of 20)
+
+🔎  Adams Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Liya Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (319.8 KB)
+  ✅  Photo 2/5 uploaded (180.8 KB)
+  ✅  Photo 3/5 uploaded (278.8 KB)
+  ✅  Photo 4/5 uploaded (220.8 KB)
+  ✅  Photo 5/5 uploaded (205.3 KB)
+
+🔎  Red Roof (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Hyatt Regency Addis Ababa (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (370.3 KB)
+  ✅  Photo 2/5 uploaded (61.5 KB)
+  ✅  Photo 3/5 uploaded (506.2 KB)
+  ✅  Photo 4/5 uploaded (196.0 KB)
+  ✅  Photo 5/5 uploaded (379.3 KB)
+
+🔎  GG Royal Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (511.5 KB)
+  ✅  Photo 2/5 uploaded (333.8 KB)
+  ✅  Photo 3/5 uploaded (348.2 KB)
+  ✅  Photo 4/5 uploaded (681.7 KB)
+  ✅  Photo 5/5 uploaded (212.6 KB)
+
+🔎  Eliston Hotel (hotel, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (291.3 KB)
+  ✅  Photo 2/3 uploaded (753.4 KB)
+  ✅  Photo 3/3 uploaded (127.3 KB)
+
+🔎  Yesitota Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  HOME (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Temudas Pension (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Baks Hotel Appartement (hotel, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (73.7 KB)
+
+🔎  Kangaroo (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chez Fasil (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Luhena Hotel - Cafe, Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigest (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Seada Muslim Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     5/16 places
+📸  Photos saved:  19
+❓  Not on Google: 0
+📭  No photos:     11
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 0 places needing images (batch of 20)
+
+🎉  All places already have images! Nothing to do.

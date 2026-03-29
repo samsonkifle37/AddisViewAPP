@@ -1,0 +1,87 @@
+﻿Sheet names:
+
+--- Sheet: README ---
+Headers:
+[ 'AddisView Addis Ababa Master Database Builder Pack', '' ]
+First row:
+[
+  'Status',
+  'Starter pack with a verified seed list and a scalable 500-location framework.'
+]
+
+--- Sheet: verified_seed ---
+Headers:
+[
+  'name',            'category',
+  'sub_category',    'area',
+  'city',            'country',
+  'latitude',        'longitude',
+  'seo_description', 'website',
+  'review_source',   'review_rating',
+  'review_count',    'image_source_page',
+  'source_url',      'verification_status',
+  'notes'
+]
+First row:
+[
+  'National Museum of Ethiopia',
+  'ATTRACTION',
+  'Museum',
+  'Arat Kilo',
+  'Addis Ababa',
+  'Ethiopia',
+  9.038333,
+  38.761944,
+  'National museum in Addis Ababa best known for Lucy and major archaeological and art collections.',
+  'http://nationalmuseum.gov.et',
+  'Tripadvisor',
+  <2 empty items>,
+  'Wikipedia / official museum page',
+  'https://en.wikipedia.org/wiki/National_Museum_of_Ethiopia',
+  'verified_seed',
+  'Coordinates from public geodata source; review counts still to pull from Google Maps or Tripadvisor API.'
+]
+
+--- Sheet: target_500_plan ---
+Headers:
+[ 'category', 'target_count', 'examples / source pools', 'notes' ]
+First row:
+[
+  'ATTRACTION',
+  75,
+  'Museums, cathedrals, parks, monuments, squares, galleries, cultural centers, universities, viewpoints',
+  'Start with Wikivoyage + TripAdvisor + official attraction sites + Google Maps'
+]
+
+--- Sheet: tour_packages ---
+Headers:
+[
+  'package_name',
+  'theme',
+  'provider_source',
+  'duration',
+  'starting_price',
+  'core_stops',
+  'summary',
+  'source_url'
+]
+First row:
+[
+  'Addis Ababa City Tour',
+  'City highlights',
+  'Viator',
+  '6 hours',
+  'from $75',
+  'National Museum; churches; coffee stop; markets',
+  'Standard introductory city tour for first-time visitors.',
+  'https://www.viator.com/tours/Addis-Ababa/Addis-Ababa-City-tour-museums-churches-coffee-and-more/d24099-5558806P1'
+]
+
+--- Sheet: ai_agent_workflow ---
+Headers:
+[ 'step', 'instruction' ]
+First row:
+[
+  '1',
+  'Pull candidate places from official sites, Google Maps / Places API, Tripadvisor, Viator, Wikivoyage and OpenStreetMap.'
+]

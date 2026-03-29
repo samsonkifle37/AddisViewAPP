@@ -1,0 +1,109 @@
+﻿[dotenv@17.3.1] injecting env (5) from .env.local -- tip: ­ƒöÉ prevent committing .env to code: https://dotenvx.com/precommit
+[dotenv@17.3.1] injecting env (5) from .env -- tip: ÔÜí´©Å secrets for agents: https://dotenvx.com/as2
+Connected to database
+
+--- Processing: Simien Eco Tours ---
+  Found in DB: 02eed363-7f82-43f8-a023-9d47b74f4ce9 (Simien Eco Tours)
+  Downloading from: https://simienethiopiatours.com/wp-content/uploads/2026/01/welcome.jpg...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/02eed363-7f82-43f8-a023-9d47b74f4ce9/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Ethio Travel and Tours ---
+  Found in DB: 2a3a9df3-9808-4470-a1cc-67cca69eb7c3 (Ethio Travel and Tours)
+  Downloading from: https://ethiotravelandtours.com/wp-content/uploads/2025/08/Slide_01.jp...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/2a3a9df3-9808-4470-a1cc-67cca69eb7c3/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Green Land Tours Ethiopia ---
+  Found in DB: 1a63c58c-f940-4b6c-b58c-f351b2ef4e26 (Green Land Tours Ethiopia)
+  Downloading from: https://cdn.getyourguide.com/image/tour_img/bba35d81a17207c5af9213faec...
+
+--- Processing: Addis Nightlife Tour ---
+  Found in DB: 09dab671-528d-4c5f-a620-4e8e9e826c04 (Addis Nightlife Tour)
+  Downloading from: https://static.wixstatic.com/media/a4eba5_f9a30da5f2c04140aeba3c2ed8c3...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/09dab671-528d-4c5f-a620-4e8e9e826c04/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Historical Addis Walking Tour ---
+  Found in DB: 70ca6741-8a47-4576-92ee-d3c926cdf277 (Historical Addis Walking Tour)
+  Downloading from: https://www.walkinethiopia.com/images/newbanners/1-lalibela.jpg...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/70ca6741-8a47-4576-92ee-d3c926cdf277/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Afro Ethiopia tour ---
+  Found in DB: 05c48f7f-ff4d-47c6-9e34-c2288dd3fc17 (Afro Ethiopia tour)
+  Downloading from: https://afroethiopiatour.com/wp-content/uploads/2026/01/Blue-Nile-Tis-...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/05c48f7f-ff4d-47c6-9e34-c2288dd3fc17/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Danakil Depression Tour ---
+  Found in DB: 5e61b482-8084-4c04-9c2c-4c0ef25e0962 (Danakil Depression Tour)
+  Downloading from: https://img1.wsimg.com/isteam/ip/3cbfe673-f7bd-4b44-acf1-a348f40254cf/...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/5e61b482-8084-4c04-9c2c-4c0ef25e0962/official_hero_v3.webp
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Rock-Hewn Churches of Lalibela ---
+  Found in DB: 94c62025-e2a7-4c16-9f40-1e15b03d0f86 (Rock-Hewn Churches of Lalibela)
+  Downloading from: https://whc.unesco.org/uploads/thumbs/site_0018_0016-400-400-201511041...
+
+--- Processing: Bale Mountains National Park ---
+  Found in DB: dc7b52a3-d5d5-4f16-9e25-de4e50475120 (Bale Mountains National Park)
+  Downloading from: https://balemountains.org/wp-content/uploads/2014/01/delphin-ruche021....
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/dc7b52a3-d5d5-4f16-9e25-de4e50475120/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Entoto Mountain Tour ---
+  Found in DB: 1e9e4de8-9695-42cd-9c2f-2059cfa6711e (Entoto Mountain Tour)
+  Downloading from: https://lh3.googleusercontent.com/gps-cs-s/AHVAweqj6phsp-nbXp8N_Ax4hCB...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/1e9e4de8-9695-42cd-9c2f-2059cfa6711e/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Merkato Market Tour ---
+  Found in DB: 311eb0dd-2691-4dbe-831a-bef6166180a0 (Merkato Market Tour)
+  Downloading from: https://lh3.googleusercontent.com/gps-cs-s/AHVAwepTKSh_oJmJVJRim3c9M-6...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/311eb0dd-2691-4dbe-831a-bef6166180a0/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Alem Bunna ---
+  Found in DB: b93a5ed4-97bd-4fa7-8c5c-ac2041e1055f (Alem Bunna)
+  Downloading from: https://lh3.googleusercontent.com/gps-cs-s/AHVAwepejz8F3tUXrvoQPOhWV69...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/b93a5ed4-97bd-4fa7-8c5c-ac2041e1055f/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Garden of Coffee ---
+  Found in DB: dcf61b97-7e82-49e9-a505-b56ef29531cd (Garden of Coffee)
+  Downloading from: https://lh3.googleusercontent.com/p/AF1QipOyfUWUkfnyq1l9cQuzIXLEOirh0w...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/dcf61b97-7e82-49e9-a505-b56ef29531cd/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Atikilt Tera vegetable market ---
+  Found in DB: 6fad0b58-712a-4e40-8326-f7bbb96927e2 (Atikilt Tera vegetable market)
+  Downloading from: https://lh3.googleusercontent.com/gps-cs-s/AHVAweowuPOp_QMWdFqOADSZKVo...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/6fad0b58-712a-4e40-8326-f7bbb96927e2/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: AbealTibeb Shromeda ---
+  Found in DB: 04400156-bfb9-43f9-9bf7-1034e0ddad96 (AbealTibeb Shromeda)
+  Downloading from: https://abealtebeb.com/images/abealtebeb%20(19%20(Custom).jpg...
+
+--- Processing: Entoto Natural Park ---
+  Found in DB: 439c6f09-b352-402b-8361-5880c2eb692c (Entoto Natural Park)
+  Downloading from: https://lh3.googleusercontent.com/gps-cs-s/AHVAwerei48lzShR6qoacfr5EBN...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/439c6f09-b352-402b-8361-5880c2eb692c/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Mount Entoto viewpoint ---
+  Found in DB: 1b8cc80b-c760-42d6-842b-eb2cfdcbb885 (Mount Entoto viewpoint)
+  Downloading from: https://lh3.googleusercontent.com/p/AF1QipO-qh7hGL__gQ9mFFGkvykPGtaDPp...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/1b8cc80b-c760-42d6-842b-eb2cfdcbb885/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+--- Processing: Ethnological Museum (Addis Ababa University) ---
+  Found in DB: 69a105ed-0739-4f8f-aaf6-460e74ef6d22 (Ethnological Museum (Addis Ababa University))
+  Downloading from: https://lh3.googleusercontent.com/gps-cs-s/AHVAweo5n__sz6FtfOiz-XfAMN5...
+  Uploaded: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/69a105ed-0739-4f8f-aaf6-460e74ef6d22/official_hero_v3.jpg
+  Ô£ô PlaceImage updated with official photo!
+
+========================================
+Done! Success: 15, Failed: 3
+========================================

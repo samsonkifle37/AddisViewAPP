@@ -1,0 +1,11 @@
+{
+  "https://simienethiopiatours.com/": "NOT_FOUND",
+  "https://ethiotravelandtours.com/": "NOT_FOUND",
+  "https://www.addisababatour.com/": "NOT_FOUND",
+  "https://www.walkinethiopia.com/": "NOT_FOUND",
+  "https://afroethiopiatour.com/": "NOT_FOUND",
+  "https://abealtebeb.com/home": "NOT_FOUND",
+  "https://balemountains.org/": "ERROR: timeout of 10000ms exceeded",
+  "https://ethiotours.travel/danakil-depression-tours": "ERROR: timeout of 10000ms exceeded",
+  "https://whc.unesco.org/en/list/18/": "ERROR: Request failed with status code 403"
+}

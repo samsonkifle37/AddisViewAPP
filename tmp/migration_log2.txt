@@ -1,0 +1,493 @@
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 11 places needing images (batch of 20)
+
+🔎  Adams Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Red Roof (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yesitota Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Nasa Cafe (coffee, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  HOME (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Temudas Pension (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chez Fasil (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Luhena Hotel - Cafe, Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigest (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Seada Muslim Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     0/11 places
+📸  Photos saved:  0
+❓  Not on Google: 0
+📭  No photos:     11
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 11 places needing images (batch of 20)
+
+🔎  Adams Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Red Roof (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yesitota Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Nasa Cafe (coffee, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  HOME (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Temudas Pension (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chez Fasil (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Luhena Hotel - Cafe, Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigest (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Seada Muslim Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     0/11 places
+📸  Photos saved:  0
+❓  Not on Google: 0
+📭  No photos:     11
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 11 places needing images (batch of 20)
+
+🔎  Adams Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Red Roof (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yesitota Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Nasa Cafe (coffee, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  HOME (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Temudas Pension (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chez Fasil (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Luhena Hotel - Cafe, Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigest (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Seada Muslim Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     0/11 places
+📸  Photos saved:  0
+❓  Not on Google: 0
+📭  No photos:     11
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 11 places needing images (batch of 20)
+
+🔎  Adams Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Red Roof (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yesitota Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Nasa Cafe (coffee, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  HOME (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Temudas Pension (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chez Fasil (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Luhena Hotel - Cafe, Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigest (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Seada Muslim Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     0/11 places
+📸  Photos saved:  0
+❓  Not on Google: 0
+📭  No photos:     11
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 11 places needing images (batch of 20)
+
+🔎  Adams Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Red Roof (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yesitota Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Nasa Cafe (coffee, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  HOME (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Temudas Pension (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chez Fasil (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Luhena Hotel - Cafe, Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigest (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Seada Muslim Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     0/11 places
+📸  Photos saved:  0
+❓  Not on Google: 0
+📭  No photos:     11
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  suppress all logs with { quiet: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 11 places needing images (batch of 20)
+
+🔎  Adams Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Red Roof (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yesitota Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Nasa Cafe (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (305.0 KB)
+  ✅  Photo 2/5 uploaded (622.1 KB)
+  ✅  Photo 3/5 uploaded (340.2 KB)
+  ✅  Photo 4/5 uploaded (381.7 KB)
+  ✅  Photo 5/5 uploaded (500.3 KB)
+
+🔎  HOME (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Temudas Pension (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chez Fasil (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Luhena Hotel - Cafe, Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigest (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Seada Muslim Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     1/11 places
+📸  Photos saved:  5
+❓  Not on Google: 0
+📭  No photos:     10
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 10 places needing images (batch of 20)
+
+🔎  Adams Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Red Roof (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yesitota Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  HOME (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Temudas Pension (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chez Fasil (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Luhena Hotel - Cafe, Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigest (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Seada Muslim Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     0/10 places
+📸  Photos saved:  0
+❓  Not on Google: 0
+📭  No photos:     10
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 10 places needing images (batch of 20)
+
+🔎  Adams Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Red Roof (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yesitota Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  HOME (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Temudas Pension (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chez Fasil (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Luhena Hotel - Cafe, Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigest (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Seada Muslim Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     0/10 places
+📸  Photos saved:  0
+❓  Not on Google: 0
+📭  No photos:     10
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 10 places needing images (batch of 20)
+
+🔎  Adams Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Red Roof (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yesitota Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  HOME (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Temudas Pension (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chez Fasil (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Luhena Hotel - Cafe, Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigest (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Seada Muslim Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     0/10 places
+📸  Photos saved:  0
+❓  Not on Google: 0
+📭  No photos:     10
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+📋  Found 10 places needing images (batch of 20)
+
+🔎  Adams Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Red Roof (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yesitota Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  HOME (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Temudas Pension (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chez Fasil (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Luhena Hotel - Cafe, Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigest (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Seada Muslim Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     0/10 places
+📸  Photos saved:  0
+❓  Not on Google: 0
+📭  No photos:     10
+💥  Errors:        0
+
+Run again to continue with next batch.

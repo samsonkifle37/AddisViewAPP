@@ -1,0 +1,1250 @@
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚡️ secrets for agents: https://dotenvx.com/as2
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  suppress all logs with { quiet: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🤖 agentic secret storage: https://dotenvx.com/as2
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🤖 agentic secret storage: https://dotenvx.com/as2
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🤖 agentic secret storage: https://dotenvx.com/as2
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚡️ secrets for agents: https://dotenvx.com/as2
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚡️ secrets for agents: https://dotenvx.com/as2
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚡️ secrets for agents: https://dotenvx.com/as2
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+
+💥  Fatal error: {
+  message: 'TypeError: fetch failed',
+  details: 'TypeError: fetch failed\n' +
+    '\n' +
+    'Caused by: HeadersOverflowError: Headers Overflow Error (UND_ERR_HEADERS_OVERFLOW)\n' +
+    'HeadersOverflowError: Headers Overflow Error\n' +
+    '    at Parser.trackHeader (node:internal/deps/undici/undici:7320:37)\n' +
+    '    at Parser.onHeaderValue (node:internal/deps/undici/undici:7311:14)\n' +
+    '    at wasm_on_header_value (node:internal/deps/undici/undici:7067:34)\n' +
+    '    at wasm://wasm/00034eea:wasm-function[49]:0x994b\n' +
+    '    at wasm://wasm/00034eea:wasm-function[20]:0x8f80\n' +
+    '    at Parser.execute (node:internal/deps/undici/undici:7214:26)\n' +
+    '    at Parser.readMore (node:internal/deps/undici/undici:7190:16)\n' +
+    '    at TLSSocket.onHttpSocketReadable (node:internal/deps/undici/undici:7626:22)\n' +
+    '    at TLSSocket.emit (node:events:508:28)\n' +
+    '    at emitReadable_ (node:internal/streams/readable:836:12)',
+  hint: "HTTP headers exceeded server limits (typically 16KB). Your request URL is 24124 characters. If selecting many fields, consider using views. If filtering with large arrays (e.g., .in('id', [200+ IDs])), consider using an RPC function instead.",
+  code: ''
+}

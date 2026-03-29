@@ -1,0 +1,52 @@
+=== ZERO REAL IMAGE — HIGH PRIORITY QUEUE ===
+Generated: 2026-03-20T19:16:02.966Z
+Total listings needing real imagery: 425
+
+── TIER 1: CRITICAL (0 listings) ──
+These should be enriched FIRST via Google Places or manual upload.
+
+
+── TIER 2: IMPORTANT (226 listings) ──
+Enrich after Tier 1 is resolved.
+
+    1. [RESTAURANT  ] Loti Bar & Restaurant                    Score=75 VS=45
+    2. [RESTAURANT  ] Four Seasons                             Score=70 VS=40
+    3. [HOTEL       ] BeAleta Hotel Apartment                  Score=60 VS=30
+    4. [HOTEL       ] Hyatt Regency Addis Ababa                Score=60 VS=30
+    5. [HOTEL       ] Hotel De France                          Score=60 VS=30
+    6. [RESTAURANT  ] Le Diamant                               Score=60 VS=30
+    7. [HOTEL       ] Mora Heights Hotel                       Score=60 VS=30
+    8. [RESTAURANT  ] KHOKHLOMA Russian restaurant             Score=60 VS=30
+    9. [MUSEUM      ] “Red Terror” Martyrs’ Memorial Museum    Score=60 VS=30
+   10. [HOTEL       ] Di Napoli Hotel                          Score=60 VS=30
+   11. [RESTAURANT  ] Arirang Korean Restaurant                Score=50 VS=35
+   12. [RESTAURANT  ] Zola Restaurant                          Score=50 VS=35
+   13. [RESTAURANT  ] Totot Traditional food Hall              Score=50 VS=35
+   14. [HOTEL       ] Soramba Hotel                            Score=50 VS=35
+   15. [HOTEL       ] Bole International Hotel                 Score=50 VS=35
+   16. [RESTAURANT  ] Pizza Di Napoli Restaurant               Score=50 VS=35
+   17. [RESTAURANT  ] Family Restaurant Debre Zeit             Score=50 VS=35
+   18. [RESTAURANT  ] Amsterdam Bar and Restaurant             Score=50 VS=35
+   19. [RESTAURANT  ] KG Corner ኬጂ ኮርነር                        Score=50 VS=35
+   20. [RESTAURANT  ] Cloud 9 Cafe and Restaurant              Score=50 VS=35
+
+── TIER 3: LOW PRIORITY (199 listings) ──
+Background enrichment candidates.
+
+
+── CATEGORY BREAKDOWN ──
+  RESTAURANT    : 171 listings need real images
+  HOTEL         : 117 listings need real images
+  COFFEE        : 43 listings need real images
+  PARK          : 27 listings need real images
+  TRANSPORT     : 17 listings need real images
+  MUSEUM        : 13 listings need real images
+  TOUR          : 12 listings need real images
+  GUESTHOUSE    : 5 listings need real images
+  RESORT        : 5 listings need real images
+  APARTMENT     : 4 listings need real images
+  CAFE          : 3 listings need real images
+  RELIGIOUS SITE: 3 listings need real images
+  NIGHTLIFE     : 2 listings need real images
+  MARKET        : 2 listings need real images
+  LANDMARK      : 1 listings need real images

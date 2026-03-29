@@ -1,0 +1,102 @@
+[dotenv@17.3.1] injecting env (7) from H:\AddisView\.env.local -- tip: ⚙️  suppress all logs with { quiet: true }
+
+?? Fixing 86 places with no images
+
+[1/86] Red Roof
+  ?? "Red Roof restaurant Addis Ababa Ethiopia"
+  ?? "Red Door Apartments and Art Gallery" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[2/86] Tigest
+  ?? "Tigest restaurant Addis Ababa Ethiopia"
+  ?? "Tigist Ayelech And Friends Student Feeding Work Pa" � 1 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[3/86] Seada Muslim Restaurant
+  ?? "Seada Muslim Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Antica Bar & Restaurant | Bole | አንቲካ ባርና ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[4/86] Loti Bar & Restaurant
+  ?? "Loti Bar & Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[5/86] Samket
+  ?? "Samket restaurant Addis Ababa Ethiopia"
+  ?? "Samket Aamchit" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[6/86] Namrud Cafe
+  ?? "Namrud Cafe cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[7/86] La coquette
+  ?? "La coquette cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[8/86] Nina
+  ?? "Nina cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[9/86] Kokeb
+  ?? "Kokeb cafe Addis Ababa Ethiopia"
+  ?? "Kokeb Hall" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[10/86] Evian's
+  ?? "Evian's cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[11/86] Babu Cafe
+  ?? "Babu Cafe cafe Addis Ababa Ethiopia"
+  ?? "cafe babu" � 5 photos (exact)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[12/86] King's Pizza
+  ?? "King's Pizza restaurant Addis Ababa Ethiopia"
+  ?? "Kin Burger" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[13/86] Elias
+  ?? "Elias restaurant Addis Ababa Ethiopia"
+  ?? "Elhood(elias)advertኤልያስ ማስታወቂያ" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[14/86] Tsige Bar and Restaurant
+  ?? "Tsige Bar and Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Tsige Bar & Restornat" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[15/86] ፎርቹን ካፌ እና ሬስቶራንት
+  ?? "ፎርቹን ካፌ እና ሬስቶራንት restaurant Addis Ababa Ethiopia"
+  ?? "Addis Fortune" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[16/86] Chacha Bar & Restaurant
+  ?? "Chacha Bar & Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "ChaChaChá Bar-Restaurante" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[17/86] Huye Pizzeria and Burger
+  ?? "Huye Pizzeria and Burger restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[18/86] ዊንታ ሽሮ
+  ?? "ዊንታ ሽሮ restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[19/86] Tigist
+  ?? "Tigist restaurant Addis Ababa Ethiopia"
+  ?? "Dr. Tigist Medical Clinic" � 2 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[20/86] Mimi Cafe
+  ?? "Mimi Cafe cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[21/86] Samrawit Hotel Restaurant & Bar
+  ?? "Samrawit Hotel Restaurant & Bar restaurant Addis Ababa Ethiopia"
+  ?? "ሳምራት ሆቴል Samrat Hotel" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[22/86] Rahel's Coffee Time
+  ?? "Rahel's Coffee Time restaurant Addis Ababa Ethiopia"
+  ?? "Time Cafe" � 5 photos (exact)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[23/86] Absiuthe Lounge
+  ?? "Absiuthe Lounge restaurant Addis Ababa Ethiopia"
+  ?? "Absinthe Lounge" � 3 photos (representative)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[24/86] Natani
+  ?? "Natani cafe Addis Ababa Ethiopia"
+  ?? "Natani Cafe" � 5 photos (exact)
+  ? DB insert error: null value in column "id" of relation "PlaceImage" violates not-null constraint
+[25/86] Abucci
+  ?? "Abucci restaurant Addis Ababa Ethiopia"

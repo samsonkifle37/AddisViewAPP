@@ -1,0 +1,18 @@
+﻿[dotenv@17.3.1] injecting env (5) from .env.local -- tip: ÔÜÖ´©Å  override existing env vars with { override: true }
+[dotenv@17.3.1] injecting env (5) from .env -- tip: ­ƒøí´©Å auth for agents: https://vestauth.com
+Found 15 places missing images in Tour categories:
+- Addis Ababa Food Tasting Tour (tour)
+- Entoto Mountain Guided Day Tour (tour)
+- Meskel Square (tour)
+- Lucy to Today: Addis Ababa's Living History Tour (tour)
+- Ethnological Museum (museum)
+- Taste of Ethiopia Food Tour (tour)
+- Full-Day City Tour of Addis Ababa (tour)
+- Addis Ababa Furi-Lebu Railway Station (tour)
+- Kaldi's Coffee (coffee)
+- Merkato (market)
+- St. George Cathedral (museum)
+- Shiro Meda Market (market)
+- Red Terror Martyrs' Memorial Museum (museum)
+- Addis Ababa City Tour (tour)
+- Bole International Airport (tour)

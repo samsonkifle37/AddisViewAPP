@@ -1,0 +1,322 @@
+[dotenv@17.3.1] injecting env (7) from H:\AddisView\.env.local -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+
+?? Fixing 79 places with no images
+
+[1/79] Red Roof
+  ?? "Red Roof restaurant Addis Ababa Ethiopia"
+  ?? "Red Door Apartments and Art Gallery" � 3 photos (representative)
+  ? 3 images saved
+[2/79] Tigest
+  ?? "Tigest restaurant Addis Ababa Ethiopia"
+  ?? "Tigist Ayelech And Friends Student Feeding Work Pa" � 1 photos (representative)
+  ? 1 images saved
+[3/79] Seada Muslim Restaurant
+  ?? "Seada Muslim Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Belvedere Restaurant" � 3 photos (representative)
+  ? 3 images saved
+[4/79] Loti Bar & Restaurant
+  ?? "Loti Bar & Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? 3 images saved
+[5/79] Samket
+  ?? "Samket restaurant Addis Ababa Ethiopia"
+  ?? "Samket Aamchit" � 3 photos (representative)
+  ? 3 images saved
+[6/79] Namrud Cafe
+  ?? "Namrud Cafe cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? 3 images saved
+[7/79] La coquette
+  ?? "La coquette cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? 3 images saved
+[8/79] Nina
+  ?? "Nina cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? 3 images saved
+[9/79] Kokeb
+  ?? "Kokeb cafe Addis Ababa Ethiopia"
+  ?? "Kokeb Hall" � 3 photos (representative)
+  ? 3 images saved
+[10/79] Evian's
+  ?? "Evian's cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? 3 images saved
+[11/79] Babu Cafe
+  ?? "Babu Cafe cafe Addis Ababa Ethiopia"
+  ?? "cafe babu" � 5 photos (exact)
+  ? 5 images saved
+[12/79] King's Pizza
+  ?? "King's Pizza restaurant Addis Ababa Ethiopia"
+  ?? "Kin Burger" � 3 photos (representative)
+  ? 3 images saved
+[13/79] Elias
+  ?? "Elias restaurant Addis Ababa Ethiopia"
+  ?? "Elhood(elias)advertኤልያስ ማስታወቂያ" � 3 photos (representative)
+  ? 3 images saved
+[14/79] Tsige Bar and Restaurant
+  ?? "Tsige Bar and Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? 3 images saved
+[15/79] ፎርቹን ካፌ እና ሬስቶራንት
+  ?? "ፎርቹን ካፌ እና ሬስቶራንት restaurant Addis Ababa Ethiopia"
+  ?? "Addis Fortune" � 3 photos (representative)
+  ? 3 images saved
+[16/79] Chacha Bar & Restaurant
+  ?? "Chacha Bar & Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "ChaChaChá Bar-Restaurante" � 3 photos (representative)
+  ? 3 images saved
+[17/79] Huye Pizzeria and Burger
+  ?? "Huye Pizzeria and Burger restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? 3 images saved
+[18/79] ዊንታ ሽሮ
+  ?? "ዊንታ ሽሮ restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? 3 images saved
+[19/79] Tigist
+  ?? "Tigist restaurant Addis Ababa Ethiopia"
+  ?? "Dr. Tigist Medical Clinic" � 2 photos (representative)
+  ? 2 images saved
+[20/79] Mimi Cafe
+  ?? "Mimi Cafe cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? 3 images saved
+[21/79] Samrawit Hotel Restaurant & Bar
+  ?? "Samrawit Hotel Restaurant & Bar restaurant Addis Ababa Ethiopia"
+  ?? "ሳምራት ሆቴል Samrat Hotel" � 3 photos (representative)
+  ? 3 images saved
+[22/79] Rahel's Coffee Time
+  ?? "Rahel's Coffee Time restaurant Addis Ababa Ethiopia"
+  ?? "Time Cafe" � 5 photos (exact)
+  ? 5 images saved
+[23/79] Absiuthe Lounge
+  ?? "Absiuthe Lounge restaurant Addis Ababa Ethiopia"
+  ?? "Absinthe Lounge" � 3 photos (representative)
+  ? 3 images saved
+[24/79] Passion Burger
+  ?? "Passion Burger restaurant Addis Ababa Ethiopia"
+  ?? "Passion Burger" � 3 photos (representative)
+  ? 2 images saved
+[25/79] Cannan Fastfood
+  ?? "Cannan Fastfood restaurant Addis Ababa Ethiopia"
+  ?? "Canaan Breakfast" � 1 photos (exact)
+  ? 1 images saved
+[26/79] Loyal Snack
+  ?? "Loyal Snack restaurant Addis Ababa Ethiopia"
+  ?? "Chilalo Food Complex" � 3 photos (representative)
+  ? 3 images saved
+[27/79] Roomi Burger
+  ?? "Roomi Burger restaurant Addis Ababa Ethiopia"
+  ?? "Mica´s Burger and Pizza" � 3 photos (representative)
+  ? 3 images saved
+[28/79] Parkdale Burger
+  ?? "Parkdale Burger restaurant Addis Ababa Ethiopia"
+  ?? "በርገር ሻክ | Burger Shack" � 3 photos (representative)
+  ? 3 images saved
+[29/79] Roomi Burger
+  ?? "Roomi Burger restaurant Addis Ababa Ethiopia"
+  ?? "Mica´s Burger and Pizza" � 3 photos (representative)
+  ? 3 images saved
+[30/79] IDCON  (Infrastructure Design Consultants)
+  ?? "IDCON  (Infrastructure Design Consultants) museum Addis Ababa Ethiopia"
+  ?? "Ethiopian Science Museum" � 3 photos (representative)
+  ? 3 images saved
+[31/79] ShebaSign Advertisement Network
+  ?? "ShebaSign Advertisement Network museum Addis Ababa Ethiopia"
+  ?? "Ethiopian Science Museum" � 5 photos (exact)
+  ? 5 images saved
+[32/79] Alert Engineering Plc.
+  ?? "Alert Engineering Plc. museum Addis Ababa Ethiopia"
+  ?? "Ethiopian Science Museum" � 3 photos (representative)
+  ? 3 images saved
+[33/79] ye Erago beti
+  ?? "ye Erago beti restaurant Addis Ababa Ethiopia"
+  ?? "Belvedere Restaurant" � 3 photos (representative)
+  ? 3 images saved
+[34/79] Omna Bar and Restaurant
+  ?? "Omna Bar and Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Omna Bar and Restaurant" � 5 photos (exact)
+  ? 5 images saved
+[35/79] United Breakfast
+  ?? "United Breakfast restaurant Addis Ababa Ethiopia"
+  ?? "United restaurant" � 5 photos (exact)
+  ? 5 images saved
+[36/79] ኦፒይም ረስቱርንት
+  ?? "ኦፒይም ረስቱርንት restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? 3 images saved
+[37/79] Hebron Cafe & Fast Food
+  ?? "Hebron Cafe & Fast Food restaurant Addis Ababa Ethiopia"
+  ?? "Birra’s Brew" � 3 photos (representative)
+  ? 3 images saved
+[38/79] Insomia Coffee
+  ?? "Insomia Coffee cafe Addis Ababa Ethiopia"
+  ?? "Tomoca Coffee" � 5 photos (exact)
+  ? 5 images saved
+[39/79] ፊደል
+  ?? "ፊደል restaurant Addis Ababa Ethiopia"
+  ?? "Fidel Bar and Restaurant" � 5 photos (exact)
+  ? 5 images saved
+[40/79] Elseven Coffee
+  ?? "Elseven Coffee cafe Addis Ababa Ethiopia"
+  ?? "Elseven Coffee" � 5 photos (exact)
+  ? 5 images saved
+[41/79] ኩዊንስ ባርና ሬስቶራንት
+  ?? "ኩዊንስ ባርና ሬስቶራንት restaurant Addis Ababa Ethiopia"
+  ?? "ኩዊንስ ባርና ሬስቶራንት" � 2 photos (exact)
+  ? 2 images saved
+[42/79] Qawa Arada Cafe
+  ?? "Qawa Arada Cafe restaurant Addis Ababa Ethiopia"
+  ?? "Qawa Arada Cafe Traditional Coffee" � 3 photos (representative)
+  ? 3 images saved
+[43/79] La Nouvelle
+  ?? "La Nouvelle restaurant Addis Ababa Ethiopia"
+  ?? "La Nouvelle Cafe & Restaurant l ላ ኑቬል ካፌ እና ሬስቶራንት" � 5 photos (exact)
+  ? 5 images saved
+[44/79] Yummy Pizza
+  ?? "Yummy Pizza restaurant Addis Ababa Ethiopia"
+  ?? "Yummy Pizza | Gurdsholla | የሚ ፒዛ | ጉርድ ሾላ" � 5 photos (exact)
+  ? 5 images saved
+[45/79] Getsh Restaurant
+  ?? "Getsh Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Getish Restaurant" � 5 photos (exact)
+  ? 5 images saved
+[46/79] Raeiy Restaurant and Juice
+  ?? "Raeiy Restaurant and Juice restaurant Addis Ababa Ethiopia"
+  ?? "Radha's Indian Restaurant and Bar" � 5 photos (exact)
+  ? 5 images saved
+[47/79] Oroscopo
+  ?? "Oroscopo restaurant Addis Ababa Ethiopia"
+  ?? "Oroscopo Restaurant" � 5 photos (exact)
+  ? 5 images saved
+[48/79] Abyssinia Renaissance
+  ?? "Abyssinia Renaissance restaurant Addis Ababa Ethiopia"
+  ?? "Abyssinia Renaissance Hotel | Gerji | አቢሲኒያ ሬነሰንስ ሆቴል | ገርጂ" � 5 photos (exact)
+  ? 5 images saved
+[49/79] Hide out
+  ?? "Hide out restaurant Addis Ababa Ethiopia"
+  ?? "Hideout Coffee" � 5 photos (exact)
+  ? 5 images saved
+[50/79] Clay Pot Resturant
+  ?? "Clay Pot Resturant restaurant Addis Ababa Ethiopia"
+  ?? "Clay Pot Resturant" � 5 photos (exact)
+  ? 5 images saved
+[51/79] Aster Bunna
+  ?? "Aster Bunna cafe Addis Ababa Ethiopia"
+  ?? "Aster Coffee Shop | Olompia | አስቴር ቡና | ኦሎምፒያ" � 5 photos (exact)
+  ? 5 images saved
+[52/79] La Nouvelle
+  ?? "La Nouvelle cafe Addis Ababa Ethiopia"
+  ?? "La Nouvelle Cafe & Restaurant l ላ ኑቬል ካፌ እና ሬስቶራንት" � 5 photos (exact)
+  ? 5 images saved
+[53/79] AB Cafe
+  ?? "AB Cafe cafe Addis Ababa Ethiopia"
+  ?? "AB Coffee" � 5 photos (exact)
+  ? 5 images saved
+[54/79] City Breeze Bar & Grill
+  ?? "City Breeze Bar & Grill restaurant Addis Ababa Ethiopia"
+  ?? "City Breeze Bar & Grill" � 5 photos (exact)
+  ? 5 images saved
+[55/79] Fresh touch
+  ?? "Fresh touch restaurant Addis Ababa Ethiopia"
+  ?? "Fresh Touch bar & restaurant" � 5 photos (exact)
+  ? 5 images saved
+[56/79] Spices of India
+  ?? "Spices of India restaurant Addis Ababa Ethiopia"
+  ?? "Radha's Indian Restaurant and Bar" � 5 photos (exact)
+  ? 5 images saved
+[57/79] Celavie Chicken and Burger
+  ?? "Celavie Chicken and Burger restaurant Addis Ababa Ethiopia"
+  ?? "Celavie Chicken and Burger | Bole Brass |" � 5 photos (exact)
+  ? 5 images saved
+[58/79] Bilos Pastry
+  ?? "Bilos Pastry cafe Addis Ababa Ethiopia"
+  ?? "Bilos Pastry | Atlas Branch | ቢሎስ | አትላስ |" � 5 photos (exact)
+  ? 5 images saved
+[59/79] Jitu Cafe
+  ?? "Jitu Cafe cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? 3 images saved
+[60/79] Tsiga Shiro 
+  ?? "Tsiga Shiro  restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? 3 images saved
+[61/79] ንግስተ ሳባ
+  ?? "ንግስተ ሳባ restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? 3 images saved
+[62/79] ካሲምቦ ካፌ እና ሬስቶራንት
+  ?? "ካሲምቦ ካፌ እና ሬስቶራንት restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? 3 images saved
+[63/79] University Cafeteria
+  ?? "University Cafeteria restaurant Addis Ababa Ethiopia"
+  ?? "5 kilo Student Cafe" � 2 photos (representative)
+  ? 2 images saved
+[64/79] Yegorad cafe qnd restaurant
+  ?? "Yegorad cafe qnd restaurant cafe Addis Ababa Ethiopia"
+  ?? "Yenad coffee 2" � 3 photos (representative)
+  ? 3 images saved
+[65/79] Arada Cafe
+  ?? "Arada Cafe cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? 3 images saved
+[66/79] Qawa restaurant
+  ?? "Qawa restaurant cafe Addis Ababa Ethiopia"
+  ?? "London Cafe | Bole Medhanialem | ለንደን ካፌ | ቦሌ መድሃኒዓለም" � 3 photos (representative)
+  ? 3 images saved
+[67/79] ልደት ሬስቶራንት ና ባር
+  ?? "ልደት ሬስቶራንት ና ባር restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? 3 images saved
+[68/79] Zaid Coffee and Snack bar ®
+  ?? "Zaid Coffee and Snack bar ® cafe Addis Ababa Ethiopia"
+  ?? "Zibano coffee" � 3 photos (representative)
+  ? 3 images saved
+[69/79] Maed Bar and Restaurant
+  ?? "Maed Bar and Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Marcus Addis Restaurant & Sky Bar" � 3 photos (representative)
+  ? 3 images saved
+[70/79] Coffee Plus
+  ?? "Coffee Plus cafe Addis Ababa Ethiopia"
+  ?? "Tomoca Coffee" � 5 photos (exact)
+  ? 5 images saved
+[71/79] አምሳለ ሽሮ
+  ?? "አምሳለ ሽሮ restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? 3 images saved
+[72/79] ሸገር ባር ና resturant
+  ?? "ሸገር ባር ና resturant restaurant Addis Ababa Ethiopia"
+  ?? "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ" � 3 photos (representative)
+  ? 3 images saved
+[73/79] ሐመሩሀ ካፌና ሬስቶራንት
+  ?? "ሐመሩሀ ካፌና ሬስቶራንት restaurant Addis Ababa Ethiopia"
+  ?? "Belvedere Restaurant" � 3 photos (representative)
+  ? 3 images saved
+[74/79] Fikadu Bar and Restaurant
+  ?? "Fikadu Bar and Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Fekadu Awji Bar & Restaurant - ፍቃዱ አውጂ ምግብ ቤትና መጠጥ ቤት" � 5 photos (exact)
+  ? 5 images saved
+[75/79] Tsion Cafe
+  ?? "Tsion Cafe cafe Addis Ababa Ethiopia"
+  ?? "Tsion Cafe" � 3 photos (representative)
+  ? 3 images saved
+[76/79] Roma bar and resturant
+  ?? "Roma bar and resturant cafe Addis Ababa Ethiopia"
+  ?? "Rome 1960 Cafe" � 3 photos (representative)
+  ? 3 images saved
+[77/79] Jah Bar & Restaurant
+  ?? "Jah Bar & Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Radha's Indian Restaurant and Bar" � 3 photos (representative)
+  ? 3 images saved
+[78/79] Meklit Bar & Restaurant
+  ?? "Meklit Bar & Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Meskott Culinary Experience" � 3 photos (representative)
+  ? 3 images saved
+[79/79] Seble Bar & Restaurant
+  ?? "Seble Bar & Restaurant restaurant Addis Ababa Ethiopia"
+  ?? "Seble Fish and Restaurant | 4 Kilo | ሰብለ አሳና ሬስቶራንት | 4 ኪሎ" � 3 photos (representative)
+  ? 3 images saved
+
+? Done � 79 fixed, 0 could not get photos

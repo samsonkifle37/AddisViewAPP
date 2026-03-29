@@ -1052,7 +1052,7 @@
     "has_wikimedia_image": false,
     "description_present": true,
     "short_desc": "Grand Ethiopian cultural dining venue at Bole Atlas, famous ",
-    "maps_link_present": false,
+    "maps_link_present": true,
     "website_present": true,
     "contact_present": true,
     "auditStatus": "ok"

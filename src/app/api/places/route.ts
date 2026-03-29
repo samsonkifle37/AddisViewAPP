@@ -11,7 +11,7 @@ export async function GET(request: NextRequest) {
         const offset = parseInt(searchParams.get("offset") || "0");
 
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        const where: any = { isActive: true };
+        const where: any = { isActive: true, status: 'APPROVED' };
 
         if (type) {
             const types = type.split(",").map((t) => t.trim());
@@ -51,7 +51,12 @@ export async function GET(request: NextRequest) {
                     },
                     _count: { select: { reviews: true, favorites: true } },
                 },
-                orderBy: { createdAt: "desc" },
+                orderBy: [
+                    { ownerVerified: "desc" },
+                    { featured: "desc" },
+                    { verificationScore: "desc" },
+                    { createdAt: "desc" }
+                ],
                 take: limit,
                 skip: offset,
             }),

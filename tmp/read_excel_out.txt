@@ -1,0 +1,83 @@
+﻿Found 37 records in verified_seed
+[
+  {
+    name: 'National Museum of Ethiopia',
+    category: 'ATTRACTION',
+    sub_category: 'Museum',
+    area: 'Arat Kilo',
+    city: 'Addis Ababa',
+    country: 'Ethiopia',
+    latitude: 9.038333,
+    longitude: 38.761944,
+    seo_description: 'National museum in Addis Ababa best known for Lucy and major archaeological and art collections.',
+    website: 'http://nationalmuseum.gov.et',
+    review_source: 'Tripadvisor',
+    image_source_page: 'Wikipedia / official museum page',
+    source_url: 'https://en.wikipedia.org/wiki/National_Museum_of_Ethiopia',
+    verification_status: 'verified_seed',
+    notes: 'Coordinates from public geodata source; review counts still to pull from Google Maps or Tripadvisor API.'
+  },
+  {
+    name: 'Unity Park',
+    category: 'ATTRACTION',
+    sub_category: 'Historic Park',
+    area: 'Arat Kilo',
+    city: 'Addis Ababa',
+    country: 'Ethiopia',
+    seo_description: 'Landmark palace complex with museums, gardens and zoological exhibits inside EthiopiaÔÇÖs National Palace compound.',
+    website: 'https://www.unitypark.et/',
+    review_source: 'Tripadvisor',
+    image_source_page: 'Official Unity Park site',
+    source_url: 'https://www.unitypark.et/',
+    verification_status: 'verified_seed',
+    notes: 'Official site verified; exact coordinates still to be pinned in agent pass.'
+  },
+  {
+    name: 'Entoto Natural Park',
+    category: 'ATTRACTION',
+    sub_category: 'Nature Park',
+    area: 'Entoto',
+    city: 'Addis Ababa',
+    country: 'Ethiopia',
+    seo_description: 'Large mountain park above Addis with viewpoints, trails, recreation areas and visitor facilities.',
+    website: 'https://www.visitethiopia.et/space/ethiopia',
+    review_source: 'Tripadvisor',
+    image_source_page: 'Visit Ethiopia / Entoto page',
+    source_url: 'https://www.worqambatour.com/Entoto-Natural-Park-Addis-Ababa.html',
+    verification_status: 'verified_seed',
+    notes: 'Use Google Maps to pin primary gate and image set.'
+  }
+]
+Found 6 records in tour_packages
+[
+  {
+    package_name: 'Addis Ababa City Tour',
+    theme: 'City highlights',
+    provider_source: 'Viator',
+    duration: '6 hours',
+    starting_price: 'from $75',
+    core_stops: 'National Museum; churches; coffee stop; markets',
+    summary: 'Standard introductory city tour for first-time visitors.',
+    source_url: 'https://www.viator.com/tours/Addis-Ababa/Addis-Ababa-City-tour-museums-churches-coffee-and-more/d24099-5558806P1'
+  },
+  {
+    package_name: 'Full-Day City Tour of Addis Ababa',
+    theme: 'City highlights',
+    provider_source: 'Viator',
+    duration: '7-8 hours',
+    starting_price: 'from $90',
+    core_stops: 'National Museum; Merkato; cathedral; viewpoints',
+    summary: 'Longer day tour covering major landmarks.',
+    source_url: 'https://www.viator.com/tours/Addis-Ababa/Addis-Ababa-City-tour-museums-churches-coffee-and-more/d24099-5558806P1'
+  },
+  {
+    package_name: 'Addis Ababa Food Tasting Tour',
+    theme: 'Food',
+    provider_source: 'Viator',
+    duration: 'varies',
+    starting_price: 'check live',
+    core_stops: 'Local restaurants; juice bar; coffee house',
+    summary: 'Culinary tour designed around Ethiopian dishes and neighborhood tasting.',
+    source_url: 'https://www.viator.com/tours/Addis-Ababa/Addis-food-testing-tour/d24099-153448P10'
+  }
+]

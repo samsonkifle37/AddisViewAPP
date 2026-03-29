@@ -1,0 +1,20 @@
+﻿[dotenv@17.3.1] injecting env (5) from .env.local -- tip: ÔÜí´©Å secrets for agents: https://dotenvx.com/as2
+[dotenv@17.3.1] injecting env (5) from .env -- tip: ÔÜÖ´©Å  suppress all logs with { quiet: true }
+Totot Lounge - Image URL: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/3c10dd29-53e7-4832-b59e-f07bbce0fc85/official_hero_v3.jpg
+Totot Traditional Restaurant - Image URL: https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200
+Totot Traditional Restaurant - Image URL: https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=1200
+Fendika Cultural Center - Image URL: https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1200
+Fendika Cultural Center - Image URL: https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200
+The Mosaic Hotel - Image URL: https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?w=1200
+The Mosaic Hotel - Image URL: https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1200
+2000 Habesha Cultural Restaurant - Image URL: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ethiopian_Coffee_Ceremony.jpg/800px-Ethiopian_Coffee_Ceremony.jpg
+Dashen Traditional Restaurant - Image URL: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/dashen-traditional-restaurant-restaurant/cover.jpeg
+Five Loaves Restaurant - Image URL: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/91003df1-d60b-440d-baa0-3e7c35c9dcee/official_hero_v3.jpg
+Castelli Restaurant - Image URL: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/0473949f-1d6c-45fe-a1cf-327fec892bc7/official_hero_v3.jpg
+Lucy Lounge - Image URL: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/bbb32171-f4ee-4e7d-aeef-1f59cb81db22/official_hero_v3.jpg
+Sishu Restaurant - Image URL: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/c91e1910-878e-4bd5-8dc4-d00870fa0e10/official_hero_v3.jpg
+2000 Habesha Cultural Restaurant - Image URL: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/85368033-8861-495e-8bef-c684b5e6ece3/official_hero_v3.jpg
+Yod Abyssinia - Image URL: https://hrbxtdzpseitkegkeknt.supabase.co/storage/v1/object/public/public-images/places/ea1704ef-1e40-485d-b23b-abf23015615c/official_hero_v3.jpg
+Castelli's Restaurant - Image URL: MISSING
+Marcus Addis Restaurant & Sky Bar - Image URL: MISSING
+Taste of Ethiopia - Image URL: MISSING

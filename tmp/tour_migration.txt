@@ -1,0 +1,120 @@
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Tour Image Migration Script             ║
+╚══════════════════════════════════════════════════════╝
+
+Found 12 tours to process
+
+
+🗺  Addis City Tour
+   Searching: "Addis Ababa city center Ethiopia landmarks"
+   📸 Found 5 photo(s) via "Meskel Square"
+   ✅ Photo 1/5 uploaded (62.3 KB)
+   ✅ Photo 2/5 uploaded (350.9 KB)
+   ✅ Photo 3/5 uploaded (183.4 KB)
+   ✅ Photo 4/5 uploaded (259.3 KB)
+   ✅ Photo 5/5 uploaded (155.6 KB)
+
+🗺  Addis Food Tour
+   Searching: "Ethiopian food injera traditional Addis Ababa"
+   📸 Found 5 photo(s) via "Yod Abyssinia Traditional Restaurant"
+   ✅ Photo 1/5 uploaded (168.7 KB)
+   ✅ Photo 2/5 uploaded (224.3 KB)
+   ✅ Photo 3/5 uploaded (323.9 KB)
+   ✅ Photo 4/5 uploaded (191.2 KB)
+   ✅ Photo 5/5 uploaded (180.9 KB)
+
+🗺  Awash National Park Day Trip
+   Searching: "Awash National Park Ethiopia"
+   📸 Found 5 photo(s) via "Awash National Park"
+   ✅ Photo 1/5 uploaded (304.0 KB)
+   ✅ Photo 2/5 uploaded (362.3 KB)
+   ✅ Photo 3/5 uploaded (190.3 KB)
+   ✅ Photo 4/5 uploaded (232.8 KB)
+   ✅ Photo 5/5 uploaded (304.4 KB)
+
+🗺  Blue Nile Gorge Tour
+   Searching: "Blue Nile Gorge Ethiopia Abay"
+   📸 Found 5 photo(s) via "Tiss Abay Falls"
+   ✅ Photo 1/5 uploaded (129.6 KB)
+   ✅ Photo 2/5 uploaded (285.3 KB)
+   ✅ Photo 3/5 uploaded (216.5 KB)
+   ✅ Photo 4/5 uploaded (399.3 KB)
+   ✅ Photo 5/5 uploaded (222.5 KB)
+
+🗺  Coffee Ceremony Experience
+   Searching: "Ethiopian coffee ceremony traditional"
+   📸 Found 4 photo(s) via "Traditional Coffee - ኑ ቡና ጠጡ"
+   ✅ Photo 1/4 uploaded (312.5 KB)
+   ✅ Photo 2/4 uploaded (369.6 KB)
+   ✅ Photo 3/4 uploaded (117.5 KB)
+   ✅ Photo 4/4 uploaded (173.7 KB)
+
+🗺  Debre Libanos Monastery Trip
+   Searching: "Debre Libanos Monastery Ethiopia"
+   📸 Found 5 photo(s) via "Debre libanos Orthodox Church"
+   ✅ Photo 1/5 uploaded (134.3 KB)
+   ✅ Photo 2/5 uploaded (173.1 KB)
+   ✅ Photo 3/5 uploaded (254.5 KB)
+   ✅ Photo 4/5 uploaded (184.6 KB)
+   ✅ Photo 5/5 uploaded (143.7 KB)
+
+🗺  Entoto Mountain Hike
+   Searching: "Entoto Mountain Addis Ababa Ethiopia"
+   📸 Found 5 photo(s) via "Mount Entoto"
+   ✅ Photo 1/5 uploaded (162.0 KB)
+   ✅ Photo 2/5 uploaded (253.3 KB)
+   ✅ Photo 3/5 uploaded (442.6 KB)
+   ✅ Photo 4/5 uploaded (405.2 KB)
+   ✅ Photo 5/5 uploaded (117.2 KB)
+
+🗺  Holy Trinity Cathedral Tour
+   Searching: "Holy Trinity Cathedral Addis Ababa"
+   📸 Found 5 photo(s) via "Holy Trinity Cathedral"
+   ✅ Photo 1/5 uploaded (101.1 KB)
+   ✅ Photo 2/5 uploaded (217.5 KB)
+   ✅ Photo 3/5 uploaded (144.2 KB)
+   ✅ Photo 4/5 uploaded (167.4 KB)
+   ✅ Photo 5/5 uploaded (155.9 KB)
+
+🗺  Lake Ziway Day Trip
+   Searching: "Lake Ziway Ethiopia flamingos"
+   📸 Found 4 photo(s) via "Baarii Fi Reestoraantii Filaamingoo Flamingo Bar and Restaurants"
+   ✅ Photo 1/4 uploaded (286.0 KB)
+   ✅ Photo 2/4 uploaded (724.1 KB)
+   ✅ Photo 3/4 uploaded (92.4 KB)
+   ✅ Photo 4/4 uploaded (245.9 KB)
+
+🗺  Mercato Market Tour
+   Searching: "Mercato market Addis Ababa Ethiopia"
+   📸 Found 5 photo(s) via "Merkato"
+   ✅ Photo 1/5 uploaded (270.3 KB)
+   ✅ Photo 2/5 uploaded (257.1 KB)
+   ✅ Photo 3/5 uploaded (238.2 KB)
+   ✅ Photo 4/5 uploaded (99.9 KB)
+   ✅ Photo 5/5 uploaded (274.1 KB)
+
+🗺  National Museum Tour
+   Searching: "National Museum Ethiopia Addis Ababa"
+   📸 Found 5 photo(s) via "National Museum of Ethiopia"
+   ✅ Photo 1/5 uploaded (310.2 KB)
+   ✅ Photo 2/5 uploaded (92.9 KB)
+   ✅ Photo 3/5 uploaded (213.6 KB)
+   ✅ Photo 4/5 uploaded (81.1 KB)
+   ✅ Photo 5/5 uploaded (382.1 KB)
+
+🗺  Street Art Tour
+   Searching: "Addis Ababa street art murals"
+   📸 Found 5 photo(s) via "Studio 11 Art Gallery Addis Ababa"
+   ✅ Photo 1/5 uploaded (142.5 KB)
+   ✅ Photo 2/5 uploaded (157.6 KB)
+   ✅ Photo 3/5 uploaded (127.6 KB)
+   ✅ Photo 4/5 uploaded (116.7 KB)
+   ✅ Photo 5/5 uploaded (112.8 KB)
+
+══════════════════════════════════════════════════════
+SUMMARY
+══════════════════════════════════════════════════════
+✅ Tours with new photos: 12 / 12
+📸 Total photos uploaded: 58
+══════════════════════════════════════════════════════

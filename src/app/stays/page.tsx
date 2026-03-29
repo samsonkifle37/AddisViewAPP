@@ -1,7 +1,7 @@
 import { PlaceGrid } from "@/components/PlaceGrid";
 
 export const metadata = {
-    title: "Stays — AddisView",
+    title: "Stays — NU",
     description: "Find hotels, guesthouses, apartments, and resorts across Ethiopia.",
 };
 

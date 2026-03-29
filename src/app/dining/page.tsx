@@ -1,22 +1,23 @@
 import { PlaceGrid } from "@/components/PlaceGrid";
 
 export const metadata = {
-    title: "Dining & Nightlife — AddisView",
-    description: "Cultural restaurants, traditional food, live music, and vibrant clubs in Addis Ababa.",
+    title: "Dining — NU",
+    description: "Find the best restaurants, cafes, and nightlife in Ethiopia.",
 };
 
 export default function DiningPage() {
     return (
         <PlaceGrid
             title="Dining & Nightlife"
-            types="restaurant,club"
+            types="restaurant,coffee,club,nightlife"
             filterOptions={[
-                { value: "", label: "All" },
+                { value: "", label: "All Dining" },
                 { value: "restaurant", label: "Restaurants" },
-                { value: "club", label: "Bars & Clubs" },
+                { value: "coffee", label: "Coffee Shops" },
+                { value: "club", label: "Nightlife" },
             ]}
-            searchPlaceholder="Yod, Fendika, music..."
-            accentColor="rose-500"
+            searchPlaceholder="Injera, coffee, clubs..."
+            accentColor="ethiopia-red"
         />
     );
 }

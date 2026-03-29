@@ -1,0 +1,5736 @@
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: a014f691..., raw fetch: 80)
+
+🔎  Chinese Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (544.0 KB)
+  ✅  Photo 2/5 uploaded (401.5 KB)
+  ✅  Photo 3/5 uploaded (235.7 KB)
+  ✅  Photo 4/5 uploaded (471.0 KB)
+  ✅  Photo 5/5 uploaded (252.7 KB)
+
+🔎  ዋሻ ሚካኤል (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (688.8 KB)
+  ✅  Photo 2/5 uploaded (722.6 KB)
+  ✅  Photo 3/5 uploaded (1230.4 KB)
+  ✅  Photo 4/5 uploaded (692.0 KB)
+  ✅  Photo 5/5 uploaded (777.2 KB)
+
+🔎  Meskel F. Chat bet (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (62.3 KB)
+  ✅  Photo 2/5 uploaded (350.9 KB)
+  ✅  Photo 3/5 uploaded (322.2 KB)
+  ✅  Photo 4/5 uploaded (562.2 KB)
+  ✅  Photo 5/5 uploaded (926.2 KB)
+
+🔎  Broadway Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  The BURGER STOP (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (553.6 KB)
+  ✅  Photo 2/5 uploaded (340.0 KB)
+  ✅  Photo 3/5 uploaded (391.6 KB)
+  ✅  Photo 4/5 uploaded (495.0 KB)
+  ✅  Photo 5/5 uploaded (404.9 KB)
+
+🔎  White House Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (816.9 KB)
+  ✅  Photo 2/5 uploaded (229.5 KB)
+  ✅  Photo 3/5 uploaded (157.7 KB)
+  ✅  Photo 4/5 uploaded (362.3 KB)
+  ✅  Photo 5/5 uploaded (206.2 KB)
+
+🔎  yeshi (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (736.3 KB)
+  ✅  Photo 2/5 uploaded (1036.6 KB)
+  ✅  Photo 3/5 uploaded (850.9 KB)
+  ✅  Photo 4/5 uploaded (551.5 KB)
+  ✅  Photo 5/5 uploaded (573.0 KB)
+
+🔎  Dok Italian Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (945.8 KB)
+  ✅  Photo 2/5 uploaded (223.3 KB)
+  ✅  Photo 3/5 uploaded (165.0 KB)
+  ✅  Photo 4/5 uploaded (337.4 KB)
+  ✅  Photo 5/5 uploaded (463.2 KB)
+
+🔎  Transnational Engineers  (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  UN WFP Ethiopia (museum, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (496.4 KB)
+  ✅  Photo 2/4 uploaded (297.3 KB)
+  ✅  Photo 3/4 uploaded (37.8 KB)
+  ✅  Photo 4/4 uploaded (476.5 KB)
+
+🔎  Zaid Coffee and Snack bar ® (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Cocoon Gebeta (restaurant, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (445.5 KB)
+
+🔎  Bubbles Cafe (cafe, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (272.2 KB)
+  ✅  Photo 2/2 uploaded (450.6 KB)
+
+🔎  Delmela (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (287.8 KB)
+  ✅  Photo 2/5 uploaded (441.2 KB)
+  ✅  Photo 3/5 uploaded (878.1 KB)
+  ✅  Photo 4/5 uploaded (622.2 KB)
+  ✅  Photo 5/5 uploaded (364.6 KB)
+
+🔎  Hot Spot Bar and Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (569.3 KB)
+  ✅  Photo 2/5 uploaded (528.4 KB)
+  ✅  Photo 3/5 uploaded (699.1 KB)
+  ✅  Photo 4/5 uploaded (292.1 KB)
+  ✅  Photo 5/5 uploaded (446.1 KB)
+
+🔎  TZ Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (596.3 KB)
+  ✅  Photo 2/5 uploaded (632.5 KB)
+  ✅  Photo 3/5 uploaded (32.4 KB)
+  ✅  Photo 4/5 uploaded (298.5 KB)
+  ✅  Photo 5/5 uploaded (632.7 KB)
+
+🔎  Metro Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (706.9 KB)
+  ✅  Photo 2/5 uploaded (478.6 KB)
+  ✅  Photo 3/5 uploaded (654.0 KB)
+  ✅  Photo 4/5 uploaded (1102.4 KB)
+  ✅  Photo 5/5 uploaded (1010.3 KB)
+
+🔎  Lombardia (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yetsion Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (602.2 KB)
+  ✅  Photo 2/5 uploaded (382.6 KB)
+  ✅  Photo 3/5 uploaded (566.5 KB)
+  ✅  Photo 4/5 uploaded (354.6 KB)
+  ✅  Photo 5/5 uploaded (254.4 KB)
+
+🔎  Hamonah Guest House (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (936.7 KB)
+  ✅  Photo 2/5 uploaded (249.6 KB)
+  ✅  Photo 3/5 uploaded (195.1 KB)
+  ✅  Photo 4/5 uploaded (426.3 KB)
+  ✅  Photo 5/5 uploaded (394.3 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     16/20 places
+📸  Photos saved:  72
+❓  Not on Google: 0
+📭  No photos:     4
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: b300b8c4..., raw fetch: 80)
+
+🔎  Azmera Shiro (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (367.7 KB)
+  ✅  Photo 2/5 uploaded (517.6 KB)
+  ✅  Photo 3/5 uploaded (244.4 KB)
+  ✅  Photo 4/5 uploaded (325.2 KB)
+  ✅  Photo 5/5 uploaded (161.0 KB)
+
+🔎  Wegagen Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (991.9 KB)
+  ✅  Photo 2/5 uploaded (498.6 KB)
+  ✅  Photo 3/5 uploaded (395.0 KB)
+  ✅  Photo 4/5 uploaded (1258.5 KB)
+  ✅  Photo 5/5 uploaded (232.1 KB)
+
+🔎  Wabe Shebelle Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (526.9 KB)
+  ✅  Photo 2/5 uploaded (794.0 KB)
+  ✅  Photo 3/5 uploaded (321.0 KB)
+  ✅  Photo 4/5 uploaded (353.1 KB)
+  ✅  Photo 5/5 uploaded (365.7 KB)
+
+🔎  Hasset Bar and Restorant no2 (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (344.8 KB)
+  ✅  Photo 2/5 uploaded (399.3 KB)
+  ✅  Photo 3/5 uploaded (349.1 KB)
+  ✅  Photo 4/5 uploaded (175.1 KB)
+  ✅  Photo 5/5 uploaded (180.6 KB)
+
+🔎  Juice Bar (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (246.9 KB)
+  ✅  Photo 2/5 uploaded (170.5 KB)
+  ✅  Photo 3/5 uploaded (247.0 KB)
+  ✅  Photo 4/5 uploaded (330.6 KB)
+  ✅  Photo 5/5 uploaded (124.8 KB)
+
+🔎  Nuneyat Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (584.4 KB)
+  ✅  Photo 2/5 uploaded (104.2 KB)
+  ✅  Photo 3/5 uploaded (514.5 KB)
+  ✅  Photo 4/5 uploaded (611.9 KB)
+  ✅  Photo 5/5 uploaded (503.7 KB)
+
+🔎  Condominium Amalgamated (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (159.2 KB)
+  ✅  Photo 2/5 uploaded (266.9 KB)
+  ✅  Photo 3/5 uploaded (268.7 KB)
+  ✅  Photo 4/5 uploaded (87.8 KB)
+  ✅  Photo 5/5 uploaded (188.2 KB)
+
+🔎  Tomoca (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (613.8 KB)
+  ✅  Photo 2/5 uploaded (72.0 KB)
+  ✅  Photo 3/5 uploaded (489.2 KB)
+  ✅  Photo 4/5 uploaded (291.6 KB)
+  ✅  Photo 5/5 uploaded (494.7 KB)
+
+🔎  Ero Shake Juice jacros branch (cafe, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (759.4 KB)
+  ✅  Photo 2/2 uploaded (755.1 KB)
+
+🔎  Wanos (hotel, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (345.6 KB)
+
+🔎  Tourist Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (634.9 KB)
+  ✅  Photo 2/5 uploaded (312.0 KB)
+  ✅  Photo 3/5 uploaded (1002.5 KB)
+  ✅  Photo 4/5 uploaded (112.4 KB)
+  ✅  Photo 5/5 uploaded (116.3 KB)
+
+🔎  Sugar cane juice (cafe, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (610.2 KB)
+  ✅  Photo 2/4 uploaded (480.4 KB)
+  ✅  Photo 3/4 uploaded (640.6 KB)
+  ✅  Photo 4/4 uploaded (442.2 KB)
+
+🔎  Gibe Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (656.3 KB)
+  ✅  Photo 2/5 uploaded (180.2 KB)
+  ✅  Photo 3/5 uploaded (237.1 KB)
+  ✅  Photo 4/5 uploaded (245.2 KB)
+  ✅  Photo 5/5 uploaded (195.2 KB)
+
+🔎  Tirngo ትርንጎ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (263.0 KB)
+  ✅  Photo 2/5 uploaded (561.1 KB)
+  ✅  Photo 3/5 uploaded (272.5 KB)
+  ✅  Photo 4/5 uploaded (47.4 KB)
+  ✅  Photo 5/5 uploaded (286.1 KB)
+
+🔎  ደረጀ መንግስቱ  Derege Mengstu (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (318.0 KB)
+  ✅  Photo 2/5 uploaded (56.6 KB)
+  ✅  Photo 3/5 uploaded (122.1 KB)
+  ✅  Photo 4/5 uploaded (424.7 KB)
+  ✅  Photo 5/5 uploaded (27.9 KB)
+
+🔎  Sinkenesh Fish (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (407.5 KB)
+  ✅  Photo 2/5 uploaded (494.8 KB)
+  ✅  Photo 3/5 uploaded (477.7 KB)
+  ✅  Photo 4/5 uploaded (469.6 KB)
+  ✅  Photo 5/5 uploaded (305.5 KB)
+
+🔎  Tsion Cafe (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Harar Ber Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (392.0 KB)
+  ✅  Photo 2/5 uploaded (462.7 KB)
+  ✅  Photo 3/5 uploaded (1059.3 KB)
+  ✅  Photo 4/5 uploaded (653.2 KB)
+  ✅  Photo 5/5 uploaded (479.6 KB)
+
+🔎  Lele pension (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (563.4 KB)
+  ✅  Photo 2/5 uploaded (615.2 KB)
+  ✅  Photo 3/5 uploaded (336.3 KB)
+  ✅  Photo 4/5 uploaded (227.8 KB)
+  ✅  Photo 5/5 uploaded (473.2 KB)
+
+🔎  Tsegreda Hotel (hotel, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (23.1 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     19/20 places
+📸  Photos saved:  83
+❓  Not on Google: 0
+📭  No photos:     1
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: c1f8648e..., raw fetch: 80)
+
+🔎  ሃፒነስ (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (486.2 KB)
+  ✅  Photo 2/5 uploaded (403.3 KB)
+  ✅  Photo 3/5 uploaded (508.1 KB)
+  ✅  Photo 4/5 uploaded (704.0 KB)
+  ✅  Photo 5/5 uploaded (370.9 KB)
+
+🔎  Sport Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (488.5 KB)
+  ✅  Photo 2/5 uploaded (709.5 KB)
+  ✅  Photo 3/5 uploaded (543.1 KB)
+  ✅  Photo 4/5 uploaded (577.5 KB)
+  ✅  Photo 5/5 uploaded (760.7 KB)
+
+🔎  Second Cup Cafe (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (325.7 KB)
+  ✅  Photo 2/5 uploaded (551.6 KB)
+  ✅  Photo 3/5 uploaded (191.7 KB)
+  ✅  Photo 4/5 uploaded (174.1 KB)
+  ✅  Photo 5/5 uploaded (271.5 KB)
+
+🔎  Getachew Worku  ጌታቸው ወርቁ (guesthouse, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (316.0 KB)
+
+🔎  Vicas site (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (656.3 KB)
+  ✅  Photo 2/5 uploaded (180.2 KB)
+  ✅  Photo 3/5 uploaded (237.1 KB)
+  ✅  Photo 4/5 uploaded (245.2 KB)
+  ✅  Photo 5/5 uploaded (195.2 KB)
+
+🔎  SEWSABI (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (372.0 KB)
+  ✅  Photo 2/5 uploaded (332.0 KB)
+  ✅  Photo 3/5 uploaded (340.6 KB)
+  ✅  Photo 4/5 uploaded (233.5 KB)
+  ✅  Photo 5/5 uploaded (590.8 KB)
+
+🔎  Gojo Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (86.0 KB)
+  ✅  Photo 2/5 uploaded (213.6 KB)
+  ✅  Photo 3/5 uploaded (258.1 KB)
+  ✅  Photo 4/5 uploaded (227.8 KB)
+  ✅  Photo 5/5 uploaded (170.1 KB)
+
+🔎  Goverment cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (80.2 KB)
+  ✅  Photo 2/5 uploaded (147.0 KB)
+  ✅  Photo 3/5 uploaded (97.9 KB)
+  ✅  Photo 4/5 uploaded (464.4 KB)
+  ✅  Photo 5/5 uploaded (1439.5 KB)
+
+🔎  Coffee Dot Com (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (605.6 KB)
+  ✅  Photo 2/5 uploaded (695.3 KB)
+  ✅  Photo 3/5 uploaded (512.1 KB)
+  ✅  Photo 4/5 uploaded (343.0 KB)
+  ✅  Photo 5/5 uploaded (3475.6 KB)
+
+🔎  Zee Zee's Cafe (cafe, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (1468.9 KB)
+  ✅  Photo 2/2 uploaded (199.3 KB)
+
+🔎  Yamrot Cafe and Bakery (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (580.9 KB)
+  ✅  Photo 2/5 uploaded (476.0 KB)
+  ✅  Photo 3/5 uploaded (89.6 KB)
+  ✅  Photo 4/5 uploaded (385.1 KB)
+  ✅  Photo 5/5 uploaded (378.4 KB)
+
+🔎  Sudanese Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (957.9 KB)
+  ✅  Photo 2/5 uploaded (442.1 KB)
+  ✅  Photo 3/5 uploaded (570.9 KB)
+  ✅  Photo 4/5 uploaded (1148.8 KB)
+  ✅  Photo 5/5 uploaded (1085.3 KB)
+
+🔎  Sapphire Addis Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (365.5 KB)
+  ✅  Photo 2/5 uploaded (211.0 KB)
+  ✅  Photo 3/5 uploaded (341.6 KB)
+  ✅  Photo 4/5 uploaded (231.9 KB)
+  ✅  Photo 5/5 uploaded (315.7 KB)
+
+🔎  Ethiopian Regional States Pavilions (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (406.0 KB)
+  ✅  Photo 2/5 uploaded (481.6 KB)
+  ✅  Photo 3/5 uploaded (487.3 KB)
+  ✅  Photo 4/5 uploaded (849.7 KB)
+  ✅  Photo 5/5 uploaded (402.4 KB)
+
+🔎  Birhan Bar & Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (374.9 KB)
+  ✅  Photo 2/5 uploaded (617.3 KB)
+  ✅  Photo 3/5 uploaded (1037.1 KB)
+  ✅  Photo 4/5 uploaded (572.0 KB)
+  ✅  Photo 5/5 uploaded (488.8 KB)
+
+🔎  STEP-UP (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (201.6 KB)
+  ✅  Photo 2/5 uploaded (492.8 KB)
+  ✅  Photo 3/5 uploaded (284.7 KB)
+  ✅  Photo 4/5 uploaded (81.8 KB)
+  ✅  Photo 5/5 uploaded (60.9 KB)
+
+🔎  Hyena View (morning) (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (311.9 KB)
+  ✅  Photo 2/5 uploaded (216.3 KB)
+  ✅  Photo 3/5 uploaded (333.9 KB)
+  ✅  Photo 4/5 uploaded (574.3 KB)
+  ✅  Photo 5/5 uploaded (659.1 KB)
+
+🔎  Café Crema (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (454.2 KB)
+  ✅  Photo 2/5 uploaded (546.8 KB)
+  ✅  Photo 3/5 uploaded (201.3 KB)
+  ✅  Photo 4/5 uploaded (443.3 KB)
+  ✅  Photo 5/5 uploaded (418.6 KB)
+
+🔎  Adey Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1187.9 KB)
+  ✅  Photo 2/5 uploaded (223.1 KB)
+  ✅  Photo 3/5 uploaded (134.5 KB)
+  ✅  Photo 4/5 uploaded (231.1 KB)
+  ✅  Photo 5/5 uploaded (552.4 KB)
+
+🔎  Mado Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (517.8 KB)
+  ✅  Photo 2/5 uploaded (170.3 KB)
+  ✅  Photo 3/5 uploaded (67.6 KB)
+  ✅  Photo 4/5 uploaded (1428.2 KB)
+  ✅  Photo 5/5 uploaded (295.8 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     20/20 places
+📸  Photos saved:  93
+❓  Not on Google: 0
+📭  No photos:     0
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: d58ee1c3..., raw fetch: 80)
+
+🔎  Grove Garden walk (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1122.9 KB)
+  ✅  Photo 2/5 uploaded (833.1 KB)
+  ✅  Photo 3/5 uploaded (724.9 KB)
+  ✅  Photo 4/5 uploaded (1033.2 KB)
+  ✅  Photo 5/5 uploaded (604.1 KB)
+
+🔎  Coffee shop (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (659.5 KB)
+  ✅  Photo 2/5 uploaded (401.3 KB)
+  ✅  Photo 3/5 uploaded (149.8 KB)
+  ✅  Photo 4/5 uploaded (387.6 KB)
+  ✅  Photo 5/5 uploaded (722.4 KB)
+
+🔎  Gotera Agona Cinema (transport, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (344.0 KB)
+  ✅  Photo 2/5 uploaded (209.2 KB)
+  ✅  Photo 3/5 uploaded (801.5 KB)
+  ✅  Photo 4/5 uploaded (813.0 KB)
+  ✅  Photo 5/5 uploaded (301.8 KB)
+
+🔎  Coffee House (Restaurant & Bar) (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (649.1 KB)
+  ✅  Photo 2/5 uploaded (214.7 KB)
+  ✅  Photo 3/5 uploaded (617.4 KB)
+  ✅  Photo 4/5 uploaded (506.5 KB)
+  ✅  Photo 5/5 uploaded (127.1 KB)
+
+🔎  Stockholm (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (128.7 KB)
+  ✅  Photo 2/5 uploaded (328.7 KB)
+  ✅  Photo 3/5 uploaded (226.2 KB)
+  ✅  Photo 4/5 uploaded (556.5 KB)
+  ✅  Photo 5/5 uploaded (97.4 KB)
+
+🔎  Vamos (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (569.6 KB)
+  ✅  Photo 2/5 uploaded (147.8 KB)
+  ✅  Photo 3/5 uploaded (149.9 KB)
+  ✅  Photo 4/5 uploaded (149.0 KB)
+  ✅  Photo 5/5 uploaded (172.5 KB)
+
+🔎  KIBINESH (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  GG bar & resturant (restaurant, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (521.3 KB)
+
+🔎  Debebe Tekle Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Agaz Grocery (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1205.1 KB)
+  ✅  Photo 2/5 uploaded (336.3 KB)
+  ✅  Photo 3/5 uploaded (368.6 KB)
+  ✅  Photo 4/5 uploaded (357.9 KB)
+  ✅  Photo 5/5 uploaded (395.1 KB)
+
+🔎  Sosha Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (566.3 KB)
+  ✅  Photo 2/5 uploaded (170.7 KB)
+  ✅  Photo 3/5 uploaded (917.0 KB)
+  ✅  Photo 4/5 uploaded (141.3 KB)
+  ✅  Photo 5/5 uploaded (807.8 KB)
+
+🔎  መካኒሳ ኣቦ (park, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (573.9 KB)
+  ✅  Photo 2/2 uploaded (485.7 KB)
+
+🔎  Medhanealem (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (494.0 KB)
+  ✅  Photo 2/5 uploaded (115.8 KB)
+  ✅  Photo 3/5 uploaded (432.0 KB)
+  ✅  Photo 4/5 uploaded (699.4 KB)
+  ✅  Photo 5/5 uploaded (103.1 KB)
+
+🔎  Aaran Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (327.4 KB)
+  ✅  Photo 2/5 uploaded (418.5 KB)
+  ✅  Photo 3/5 uploaded (201.0 KB)
+  ✅  Photo 4/5 uploaded (407.7 KB)
+  ✅  Photo 5/5 uploaded (723.8 KB)
+
+🔎  Bright Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (356.2 KB)
+  ✅  Photo 2/5 uploaded (195.0 KB)
+  ✅  Photo 3/5 uploaded (346.9 KB)
+  ✅  Photo 4/5 uploaded (676.2 KB)
+  ✅  Photo 5/5 uploaded (320.7 KB)
+
+🔎  Yoni’s house (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  My Burger (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (348.3 KB)
+  ✅  Photo 2/5 uploaded (261.8 KB)
+  ✅  Photo 3/5 uploaded (456.3 KB)
+  ✅  Photo 4/5 uploaded (429.1 KB)
+  ✅  Photo 5/5 uploaded (344.1 KB)
+
+🔎  03 meda (park, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (799.4 KB)
+  ✅  Photo 2/4 uploaded (809.9 KB)
+  ✅  Photo 3/4 uploaded (506.2 KB)
+  ✅  Photo 4/4 uploaded (225.0 KB)
+
+🔎  Panorama Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tomoca (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (659.5 KB)
+  ✅  Photo 2/5 uploaded (401.3 KB)
+  ✅  Photo 3/5 uploaded (149.8 KB)
+  ✅  Photo 4/5 uploaded (387.6 KB)
+  ✅  Photo 5/5 uploaded (722.4 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     16/20 places
+📸  Photos saved:  72
+❓  Not on Google: 0
+📭  No photos:     4
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: e8b80006..., raw fetch: 80)
+
+🔎  Euro Shake Juice (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (480.5 KB)
+  ✅  Photo 2/5 uploaded (553.1 KB)
+  ✅  Photo 3/5 uploaded (250.9 KB)
+  ✅  Photo 4/5 uploaded (380.6 KB)
+  ✅  Photo 5/5 uploaded (334.3 KB)
+
+🔎  ኤክስትሪም ሆቴል (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (814.2 KB)
+  ✅  Photo 2/5 uploaded (260.2 KB)
+  ✅  Photo 3/5 uploaded (251.5 KB)
+  ✅  Photo 4/5 uploaded (750.7 KB)
+  ✅  Photo 5/5 uploaded (305.9 KB)
+
+🔎  Tiga Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (569.3 KB)
+  ✅  Photo 2/5 uploaded (154.8 KB)
+  ✅  Photo 3/5 uploaded (1687.3 KB)
+  ✅  Photo 4/5 uploaded (436.8 KB)
+  ✅  Photo 5/5 uploaded (594.2 KB)
+
+🔎  9-Ja (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Loyal Snack (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Blues café (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (388.3 KB)
+  ✅  Photo 2/5 uploaded (214.6 KB)
+  ✅  Photo 3/5 uploaded (216.8 KB)
+  ✅  Photo 4/5 uploaded (223.6 KB)
+  ✅  Photo 5/5 uploaded (197.6 KB)
+
+🔎  My Home (park, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Black Mane Lions’ Zoo (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (51.2 KB)
+  ✅  Photo 2/5 uploaded (1256.8 KB)
+  ✅  Photo 3/5 uploaded (809.4 KB)
+  ✅  Photo 4/5 uploaded (666.1 KB)
+  ✅  Photo 5/5 uploaded (410.5 KB)
+
+🔎  Fikre kunspanga (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (430.1 KB)
+  ✅  Photo 2/5 uploaded (642.2 KB)
+  ✅  Photo 3/5 uploaded (230.8 KB)
+  ✅  Photo 4/5 uploaded (805.7 KB)
+  ✅  Photo 5/5 uploaded (439.7 KB)
+
+🔎  Cafe city (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (368.6 KB)
+  ✅  Photo 2/5 uploaded (270.0 KB)
+  ✅  Photo 3/5 uploaded (293.6 KB)
+  ✅  Photo 4/5 uploaded (577.9 KB)
+  ✅  Photo 5/5 uploaded (174.4 KB)
+
+🔎  ብሎክ (park, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (1218.7 KB)
+  ✅  Photo 2/4 uploaded (573.4 KB)
+  ✅  Photo 3/4 uploaded (918.3 KB)
+  ✅  Photo 4/4 uploaded (643.9 KB)
+
+🔎  Tibebu Mulat ጥበቡ ሙላት (guesthouse, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (456.7 KB)
+  ✅  Photo 2/4 uploaded (218.6 KB)
+  ✅  Photo 3/4 uploaded (226.5 KB)
+  ✅  Photo 4/4 uploaded (258.6 KB)
+
+🔎  Dolce Caffe & Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (228.7 KB)
+  ✅  Photo 2/5 uploaded (578.3 KB)
+  ✅  Photo 3/5 uploaded (56.5 KB)
+  ✅  Photo 4/5 uploaded (270.7 KB)
+  ✅  Photo 5/5 uploaded (464.0 KB)
+
+🔎  Rooftop Restaurant (restaurant, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (612.0 KB)
+  ✅  Photo 2/4 uploaded (247.9 KB)
+  ✅  Photo 3/4 uploaded (532.5 KB)
+  ✅  Photo 4/4 uploaded (200.3 KB)
+
+🔎  Mosaic Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (619.8 KB)
+  ✅  Photo 2/5 uploaded (162.5 KB)
+  ✅  Photo 3/5 uploaded (235.4 KB)
+  ✅  Photo 4/5 uploaded (228.6 KB)
+  ✅  Photo 5/5 uploaded (376.8 KB)
+
+🔎  Mon Amour (restaurant, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (416.4 KB)
+  ✅  Photo 2/3 uploaded (211.2 KB)
+  ✅  Photo 3/3 uploaded (308.9 KB)
+
+🔎  Zebra Grill (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (507.7 KB)
+  ✅  Photo 2/5 uploaded (327.9 KB)
+  ✅  Photo 3/5 uploaded (647.1 KB)
+  ✅  Photo 4/5 uploaded (435.1 KB)
+  ✅  Photo 5/5 uploaded (454.0 KB)
+
+🔎  ዘ ሀብ ሬስቶራንት (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (349.6 KB)
+  ✅  Photo 2/5 uploaded (470.2 KB)
+  ✅  Photo 3/5 uploaded (481.9 KB)
+  ✅  Photo 4/5 uploaded (327.0 KB)
+  ✅  Photo 5/5 uploaded (665.7 KB)
+
+🔎  Watot Bar, Restaurant and Hotel (hotel, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (390.3 KB)
+  ✅  Photo 2/4 uploaded (188.8 KB)
+  ✅  Photo 3/4 uploaded (127.6 KB)
+  ✅  Photo 4/4 uploaded (625.3 KB)
+
+🔎  Atlas Resort (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (376.4 KB)
+  ✅  Photo 2/5 uploaded (186.2 KB)
+  ✅  Photo 3/5 uploaded (44.6 KB)
+  ✅  Photo 4/5 uploaded (943.3 KB)
+  ✅  Photo 5/5 uploaded (666.0 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     17/20 places
+📸  Photos saved:  79
+❓  Not on Google: 0
+📭  No photos:     3
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 16 places (cursor: fb56aebf..., raw fetch: 23)
+
+🔎  Lucky Burger (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (305.7 KB)
+  ✅  Photo 2/5 uploaded (296.4 KB)
+  ✅  Photo 3/5 uploaded (235.1 KB)
+  ✅  Photo 4/5 uploaded (271.9 KB)
+  ✅  Photo 5/5 uploaded (226.4 KB)
+
+🔎  Harar Ber Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (392.0 KB)
+  ✅  Photo 2/5 uploaded (462.7 KB)
+  ✅  Photo 3/5 uploaded (1059.3 KB)
+  ✅  Photo 4/5 uploaded (653.2 KB)
+  ✅  Photo 5/5 uploaded (479.6 KB)
+
+🔎  Barista's Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (582.4 KB)
+  ✅  Photo 2/5 uploaded (574.4 KB)
+  ✅  Photo 3/5 uploaded (573.5 KB)
+  ✅  Photo 4/5 uploaded (288.0 KB)
+  ✅  Photo 5/5 uploaded (360.8 KB)
+
+🔎  Sweet Strawberry (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (404.6 KB)
+  ✅  Photo 2/5 uploaded (295.7 KB)
+  ✅  Photo 3/5 uploaded (445.9 KB)
+  ✅  Photo 4/5 uploaded (337.7 KB)
+  ✅  Photo 5/5 uploaded (227.9 KB)
+
+🔎  Tariku Grocery (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Meron (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (345.2 KB)
+  ✅  Photo 2/5 uploaded (364.1 KB)
+  ✅  Photo 3/5 uploaded (314.3 KB)
+  ✅  Photo 4/5 uploaded (344.1 KB)
+  ✅  Photo 5/5 uploaded (418.2 KB)
+
+🔎  Oscar Cafe (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Debele ኦቦ ደበሌ (guesthouse, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (456.7 KB)
+  ✅  Photo 2/4 uploaded (218.6 KB)
+  ✅  Photo 3/4 uploaded (226.5 KB)
+  ✅  Photo 4/4 uploaded (258.6 KB)
+
+🔎  ዊንታ ሽሮ (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Miki (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (447.4 KB)
+  ✅  Photo 2/5 uploaded (354.9 KB)
+  ✅  Photo 3/5 uploaded (1120.5 KB)
+  ✅  Photo 4/5 uploaded (566.3 KB)
+  ✅  Photo 5/5 uploaded (470.5 KB)
+
+🔎  The Hive Guest House (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (420.7 KB)
+  ✅  Photo 2/5 uploaded (234.7 KB)
+  ✅  Photo 3/5 uploaded (868.6 KB)
+  ✅  Photo 4/5 uploaded (1018.1 KB)
+  ✅  Photo 5/5 uploaded (210.4 KB)
+
+🔎  Global Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Romina Bar & Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (681.5 KB)
+  ✅  Photo 2/5 uploaded (38.0 KB)
+  ✅  Photo 3/5 uploaded (288.2 KB)
+  ✅  Photo 4/5 uploaded (874.8 KB)
+  ✅  Photo 5/5 uploaded (361.0 KB)
+
+🔎  Ethiopia Museum of Art and Science (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (215.9 KB)
+  ✅  Photo 2/5 uploaded (506.4 KB)
+  ✅  Photo 3/5 uploaded (124.6 KB)
+  ✅  Photo 4/5 uploaded (406.3 KB)
+  ✅  Photo 5/5 uploaded (117.5 KB)
+
+🔎  Union Hotel Apartment (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (348.1 KB)
+  ✅  Photo 2/5 uploaded (645.7 KB)
+  ✅  Photo 3/5 uploaded (172.3 KB)
+  ✅  Photo 4/5 uploaded (321.5 KB)
+  ✅  Photo 5/5 uploaded (64.6 KB)
+
+🔎  አሴ ፋስት ፉድስ (restaurant, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     11/16 places
+📸  Photos saved:  54
+❓  Not on Google: 1
+📭  No photos:     4
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+All places scanned - cursor reset
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: start, raw fetch: 80)
+
+🔎  lobelia (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (475.5 KB)
+  ✅  Photo 2/5 uploaded (232.3 KB)
+  ✅  Photo 3/5 uploaded (121.2 KB)
+  ✅  Photo 4/5 uploaded (90.1 KB)
+  ✅  Photo 5/5 uploaded (276.9 KB)
+
+🔎  Grand Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (777.1 KB)
+  ✅  Photo 2/5 uploaded (431.2 KB)
+  ✅  Photo 3/5 uploaded (574.3 KB)
+  ✅  Photo 4/5 uploaded (904.4 KB)
+  ✅  Photo 5/5 uploaded (621.9 KB)
+
+🔎  Keli's gourmet burger (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (96.9 KB)
+  ✅  Photo 2/5 uploaded (91.6 KB)
+  ✅  Photo 3/5 uploaded (630.4 KB)
+  ✅  Photo 4/5 uploaded (66.1 KB)
+  ✅  Photo 5/5 uploaded (129.5 KB)
+
+🔎  Medaniyalem Bar & Restaurant (restaurant, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (385.9 KB)
+  ✅  Photo 2/4 uploaded (592.0 KB)
+  ✅  Photo 3/4 uploaded (655.0 KB)
+  ✅  Photo 4/4 uploaded (432.6 KB)
+
+🔎  My Burger (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (348.3 KB)
+  ✅  Photo 2/5 uploaded (261.8 KB)
+  ✅  Photo 3/5 uploaded (456.3 KB)
+  ✅  Photo 4/5 uploaded (429.1 KB)
+  ✅  Photo 5/5 uploaded (344.1 KB)
+
+🔎  Condominium Koye fiche  site (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (233.8 KB)
+  ✅  Photo 2/5 uploaded (58.5 KB)
+  ✅  Photo 3/5 uploaded (236.5 KB)
+  ✅  Photo 4/5 uploaded (479.3 KB)
+  ✅  Photo 5/5 uploaded (168.5 KB)
+
+🔎  shegole ring road exit (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (211.3 KB)
+  ✅  Photo 2/5 uploaded (192.2 KB)
+  ✅  Photo 3/5 uploaded (293.9 KB)
+  ✅  Photo 4/5 uploaded (417.0 KB)
+  ✅  Photo 5/5 uploaded (494.7 KB)
+
+🔎  Etaba bet እታባ ቤት (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1058.0 KB)
+  ✅  Photo 2/5 uploaded (651.5 KB)
+  ✅  Photo 3/5 uploaded (337.0 KB)
+  ✅  Photo 4/5 uploaded (371.6 KB)
+  ✅  Photo 5/5 uploaded (330.1 KB)
+
+🔎  Jacaranda Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (885.5 KB)
+  ✅  Photo 2/5 uploaded (149.4 KB)
+  ✅  Photo 3/5 uploaded (155.8 KB)
+  ✅  Photo 4/5 uploaded (234.8 KB)
+  ✅  Photo 5/5 uploaded (600.4 KB)
+
+🔎  Abrish (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (336.9 KB)
+  ✅  Photo 2/5 uploaded (336.8 KB)
+  ✅  Photo 3/5 uploaded (524.5 KB)
+  ✅  Photo 4/5 uploaded (521.8 KB)
+  ✅  Photo 5/5 uploaded (343.5 KB)
+
+🔎  Ethiopian Women Federation (landmark, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (301.5 KB)
+  ✅  Photo 2/5 uploaded (612.2 KB)
+  ✅  Photo 3/5 uploaded (328.7 KB)
+  ✅  Photo 4/5 uploaded (519.3 KB)
+  ✅  Photo 5/5 uploaded (822.9 KB)
+
+🔎  Mili home (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (638.6 KB)
+  ✅  Photo 2/5 uploaded (548.5 KB)
+  ✅  Photo 3/5 uploaded (526.9 KB)
+  ✅  Photo 4/5 uploaded (333.8 KB)
+  ✅  Photo 5/5 uploaded (35.7 KB)
+
+🔎  je kobil mewchia (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (580.3 KB)
+  ✅  Photo 2/5 uploaded (188.1 KB)
+  ✅  Photo 3/5 uploaded (186.4 KB)
+  ✅  Photo 4/5 uploaded (339.4 KB)
+  ✅  Photo 5/5 uploaded (483.2 KB)
+
+🔎  Hanuk Korean (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (385.0 KB)
+  ✅  Photo 2/5 uploaded (492.7 KB)
+  ✅  Photo 3/5 uploaded (266.6 KB)
+  ✅  Photo 4/5 uploaded (1036.3 KB)
+  ✅  Photo 5/5 uploaded (298.2 KB)
+
+🔎  Yilma Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (315.5 KB)
+  ✅  Photo 2/5 uploaded (218.8 KB)
+  ✅  Photo 3/5 uploaded (157.8 KB)
+  ✅  Photo 4/5 uploaded (518.9 KB)
+  ✅  Photo 5/5 uploaded (526.9 KB)
+
+🔎  Hill Bottom (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Kaldis Coffee, Mekanisa (cafe, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (301.6 KB)
+  ✅  Photo 2/4 uploaded (285.3 KB)
+  ✅  Photo 3/4 uploaded (411.2 KB)
+  ✅  Photo 4/4 uploaded (363.1 KB)
+
+🔎  Atlas international hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1009.7 KB)
+  ✅  Photo 2/5 uploaded (169.1 KB)
+  ✅  Photo 3/5 uploaded (194.5 KB)
+  ✅  Photo 4/5 uploaded (390.3 KB)
+  ✅  Photo 5/5 uploaded (449.4 KB)
+
+🔎  ሜርሲ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Arcobaleno Bar & Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (43.9 KB)
+  ✅  Photo 2/5 uploaded (42.0 KB)
+  ✅  Photo 3/5 uploaded (362.0 KB)
+  ✅  Photo 4/5 uploaded (347.3 KB)
+  ✅  Photo 5/5 uploaded (378.0 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     18/20 places
+📸  Photos saved:  88
+❓  Not on Google: 0
+📭  No photos:     2
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 13288e62..., raw fetch: 80)
+
+🔎  Difference (cafe, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (55.3 KB)
+
+🔎  Amanaya Guesthouse (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (424.4 KB)
+  ✅  Photo 2/5 uploaded (688.5 KB)
+  ✅  Photo 3/5 uploaded (282.9 KB)
+  ✅  Photo 4/5 uploaded (184.1 KB)
+  ✅  Photo 5/5 uploaded (1285.2 KB)
+
+🔎  My home (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Ethnological Museum (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (447.0 KB)
+  ✅  Photo 2/5 uploaded (441.9 KB)
+  ✅  Photo 3/5 uploaded (485.7 KB)
+  ✅  Photo 4/5 uploaded (563.3 KB)
+  ✅  Photo 5/5 uploaded (507.5 KB)
+
+🔎  Bana cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (416.1 KB)
+  ✅  Photo 2/5 uploaded (834.0 KB)
+  ✅  Photo 3/5 uploaded (454.2 KB)
+  ✅  Photo 4/5 uploaded (852.1 KB)
+  ✅  Photo 5/5 uploaded (500.6 KB)
+
+🔎  Getachew (restaurant, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (53.3 KB)
+
+🔎  Four Seasons (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (176.2 KB)
+  ✅  Photo 2/5 uploaded (201.7 KB)
+  ✅  Photo 3/5 uploaded (261.4 KB)
+  ✅  Photo 4/5 uploaded (200.9 KB)
+  ✅  Photo 5/5 uploaded (778.6 KB)
+
+🔎  Nice (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (472.5 KB)
+  ✅  Photo 2/5 uploaded (742.7 KB)
+  ✅  Photo 3/5 uploaded (642.3 KB)
+  ✅  Photo 4/5 uploaded (504.8 KB)
+  ✅  Photo 5/5 uploaded (743.1 KB)
+
+🔎  Mama's Kitchen (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (382.0 KB)
+  ✅  Photo 2/5 uploaded (289.0 KB)
+  ✅  Photo 3/5 uploaded (247.7 KB)
+  ✅  Photo 4/5 uploaded (351.4 KB)
+  ✅  Photo 5/5 uploaded (492.0 KB)
+
+🔎  A-Licious Juice & Fast Food House (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (246.9 KB)
+  ✅  Photo 2/5 uploaded (170.5 KB)
+  ✅  Photo 3/5 uploaded (247.0 KB)
+  ✅  Photo 4/5 uploaded (330.6 KB)
+  ✅  Photo 5/5 uploaded (124.8 KB)
+
+🔎  Ibex Lalibela Restaurant (restaurant, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (663.0 KB)
+  ✅  Photo 2/4 uploaded (275.9 KB)
+  ✅  Photo 3/4 uploaded (652.6 KB)
+  ✅  Photo 4/4 uploaded (509.7 KB)
+
+🔎  Debre Abay Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  bluesky Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (638.7 KB)
+  ✅  Photo 2/5 uploaded (269.9 KB)
+  ✅  Photo 3/5 uploaded (460.4 KB)
+  ✅  Photo 4/5 uploaded (364.4 KB)
+  ✅  Photo 5/5 uploaded (747.3 KB)
+
+🔎  Debonair's Pizza (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (343.1 KB)
+  ✅  Photo 2/5 uploaded (517.0 KB)
+  ✅  Photo 3/5 uploaded (732.8 KB)
+  ✅  Photo 4/5 uploaded (378.7 KB)
+  ✅  Photo 5/5 uploaded (300.9 KB)
+
+🔎  Post Museum (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (398.5 KB)
+  ✅  Photo 2/5 uploaded (536.9 KB)
+  ✅  Photo 3/5 uploaded (261.5 KB)
+  ✅  Photo 4/5 uploaded (498.9 KB)
+  ✅  Photo 5/5 uploaded (313.2 KB)
+
+🔎  ጥሩ ቤት እንግዳ ማረፊያ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (765.3 KB)
+  ✅  Photo 2/5 uploaded (270.8 KB)
+  ✅  Photo 3/5 uploaded (420.4 KB)
+  ✅  Photo 4/5 uploaded (1191.4 KB)
+  ✅  Photo 5/5 uploaded (57.7 KB)
+
+🔎  Hanedan Addis Turkish Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (366.1 KB)
+  ✅  Photo 2/5 uploaded (530.4 KB)
+  ✅  Photo 3/5 uploaded (389.0 KB)
+  ✅  Photo 4/5 uploaded (385.8 KB)
+  ✅  Photo 5/5 uploaded (188.8 KB)
+
+🔎  Gebre Kristos Desta Art Museum (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (285.5 KB)
+  ✅  Photo 2/5 uploaded (233.8 KB)
+  ✅  Photo 3/5 uploaded (582.1 KB)
+  ✅  Photo 4/5 uploaded (141.0 KB)
+  ✅  Photo 5/5 uploaded (86.5 KB)
+
+🔎  Hadramaout (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (572.5 KB)
+  ✅  Photo 2/5 uploaded (644.6 KB)
+  ✅  Photo 3/5 uploaded (370.9 KB)
+  ✅  Photo 4/5 uploaded (470.5 KB)
+  ✅  Photo 5/5 uploaded (650.9 KB)
+
+🔎  Grmanesh (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (403.1 KB)
+  ✅  Photo 2/5 uploaded (399.0 KB)
+  ✅  Photo 3/5 uploaded (275.6 KB)
+  ✅  Photo 4/5 uploaded (538.7 KB)
+  ✅  Photo 5/5 uploaded (311.7 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     18/20 places
+📸  Photos saved:  81
+❓  Not on Google: 0
+📭  No photos:     2
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 27c85d1d..., raw fetch: 80)
+
+🔎  yadot (restaurant, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (213.4 KB)
+  ✅  Photo 2/2 uploaded (171.2 KB)
+
+🔎  Texas Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (518.0 KB)
+  ✅  Photo 2/5 uploaded (490.5 KB)
+  ✅  Photo 3/5 uploaded (415.4 KB)
+  ✅  Photo 4/5 uploaded (359.4 KB)
+  ✅  Photo 5/5 uploaded (525.6 KB)
+
+🔎  Roomi Burger (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Abesha Bar and Restaurant (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Jesus Christ (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (643.0 KB)
+  ✅  Photo 2/5 uploaded (712.7 KB)
+  ✅  Photo 3/5 uploaded (518.7 KB)
+  ✅  Photo 4/5 uploaded (428.4 KB)
+  ✅  Photo 5/5 uploaded (417.1 KB)
+
+🔎  Unity Zoo (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (35.8 KB)
+  ✅  Photo 2/5 uploaded (1064.7 KB)
+  ✅  Photo 3/5 uploaded (594.6 KB)
+  ✅  Photo 4/5 uploaded (781.0 KB)
+  ✅  Photo 5/5 uploaded (831.4 KB)
+
+🔎  Sunshine Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (295.3 KB)
+  ✅  Photo 2/5 uploaded (422.7 KB)
+  ✅  Photo 3/5 uploaded (687.5 KB)
+  ✅  Photo 4/5 uploaded (196.2 KB)
+  ✅  Photo 5/5 uploaded (373.4 KB)
+
+🔎  Romina (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (681.5 KB)
+  ✅  Photo 2/5 uploaded (38.0 KB)
+  ✅  Photo 3/5 uploaded (288.2 KB)
+  ✅  Photo 4/5 uploaded (874.8 KB)
+  ✅  Photo 5/5 uploaded (361.0 KB)
+
+🔎  Ebenezer Hotel & Guest House (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (393.4 KB)
+  ✅  Photo 2/5 uploaded (126.5 KB)
+  ✅  Photo 3/5 uploaded (247.8 KB)
+  ✅  Photo 4/5 uploaded (425.6 KB)
+  ✅  Photo 5/5 uploaded (201.2 KB)
+
+🔎  Mamokacha Novis (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (334.3 KB)
+  ✅  Photo 2/5 uploaded (979.9 KB)
+  ✅  Photo 3/5 uploaded (490.2 KB)
+  ✅  Photo 4/5 uploaded (376.1 KB)
+  ✅  Photo 5/5 uploaded (307.0 KB)
+
+🔎  Samket (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Bereket Bar and Restaurant (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (327.3 KB)
+  ✅  Photo 2/5 uploaded (234.5 KB)
+  ✅  Photo 3/5 uploaded (344.0 KB)
+  ✅  Photo 4/5 uploaded (190.3 KB)
+  ✅  Photo 5/5 uploaded (804.4 KB)
+
+🔎  Hayelat St.George House (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Trinity Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (288.5 KB)
+  ✅  Photo 2/5 uploaded (221.0 KB)
+  ✅  Photo 3/5 uploaded (222.2 KB)
+  ✅  Photo 4/5 uploaded (400.6 KB)
+  ✅  Photo 5/5 uploaded (127.2 KB)
+
+🔎  AFARENSIS International Hotel አፋረንሲስ አለምአቀፍ ሆቴል (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (951.1 KB)
+  ✅  Photo 2/5 uploaded (131.3 KB)
+  ✅  Photo 3/5 uploaded (217.8 KB)
+  ✅  Photo 4/5 uploaded (219.2 KB)
+  ✅  Photo 5/5 uploaded (76.4 KB)
+
+🔎  እማማ ፊሽካ ምግብ ቤት (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (369.2 KB)
+  ✅  Photo 2/5 uploaded (831.3 KB)
+  ✅  Photo 3/5 uploaded (449.6 KB)
+  ✅  Photo 4/5 uploaded (809.7 KB)
+  ✅  Photo 5/5 uploaded (410.2 KB)
+
+🔎  Yetenbi + BID ye Gurage Kitfo (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (404.8 KB)
+  ✅  Photo 2/5 uploaded (323.7 KB)
+  ✅  Photo 3/5 uploaded (331.1 KB)
+  ✅  Photo 4/5 uploaded (153.6 KB)
+  ✅  Photo 5/5 uploaded (396.8 KB)
+
+🔎  ልደት ሬስቶራንት ና ባር (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Lafto(home sweet home) (cafe, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (392.8 KB)
+  ✅  Photo 2/3 uploaded (307.9 KB)
+  ✅  Photo 3/3 uploaded (714.8 KB)
+
+🔎  አዴ እቃ ወሳጅ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (372.5 KB)
+  ✅  Photo 2/5 uploaded (182.6 KB)
+  ✅  Photo 3/5 uploaded (398.3 KB)
+  ✅  Photo 4/5 uploaded (878.4 KB)
+  ✅  Photo 5/5 uploaded (423.2 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     15/20 places
+📸  Photos saved:  70
+❓  Not on Google: 0
+📭  No photos:     5
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 3c0061ae..., raw fetch: 80)
+
+🔎  Abyssinia Guest House (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (333.4 KB)
+  ✅  Photo 2/5 uploaded (247.6 KB)
+  ✅  Photo 3/5 uploaded (80.1 KB)
+  ✅  Photo 4/5 uploaded (97.9 KB)
+  ✅  Photo 5/5 uploaded (258.2 KB)
+
+🔎  Golden Tulip (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (431.7 KB)
+  ✅  Photo 2/5 uploaded (264.7 KB)
+  ✅  Photo 3/5 uploaded (290.9 KB)
+  ✅  Photo 4/5 uploaded (267.7 KB)
+  ✅  Photo 5/5 uploaded (415.0 KB)
+
+🔎  Sudanese Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (957.9 KB)
+  ✅  Photo 2/5 uploaded (442.1 KB)
+  ✅  Photo 3/5 uploaded (570.9 KB)
+  ✅  Photo 4/5 uploaded (1148.8 KB)
+  ✅  Photo 5/5 uploaded (1085.3 KB)
+
+🔎  Choma (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (507.7 KB)
+  ✅  Photo 2/5 uploaded (327.9 KB)
+  ✅  Photo 3/5 uploaded (647.1 KB)
+  ✅  Photo 4/5 uploaded (435.1 KB)
+  ✅  Photo 5/5 uploaded (454.0 KB)
+
+🔎  OM Indian Bistro (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (447.7 KB)
+  ✅  Photo 2/5 uploaded (44.0 KB)
+  ✅  Photo 3/5 uploaded (333.4 KB)
+  ✅  Photo 4/5 uploaded (560.5 KB)
+  ✅  Photo 5/5 uploaded (333.4 KB)
+
+🔎  Cannan Fastfood (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Hotel De France (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (383.1 KB)
+  ✅  Photo 2/5 uploaded (284.0 KB)
+  ✅  Photo 3/5 uploaded (492.3 KB)
+  ✅  Photo 4/5 uploaded (339.9 KB)
+  ✅  Photo 5/5 uploaded (370.7 KB)
+
+🔎  La Mandoline (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1034.3 KB)
+  ✅  Photo 2/5 uploaded (455.4 KB)
+  ✅  Photo 3/5 uploaded (772.7 KB)
+  ✅  Photo 4/5 uploaded (246.4 KB)
+  ✅  Photo 5/5 uploaded (475.0 KB)
+
+🔎  Eliana Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (428.2 KB)
+  ✅  Photo 2/5 uploaded (294.2 KB)
+  ✅  Photo 3/5 uploaded (718.8 KB)
+  ✅  Photo 4/5 uploaded (88.1 KB)
+  ✅  Photo 5/5 uploaded (84.1 KB)
+
+🔎  መዳኒያለም ኮንዶሚንየም (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (448.8 KB)
+  ✅  Photo 2/5 uploaded (215.2 KB)
+  ✅  Photo 3/5 uploaded (479.6 KB)
+  ✅  Photo 4/5 uploaded (534.7 KB)
+  ✅  Photo 5/5 uploaded (558.3 KB)
+
+🔎  Blue Nest Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (556.4 KB)
+  ✅  Photo 2/5 uploaded (99.5 KB)
+  ✅  Photo 3/5 uploaded (208.3 KB)
+  ✅  Photo 4/5 uploaded (95.8 KB)
+  ✅  Photo 5/5 uploaded (187.9 KB)
+
+🔎  Hareg Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Afriqana (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (448.7 KB)
+  ✅  Photo 2/5 uploaded (230.4 KB)
+  ✅  Photo 3/5 uploaded (448.5 KB)
+  ✅  Photo 4/5 uploaded (817.3 KB)
+  ✅  Photo 5/5 uploaded (292.4 KB)
+
+🔎  Tawabach Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (147.3 KB)
+  ✅  Photo 2/5 uploaded (176.5 KB)
+  ✅  Photo 3/5 uploaded (617.2 KB)
+  ✅  Photo 4/5 uploaded (127.3 KB)
+  ✅  Photo 5/5 uploaded (245.4 KB)
+
+🔎  Alemgena (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (320.2 KB)
+  ✅  Photo 2/5 uploaded (230.7 KB)
+  ✅  Photo 3/5 uploaded (213.1 KB)
+  ✅  Photo 4/5 uploaded (249.5 KB)
+  ✅  Photo 5/5 uploaded (230.0 KB)
+
+🔎  TOMOCA (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (613.8 KB)
+  ✅  Photo 2/5 uploaded (72.0 KB)
+  ✅  Photo 3/5 uploaded (489.2 KB)
+  ✅  Photo 4/5 uploaded (291.6 KB)
+  ✅  Photo 5/5 uploaded (494.7 KB)
+
+🔎  Picnic (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (664.9 KB)
+  ✅  Photo 2/5 uploaded (1003.4 KB)
+  ✅  Photo 3/5 uploaded (126.5 KB)
+  ✅  Photo 4/5 uploaded (699.0 KB)
+  ✅  Photo 5/5 uploaded (838.1 KB)
+
+🔎  Olympia Homestay (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (455.6 KB)
+  ✅  Photo 2/5 uploaded (298.8 KB)
+  ✅  Photo 3/5 uploaded (348.4 KB)
+  ✅  Photo 4/5 uploaded (244.2 KB)
+  ✅  Photo 5/5 uploaded (164.0 KB)
+
+🔎  A.G Cafe (cafe, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (459.9 KB)
+  ✅  Photo 2/4 uploaded (559.2 KB)
+  ✅  Photo 3/4 uploaded (288.2 KB)
+  ✅  Photo 4/4 uploaded (384.2 KB)
+
+🔎  Chemba Cafe and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     17/20 places
+📸  Photos saved:  84
+❓  Not on Google: 0
+📭  No photos:     3
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 51ae3a76..., raw fetch: 80)
+
+🔎  Piazza (TDS) Bar & Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1217.5 KB)
+  ✅  Photo 2/5 uploaded (567.2 KB)
+  ✅  Photo 3/5 uploaded (552.9 KB)
+  ✅  Photo 4/5 uploaded (373.6 KB)
+  ✅  Photo 5/5 uploaded (620.3 KB)
+
+🔎  Arada Cafe (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  90'ስ የፊልም ማእከል እና ኢንተርኔት (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (313.9 KB)
+  ✅  Photo 2/5 uploaded (411.8 KB)
+  ✅  Photo 3/5 uploaded (162.8 KB)
+  ✅  Photo 4/5 uploaded (378.1 KB)
+  ✅  Photo 5/5 uploaded (144.5 KB)
+
+🔎  Ambience (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1444.2 KB)
+  ✅  Photo 2/5 uploaded (153.0 KB)
+  ✅  Photo 3/5 uploaded (677.1 KB)
+  ✅  Photo 4/5 uploaded (499.0 KB)
+  ✅  Photo 5/5 uploaded (358.5 KB)
+
+🔎  Wuha metecha (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (480.8 KB)
+  ✅  Photo 2/5 uploaded (748.8 KB)
+  ✅  Photo 3/5 uploaded (391.7 KB)
+  ✅  Photo 4/5 uploaded (679.5 KB)
+  ✅  Photo 5/5 uploaded (734.0 KB)
+
+🔎  Sichuan  (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (544.0 KB)
+  ✅  Photo 2/5 uploaded (401.5 KB)
+  ✅  Photo 3/5 uploaded (235.7 KB)
+  ✅  Photo 4/5 uploaded (471.0 KB)
+  ✅  Photo 5/5 uploaded (252.7 KB)
+
+🔎  Tomoca (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (613.8 KB)
+  ✅  Photo 2/5 uploaded (72.0 KB)
+  ✅  Photo 3/5 uploaded (489.2 KB)
+  ✅  Photo 4/5 uploaded (291.6 KB)
+  ✅  Photo 5/5 uploaded (494.7 KB)
+
+🔎  Abune Petros (landmark, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (485.7 KB)
+  ✅  Photo 2/5 uploaded (378.4 KB)
+  ✅  Photo 3/5 uploaded (242.8 KB)
+  ✅  Photo 4/5 uploaded (754.7 KB)
+  ✅  Photo 5/5 uploaded (256.6 KB)
+
+🔎  Ethiopian Skylight Hotel - Lobby Lounge (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (445.1 KB)
+  ✅  Photo 2/5 uploaded (540.1 KB)
+  ✅  Photo 3/5 uploaded (379.6 KB)
+  ✅  Photo 4/5 uploaded (366.8 KB)
+  ✅  Photo 5/5 uploaded (423.1 KB)
+
+🔎  Abyssinia Coffee (cafe, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (341.1 KB)
+  ✅  Photo 2/4 uploaded (376.9 KB)
+  ✅  Photo 3/4 uploaded (54.8 KB)
+  ✅  Photo 4/4 uploaded (55.4 KB)
+
+🔎  Loza cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (207.9 KB)
+  ✅  Photo 2/5 uploaded (108.0 KB)
+  ✅  Photo 3/5 uploaded (56.5 KB)
+  ✅  Photo 4/5 uploaded (196.4 KB)
+  ✅  Photo 5/5 uploaded (427.5 KB)
+
+🔎  Loti Bar & Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Sol Tina (cafe, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (79.5 KB)
+
+🔎  Trio Café (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (844.1 KB)
+  ✅  Photo 2/5 uploaded (324.3 KB)
+  ✅  Photo 3/5 uploaded (817.2 KB)
+  ✅  Photo 4/5 uploaded (262.9 KB)
+  ✅  Photo 5/5 uploaded (393.1 KB)
+
+🔎  Hotel Concord (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (998.8 KB)
+  ✅  Photo 2/5 uploaded (331.3 KB)
+  ✅  Photo 3/5 uploaded (367.7 KB)
+  ✅  Photo 4/5 uploaded (389.4 KB)
+  ✅  Photo 5/5 uploaded (847.3 KB)
+
+🔎  ዲዶ ካ (coffee, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+🔎  Washington Cafe (coffee, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (244.0 KB)
+  ✅  Photo 2/2 uploaded (240.1 KB)
+
+🔎  Ararat Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (374.6 KB)
+  ✅  Photo 2/5 uploaded (155.7 KB)
+  ✅  Photo 3/5 uploaded (402.6 KB)
+  ✅  Photo 4/5 uploaded (193.6 KB)
+  ✅  Photo 5/5 uploaded (162.3 KB)
+
+🔎  Ambassador to Arat Kilo (Tourist Hotel) (transport, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (339.3 KB)
+  ✅  Photo 2/5 uploaded (568.2 KB)
+  ✅  Photo 3/5 uploaded (347.8 KB)
+  ✅  Photo 4/5 uploaded (507.3 KB)
+  ✅  Photo 5/5 uploaded (1015.0 KB)
+
+🔎  ሳሪስ ሊና ካፌ እና ሬስቶራንት (coffee, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     16/20 places
+📸  Photos saved:  72
+❓  Not on Google: 1
+📭  No photos:     3
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 641814b3..., raw fetch: 80)
+
+🔎  Addis Ababa Resturant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1217.5 KB)
+  ✅  Photo 2/5 uploaded (567.2 KB)
+  ✅  Photo 3/5 uploaded (552.9 KB)
+  ✅  Photo 4/5 uploaded (373.6 KB)
+  ✅  Photo 5/5 uploaded (620.3 KB)
+
+🔎  Sheger Bldg.(Kaldis Coffee) (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (358.3 KB)
+  ✅  Photo 2/5 uploaded (392.5 KB)
+  ✅  Photo 3/5 uploaded (255.9 KB)
+  ✅  Photo 4/5 uploaded (995.4 KB)
+  ✅  Photo 5/5 uploaded (164.9 KB)
+
+🔎  Passion Burger (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Muslim Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (574.9 KB)
+  ✅  Photo 2/5 uploaded (556.2 KB)
+  ✅  Photo 3/5 uploaded (592.1 KB)
+  ✅  Photo 4/5 uploaded (328.7 KB)
+  ✅  Photo 5/5 uploaded (609.1 KB)
+
+🔎  Pomy home (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (185.6 KB)
+  ✅  Photo 2/5 uploaded (122.9 KB)
+  ✅  Photo 3/5 uploaded (113.4 KB)
+  ✅  Photo 4/5 uploaded (113.4 KB)
+  ✅  Photo 5/5 uploaded (173.8 KB)
+
+🔎  Five Loaves (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (486.9 KB)
+  ✅  Photo 2/5 uploaded (522.1 KB)
+  ✅  Photo 3/5 uploaded (486.1 KB)
+  ✅  Photo 4/5 uploaded (501.2 KB)
+  ✅  Photo 5/5 uploaded (911.2 KB)
+
+🔎  MZ Guest House (guesthouse, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (537.6 KB)
+
+🔎  Nanaya Guesthouse (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (192.5 KB)
+  ✅  Photo 2/5 uploaded (215.4 KB)
+  ✅  Photo 3/5 uploaded (152.0 KB)
+  ✅  Photo 4/5 uploaded (101.3 KB)
+  ✅  Photo 5/5 uploaded (176.9 KB)
+
+🔎  ናሆም (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Menahereya (hotel, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (1068.7 KB)
+  ✅  Photo 2/2 uploaded (350.7 KB)
+
+🔎  Mamo Kacha Cafe (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (933.6 KB)
+  ✅  Photo 2/5 uploaded (204.1 KB)
+  ✅  Photo 3/5 uploaded (222.3 KB)
+  ✅  Photo 4/5 uploaded (276.2 KB)
+  ✅  Photo 5/5 uploaded (240.3 KB)
+
+🔎  Tsige Bar and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Omedla Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1091.7 KB)
+  ✅  Photo 2/5 uploaded (234.5 KB)
+  ✅  Photo 3/5 uploaded (348.5 KB)
+  ✅  Photo 4/5 uploaded (240.0 KB)
+  ✅  Photo 5/5 uploaded (231.3 KB)
+
+🔎  Meridian Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (565.8 KB)
+  ✅  Photo 2/5 uploaded (248.2 KB)
+  ✅  Photo 3/5 uploaded (311.4 KB)
+  ✅  Photo 4/5 uploaded (788.7 KB)
+  ✅  Photo 5/5 uploaded (430.1 KB)
+
+🔎  Country Chicken (restaurant, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (298.8 KB)
+
+🔎  Blue nile hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (523.0 KB)
+  ✅  Photo 2/5 uploaded (315.6 KB)
+  ✅  Photo 3/5 uploaded (754.3 KB)
+  ✅  Photo 4/5 uploaded (639.8 KB)
+  ✅  Photo 5/5 uploaded (744.5 KB)
+
+🔎  Astara Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (297.1 KB)
+  ✅  Photo 2/5 uploaded (200.3 KB)
+  ✅  Photo 3/5 uploaded (312.7 KB)
+  ✅  Photo 4/5 uploaded (250.0 KB)
+  ✅  Photo 5/5 uploaded (576.0 KB)
+
+🔎  Tewodros Square ቴዎድሮስ አደባባይ (landmark, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (70.3 KB)
+  ✅  Photo 2/5 uploaded (476.3 KB)
+  ✅  Photo 3/5 uploaded (295.8 KB)
+  ✅  Photo 4/5 uploaded (529.8 KB)
+  ✅  Photo 5/5 uploaded (103.4 KB)
+
+🔎  የካቲት 12 መታሰቢያ ሐውልት (landmark, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (575.4 KB)
+  ✅  Photo 2/5 uploaded (394.1 KB)
+  ✅  Photo 3/5 uploaded (618.8 KB)
+  ✅  Photo 4/5 uploaded (419.5 KB)
+  ✅  Photo 5/5 uploaded (652.0 KB)
+
+🔎  Lido Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (68.0 KB)
+  ✅  Photo 2/5 uploaded (257.9 KB)
+  ✅  Photo 3/5 uploaded (455.1 KB)
+  ✅  Photo 4/5 uploaded (70.2 KB)
+  ✅  Photo 5/5 uploaded (400.2 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     17/20 places
+📸  Photos saved:  74
+❓  Not on Google: 0
+📭  No photos:     3
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 7a39bf4c..., raw fetch: 80)
+
+🔎  Liquid Lounge (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Selam (restaurant, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (84.3 KB)
+  ✅  Photo 2/2 uploaded (49.7 KB)
+
+🔎  Alamudin guest house (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (263.8 KB)
+  ✅  Photo 2/5 uploaded (270.3 KB)
+  ✅  Photo 3/5 uploaded (604.8 KB)
+  ✅  Photo 4/5 uploaded (948.2 KB)
+  ✅  Photo 5/5 uploaded (491.4 KB)
+
+🔎  Tady cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (509.1 KB)
+  ✅  Photo 2/5 uploaded (614.3 KB)
+  ✅  Photo 3/5 uploaded (266.6 KB)
+  ✅  Photo 4/5 uploaded (628.2 KB)
+  ✅  Photo 5/5 uploaded (582.1 KB)
+
+🔎  Ladan (restaurant, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (93.7 KB)
+  ✅  Photo 2/3 uploaded (85.1 KB)
+  ✅  Photo 3/3 uploaded (202.6 KB)
+
+🔎  Mubarak (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (640.6 KB)
+  ✅  Photo 2/5 uploaded (441.5 KB)
+  ✅  Photo 3/5 uploaded (514.2 KB)
+  ✅  Photo 4/5 uploaded (477.5 KB)
+  ✅  Photo 5/5 uploaded (805.5 KB)
+
+🔎  Edna (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (22.6 KB)
+  ✅  Photo 2/5 uploaded (31.3 KB)
+  ✅  Photo 3/5 uploaded (38.3 KB)
+  ✅  Photo 4/5 uploaded (45.7 KB)
+  ✅  Photo 5/5 uploaded (90.7 KB)
+
+🔎  Nina (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሾው ሚ ባርና ሬስቶራንት (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (153.4 KB)
+  ✅  Photo 2/5 uploaded (222.6 KB)
+  ✅  Photo 3/5 uploaded (234.2 KB)
+  ✅  Photo 4/5 uploaded (175.0 KB)
+  ✅  Photo 5/5 uploaded (256.8 KB)
+
+🔎  መሬት የገዛነው ቦታ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (135.9 KB)
+  ✅  Photo 2/5 uploaded (182.6 KB)
+  ✅  Photo 3/5 uploaded (128.4 KB)
+  ✅  Photo 4/5 uploaded (217.2 KB)
+  ✅  Photo 5/5 uploaded (124.5 KB)
+
+🔎  Dashen Terara (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (215.2 KB)
+  ✅  Photo 2/5 uploaded (410.4 KB)
+  ✅  Photo 3/5 uploaded (133.4 KB)
+  ✅  Photo 4/5 uploaded (142.8 KB)
+  ✅  Photo 5/5 uploaded (370.8 KB)
+
+🔎  Chicken Hut (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (314.5 KB)
+  ✅  Photo 2/5 uploaded (280.7 KB)
+  ✅  Photo 3/5 uploaded (486.5 KB)
+  ✅  Photo 4/5 uploaded (495.6 KB)
+  ✅  Photo 5/5 uploaded (39.5 KB)
+
+🔎  Happy Cafe and Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (421.7 KB)
+  ✅  Photo 2/5 uploaded (457.6 KB)
+  ✅  Photo 3/5 uploaded (245.7 KB)
+  ✅  Photo 4/5 uploaded (295.5 KB)
+  ✅  Photo 5/5 uploaded (806.9 KB)
+
+🔎  Maleda cafe and restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (204.9 KB)
+  ✅  Photo 2/5 uploaded (177.8 KB)
+  ✅  Photo 3/5 uploaded (495.8 KB)
+  ✅  Photo 4/5 uploaded (945.3 KB)
+  ✅  Photo 5/5 uploaded (775.1 KB)
+
+🔎  wossen's house (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Queens (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (428.5 KB)
+  ✅  Photo 2/5 uploaded (403.7 KB)
+  ✅  Photo 3/5 uploaded (301.0 KB)
+  ✅  Photo 4/5 uploaded (117.8 KB)
+  ✅  Photo 5/5 uploaded (659.5 KB)
+
+🔎  Inter Bistro (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (745.1 KB)
+  ✅  Photo 2/5 uploaded (228.6 KB)
+  ✅  Photo 3/5 uploaded (530.8 KB)
+  ✅  Photo 4/5 uploaded (621.0 KB)
+  ✅  Photo 5/5 uploaded (550.8 KB)
+
+🔎  Bata Restaurant and Bar (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (414.5 KB)
+  ✅  Photo 2/5 uploaded (672.7 KB)
+  ✅  Photo 3/5 uploaded (234.9 KB)
+  ✅  Photo 4/5 uploaded (570.8 KB)
+  ✅  Photo 5/5 uploaded (574.7 KB)
+
+🔎  AASTU Cafe 2 (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (256.8 KB)
+  ✅  Photo 2/5 uploaded (267.1 KB)
+  ✅  Photo 3/5 uploaded (381.5 KB)
+  ✅  Photo 4/5 uploaded (449.2 KB)
+  ✅  Photo 5/5 uploaded (338.7 KB)
+
+🔎  Yeshi Buna (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (440.8 KB)
+  ✅  Photo 2/5 uploaded (612.4 KB)
+  ✅  Photo 3/5 uploaded (867.5 KB)
+  ✅  Photo 4/5 uploaded (463.7 KB)
+  ✅  Photo 5/5 uploaded (328.6 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     17/20 places
+📸  Photos saved:  80
+❓  Not on Google: 0
+📭  No photos:     3
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 88e8617d..., raw fetch: 80)
+
+🔎  Soramba Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (110.9 KB)
+  ✅  Photo 2/5 uploaded (88.9 KB)
+  ✅  Photo 3/5 uploaded (186.9 KB)
+  ✅  Photo 4/5 uploaded (279.0 KB)
+  ✅  Photo 5/5 uploaded (76.4 KB)
+
+🔎  DODI Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (151.3 KB)
+  ✅  Photo 2/5 uploaded (149.8 KB)
+  ✅  Photo 3/5 uploaded (224.9 KB)
+  ✅  Photo 4/5 uploaded (187.6 KB)
+  ✅  Photo 5/5 uploaded (342.4 KB)
+
+🔎  ሲሳይ ሮፓክ  Sisay Ropack (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (534.7 KB)
+  ✅  Photo 2/5 uploaded (473.5 KB)
+  ✅  Photo 3/5 uploaded (733.3 KB)
+  ✅  Photo 4/5 uploaded (408.7 KB)
+  ✅  Photo 5/5 uploaded (185.4 KB)
+
+🔎  Haile (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (421.7 KB)
+  ✅  Photo 2/5 uploaded (34.4 KB)
+  ✅  Photo 3/5 uploaded (151.6 KB)
+  ✅  Photo 4/5 uploaded (395.7 KB)
+  ✅  Photo 5/5 uploaded (350.0 KB)
+
+🔎  Kera, Laphto, Sarise, Kirkos (transport, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (876.4 KB)
+  ✅  Photo 2/5 uploaded (288.7 KB)
+  ✅  Photo 3/5 uploaded (223.4 KB)
+  ✅  Photo 4/5 uploaded (764.7 KB)
+  ✅  Photo 5/5 uploaded (726.3 KB)
+
+🔎  ካልዲስ ኮፊ (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (772.9 KB)
+  ✅  Photo 2/5 uploaded (514.0 KB)
+  ✅  Photo 3/5 uploaded (479.0 KB)
+  ✅  Photo 4/5 uploaded (190.3 KB)
+  ✅  Photo 5/5 uploaded (456.1 KB)
+
+🔎  ሳሚ ካፌ (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Mena Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (379.1 KB)
+  ✅  Photo 2/5 uploaded (394.4 KB)
+  ✅  Photo 3/5 uploaded (268.3 KB)
+  ✅  Photo 4/5 uploaded (312.0 KB)
+  ✅  Photo 5/5 uploaded (491.3 KB)
+
+🔎  Bless (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (32.4 KB)
+  ✅  Photo 2/5 uploaded (347.5 KB)
+  ✅  Photo 3/5 uploaded (56.3 KB)
+  ✅  Photo 4/5 uploaded (182.5 KB)
+  ✅  Photo 5/5 uploaded (36.1 KB)
+
+🔎  Alem (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (494.0 KB)
+  ✅  Photo 2/5 uploaded (115.8 KB)
+  ✅  Photo 3/5 uploaded (432.0 KB)
+  ✅  Photo 4/5 uploaded (699.4 KB)
+  ✅  Photo 5/5 uploaded (103.1 KB)
+
+🔎  Poli Lotus closed comunitiy (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (583.6 KB)
+  ✅  Photo 2/5 uploaded (768.2 KB)
+  ✅  Photo 3/5 uploaded (323.9 KB)
+  ✅  Photo 4/5 uploaded (550.2 KB)
+  ✅  Photo 5/5 uploaded (675.8 KB)
+
+🔎  Crush Coffee (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (535.4 KB)
+  ✅  Photo 2/5 uploaded (360.2 KB)
+  ✅  Photo 3/5 uploaded (379.1 KB)
+  ✅  Photo 4/5 uploaded (796.7 KB)
+  ✅  Photo 5/5 uploaded (607.3 KB)
+
+🔎  Club Voltage (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (88.9 KB)
+  ✅  Photo 2/5 uploaded (235.5 KB)
+  ✅  Photo 3/5 uploaded (811.9 KB)
+  ✅  Photo 4/5 uploaded (283.8 KB)
+  ✅  Photo 5/5 uploaded (268.5 KB)
+
+🔎  Savor (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (470.5 KB)
+  ✅  Photo 2/5 uploaded (599.2 KB)
+  ✅  Photo 3/5 uploaded (679.2 KB)
+  ✅  Photo 4/5 uploaded (447.3 KB)
+  ✅  Photo 5/5 uploaded (394.6 KB)
+
+🔎  Bole tourist  ቦሌ ቱሪስት (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (574.3 KB)
+  ✅  Photo 2/5 uploaded (717.6 KB)
+  ✅  Photo 3/5 uploaded (285.0 KB)
+  ✅  Photo 4/5 uploaded (333.9 KB)
+  ✅  Photo 5/5 uploaded (120.1 KB)
+
+🔎  Addis Downtown (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1061.0 KB)
+  ✅  Photo 2/5 uploaded (306.6 KB)
+  ✅  Photo 3/5 uploaded (1111.8 KB)
+  ✅  Photo 4/5 uploaded (583.6 KB)
+  ✅  Photo 5/5 uploaded (365.3 KB)
+
+🔎  Pizza-hut (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (490.8 KB)
+  ✅  Photo 2/5 uploaded (146.8 KB)
+  ✅  Photo 3/5 uploaded (364.7 KB)
+  ✅  Photo 4/5 uploaded (320.4 KB)
+  ✅  Photo 5/5 uploaded (512.6 KB)
+
+🔎  Le Diamant (restaurant, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (257.5 KB)
+  ✅  Photo 2/4 uploaded (220.5 KB)
+  ✅  Photo 3/4 uploaded (310.3 KB)
+  ✅  Photo 4/4 uploaded (237.8 KB)
+
+🔎  Scenic View (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (556.5 KB)
+  ✅  Photo 2/5 uploaded (484.2 KB)
+  ✅  Photo 3/5 uploaded (510.6 KB)
+  ✅  Photo 4/5 uploaded (599.3 KB)
+  ✅  Photo 5/5 uploaded (435.1 KB)
+
+🔎  Sabeh (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (395.0 KB)
+  ✅  Photo 2/5 uploaded (351.1 KB)
+  ✅  Photo 3/5 uploaded (412.4 KB)
+  ✅  Photo 4/5 uploaded (737.5 KB)
+  ✅  Photo 5/5 uploaded (481.4 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     19/20 places
+📸  Photos saved:  94
+❓  Not on Google: 0
+📭  No photos:     1
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 9badf31e..., raw fetch: 80)
+
+🔎  Chaka Buna (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (481.5 KB)
+  ✅  Photo 2/5 uploaded (276.7 KB)
+  ✅  Photo 3/5 uploaded (259.5 KB)
+  ✅  Photo 4/5 uploaded (240.6 KB)
+  ✅  Photo 5/5 uploaded (489.4 KB)
+
+🔎  Andi (guesthouse, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (429.9 KB)
+  ✅  Photo 2/2 uploaded (350.4 KB)
+
+🔎  Alef Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1054.4 KB)
+  ✅  Photo 2/5 uploaded (126.1 KB)
+  ✅  Photo 3/5 uploaded (692.5 KB)
+  ✅  Photo 4/5 uploaded (368.5 KB)
+  ✅  Photo 5/5 uploaded (298.6 KB)
+
+🔎  Sport Cafe (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (488.5 KB)
+  ✅  Photo 2/5 uploaded (709.5 KB)
+  ✅  Photo 3/5 uploaded (543.1 KB)
+  ✅  Photo 4/5 uploaded (577.5 KB)
+  ✅  Photo 5/5 uploaded (760.7 KB)
+
+🔎  Loti French Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Comfy Spot Guest House (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Aser Park (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (172.7 KB)
+  ✅  Photo 2/5 uploaded (49.3 KB)
+  ✅  Photo 3/5 uploaded (845.7 KB)
+  ✅  Photo 4/5 uploaded (195.3 KB)
+  ✅  Photo 5/5 uploaded (46.2 KB)
+
+🔎  Hildus Cafe & Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (442.9 KB)
+  ✅  Photo 2/5 uploaded (447.7 KB)
+  ✅  Photo 3/5 uploaded (497.7 KB)
+  ✅  Photo 4/5 uploaded (193.5 KB)
+  ✅  Photo 5/5 uploaded (258.8 KB)
+
+🔎  In - n - Out (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (474.4 KB)
+  ✅  Photo 2/5 uploaded (512.1 KB)
+  ✅  Photo 3/5 uploaded (382.5 KB)
+  ✅  Photo 4/5 uploaded (1949.6 KB)
+  ✅  Photo 5/5 uploaded (498.6 KB)
+
+🔎  Beemnet Bar & Reastaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (301.6 KB)
+  ✅  Photo 2/5 uploaded (402.1 KB)
+  ✅  Photo 3/5 uploaded (740.5 KB)
+  ✅  Photo 4/5 uploaded (256.7 KB)
+  ✅  Photo 5/5 uploaded (461.1 KB)
+
+🔎  Asni's Art Gallery (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (314.2 KB)
+  ✅  Photo 2/5 uploaded (294.7 KB)
+  ✅  Photo 3/5 uploaded (422.1 KB)
+  ✅  Photo 4/5 uploaded (379.0 KB)
+  ✅  Photo 5/5 uploaded (194.7 KB)
+
+🔎  The Cake Lounge (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (429.0 KB)
+  ✅  Photo 2/5 uploaded (172.7 KB)
+  ✅  Photo 3/5 uploaded (138.2 KB)
+  ✅  Photo 4/5 uploaded (242.6 KB)
+  ✅  Photo 5/5 uploaded (318.5 KB)
+
+🔎  Sudanese (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (957.9 KB)
+  ✅  Photo 2/5 uploaded (442.1 KB)
+  ✅  Photo 3/5 uploaded (570.9 KB)
+  ✅  Photo 4/5 uploaded (1148.8 KB)
+  ✅  Photo 5/5 uploaded (1085.3 KB)
+
+🔎  Bonjour (cafe, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (705.5 KB)
+  ✅  Photo 2/3 uploaded (405.8 KB)
+  ✅  Photo 3/3 uploaded (395.2 KB)
+
+🔎  Teferi mimi (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (355.1 KB)
+  ✅  Photo 2/5 uploaded (27.5 KB)
+  ✅  Photo 3/5 uploaded (1261.8 KB)
+  ✅  Photo 4/5 uploaded (37.0 KB)
+  ✅  Photo 5/5 uploaded (357.3 KB)
+
+🔎  Riverside Apartments (hotel, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (204.4 KB)
+
+🔎  Pacific Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (605.3 KB)
+  ✅  Photo 2/5 uploaded (167.6 KB)
+  ✅  Photo 3/5 uploaded (56.1 KB)
+  ✅  Photo 4/5 uploaded (95.5 KB)
+  ✅  Photo 5/5 uploaded (691.0 KB)
+
+🔎  Tryst Addis Café and Restaurant  (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (398.0 KB)
+  ✅  Photo 2/5 uploaded (89.6 KB)
+  ✅  Photo 3/5 uploaded (465.0 KB)
+  ✅  Photo 4/5 uploaded (1013.8 KB)
+  ✅  Photo 5/5 uploaded (790.5 KB)
+
+🔎  King's Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (682.7 KB)
+  ✅  Photo 2/5 uploaded (204.5 KB)
+  ✅  Photo 3/5 uploaded (586.7 KB)
+  ✅  Photo 4/5 uploaded (256.2 KB)
+  ✅  Photo 5/5 uploaded (382.5 KB)
+
+🔎  Oilibya (restaurant, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (172.6 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     18/20 places
+📸  Photos saved:  77
+❓  Not on Google: 0
+📭  No photos:     2
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: ae5ee03e..., raw fetch: 80)
+
+🔎  Eros Addis (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (352.4 KB)
+  ✅  Photo 2/5 uploaded (146.0 KB)
+  ✅  Photo 3/5 uploaded (106.5 KB)
+  ✅  Photo 4/5 uploaded (507.7 KB)
+  ✅  Photo 5/5 uploaded (248.2 KB)
+
+🔎  Sheger Bar & Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Union Bar & Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (105.4 KB)
+  ✅  Photo 2/5 uploaded (896.8 KB)
+  ✅  Photo 3/5 uploaded (253.1 KB)
+  ✅  Photo 4/5 uploaded (590.0 KB)
+  ✅  Photo 5/5 uploaded (461.7 KB)
+
+🔎  University Cafeteria (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  SGS Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (378.0 KB)
+  ✅  Photo 2/5 uploaded (313.8 KB)
+  ✅  Photo 3/5 uploaded (769.6 KB)
+  ✅  Photo 4/5 uploaded (555.1 KB)
+  ✅  Photo 5/5 uploaded (183.7 KB)
+
+🔎  Wow Burger (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (246.6 KB)
+  ✅  Photo 2/5 uploaded (306.4 KB)
+  ✅  Photo 3/5 uploaded (478.8 KB)
+  ✅  Photo 4/5 uploaded (560.0 KB)
+  ✅  Photo 5/5 uploaded (202.1 KB)
+
+🔎  Zi Place (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Golden Fork Cafe, Restaurant & Pizzeria (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (470.2 KB)
+  ✅  Photo 2/5 uploaded (304.2 KB)
+  ✅  Photo 3/5 uploaded (250.4 KB)
+  ✅  Photo 4/5 uploaded (1403.3 KB)
+  ✅  Photo 5/5 uploaded (216.7 KB)
+
+🔎  AG Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (327.1 KB)
+  ✅  Photo 2/5 uploaded (145.6 KB)
+  ✅  Photo 3/5 uploaded (907.5 KB)
+  ✅  Photo 4/5 uploaded (76.6 KB)
+  ✅  Photo 5/5 uploaded (590.0 KB)
+
+🔎  Nati Cafe & Restaurant (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (584.4 KB)
+  ✅  Photo 2/5 uploaded (104.2 KB)
+  ✅  Photo 3/5 uploaded (514.5 KB)
+  ✅  Photo 4/5 uploaded (611.9 KB)
+  ✅  Photo 5/5 uploaded (503.7 KB)
+
+🔎  መኪና ፈታ (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (104.3 KB)
+  ✅  Photo 2/5 uploaded (198.4 KB)
+  ✅  Photo 3/5 uploaded (146.0 KB)
+  ✅  Photo 4/5 uploaded (104.3 KB)
+  ✅  Photo 5/5 uploaded (216.5 KB)
+
+🔎  Martha Wakshuma Peastry (coffee, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+🔎  WOW Burger (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (415.2 KB)
+  ✅  Photo 2/5 uploaded (552.7 KB)
+  ✅  Photo 3/5 uploaded (567.9 KB)
+  ✅  Photo 4/5 uploaded (306.1 KB)
+  ✅  Photo 5/5 uploaded (271.4 KB)
+
+🔎  Mac Addis (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (462.1 KB)
+  ✅  Photo 2/5 uploaded (138.9 KB)
+  ✅  Photo 3/5 uploaded (302.8 KB)
+  ✅  Photo 4/5 uploaded (391.1 KB)
+  ✅  Photo 5/5 uploaded (126.8 KB)
+
+🔎  Yummy Pizza (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (102.6 KB)
+  ✅  Photo 2/5 uploaded (216.8 KB)
+  ✅  Photo 3/5 uploaded (776.6 KB)
+  ✅  Photo 4/5 uploaded (327.3 KB)
+  ✅  Photo 5/5 uploaded (334.9 KB)
+
+🔎  Roomi Burger (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  2000 Habesha (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (349.6 KB)
+  ✅  Photo 2/5 uploaded (470.2 KB)
+  ✅  Photo 3/5 uploaded (481.9 KB)
+  ✅  Photo 4/5 uploaded (327.0 KB)
+  ✅  Photo 5/5 uploaded (665.7 KB)
+
+🔎  Dinos (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Cordial Pastry (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (408.7 KB)
+  ✅  Photo 2/5 uploaded (708.6 KB)
+  ✅  Photo 3/5 uploaded (351.3 KB)
+  ✅  Photo 4/5 uploaded (195.3 KB)
+  ✅  Photo 5/5 uploaded (613.6 KB)
+
+🔎  Buna Tera (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (56.0 KB)
+  ✅  Photo 2/5 uploaded (491.4 KB)
+  ✅  Photo 3/5 uploaded (188.8 KB)
+  ✅  Photo 4/5 uploaded (390.8 KB)
+  ✅  Photo 5/5 uploaded (527.9 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     14/20 places
+📸  Photos saved:  70
+❓  Not on Google: 1
+📭  No photos:     5
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: bde2a899..., raw fetch: 80)
+
+🔎  አብነት አደባባይ  Abnet roundabout (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (473.3 KB)
+  ✅  Photo 2/5 uploaded (349.0 KB)
+  ✅  Photo 3/5 uploaded (314.8 KB)
+  ✅  Photo 4/5 uploaded (422.8 KB)
+  ✅  Photo 5/5 uploaded (372.4 KB)
+
+🔎  Samrawit Hotel Restaurant & Bar (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  My Burger (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (379.9 KB)
+  ✅  Photo 2/5 uploaded (477.4 KB)
+  ✅  Photo 3/5 uploaded (215.3 KB)
+  ✅  Photo 4/5 uploaded (622.7 KB)
+  ✅  Photo 5/5 uploaded (565.2 KB)
+
+🔎  Hollywood Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (478.0 KB)
+  ✅  Photo 2/5 uploaded (144.8 KB)
+  ✅  Photo 3/5 uploaded (36.3 KB)
+  ✅  Photo 4/5 uploaded (701.9 KB)
+  ✅  Photo 5/5 uploaded (544.7 KB)
+
+🔎  Victory Monument (landmark, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (264.0 KB)
+  ✅  Photo 2/5 uploaded (305.1 KB)
+  ✅  Photo 3/5 uploaded (382.6 KB)
+  ✅  Photo 4/5 uploaded (228.0 KB)
+  ✅  Photo 5/5 uploaded (236.2 KB)
+
+🔎  Lion's Cage Pastry (cafe, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (2066.3 KB)
+  ✅  Photo 2/2 uploaded (297.4 KB)
+
+🔎  HeRa Addis Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (393.9 KB)
+  ✅  Photo 2/5 uploaded (158.3 KB)
+  ✅  Photo 3/5 uploaded (197.6 KB)
+  ✅  Photo 4/5 uploaded (153.0 KB)
+  ✅  Photo 5/5 uploaded (221.6 KB)
+
+🔎  Shawarger (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (276.0 KB)
+  ✅  Photo 2/5 uploaded (49.9 KB)
+  ✅  Photo 3/5 uploaded (354.6 KB)
+  ✅  Photo 4/5 uploaded (318.7 KB)
+  ✅  Photo 5/5 uploaded (60.1 KB)
+
+🔎  Tesfu Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ⚠️  Photo 1 failed: Upload failed: Bad Gateway
+  ✅  Photo 2/5 uploaded (683.0 KB)
+  ✅  Photo 3/5 uploaded (133.1 KB)
+  ✅  Photo 4/5 uploaded (674.9 KB)
+  ✅  Photo 5/5 uploaded (120.4 KB)
+
+🔎  Baro Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (651.7 KB)
+  ✅  Photo 2/5 uploaded (181.0 KB)
+  ✅  Photo 3/5 uploaded (715.2 KB)
+  ✅  Photo 4/5 uploaded (825.1 KB)
+  ✅  Photo 5/5 uploaded (831.5 KB)
+
+🔎  ምህረትዓብ ሆቴል (hotel, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (76.5 KB)
+
+🔎  Mosy Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (762.2 KB)
+  ✅  Photo 2/5 uploaded (228.3 KB)
+  ✅  Photo 3/5 uploaded (70.9 KB)
+  ✅  Photo 4/5 uploaded (314.3 KB)
+  ✅  Photo 5/5 uploaded (193.0 KB)
+
+🔎  Lebu Mebrathayil (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Fikere Bar and Restaurant (restaurant, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (269.8 KB)
+  ✅  Photo 2/3 uploaded (273.2 KB)
+  ✅  Photo 3/3 uploaded (446.3 KB)
+
+🔎  Bonna Annee Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (593.6 KB)
+  ✅  Photo 2/5 uploaded (421.3 KB)
+  ✅  Photo 3/5 uploaded (656.5 KB)
+  ✅  Photo 4/5 uploaded (722.3 KB)
+  ✅  Photo 5/5 uploaded (895.1 KB)
+
+🔎  Monarch Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (342.4 KB)
+  ✅  Photo 2/5 uploaded (321.8 KB)
+  ✅  Photo 3/5 uploaded (766.2 KB)
+  ✅  Photo 4/5 uploaded (302.4 KB)
+  ✅  Photo 5/5 uploaded (244.5 KB)
+
+🔎  Tsehay Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (286.7 KB)
+  ✅  Photo 2/5 uploaded (132.4 KB)
+  ✅  Photo 3/5 uploaded (158.6 KB)
+  ✅  Photo 4/5 uploaded (183.0 KB)
+  ✅  Photo 5/5 uploaded (158.9 KB)
+
+🔎  Sisters Cafe and Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (116.9 KB)
+  ✅  Photo 2/5 uploaded (852.8 KB)
+  ✅  Photo 3/5 uploaded (232.9 KB)
+  ✅  Photo 4/5 uploaded (234.0 KB)
+  ✅  Photo 5/5 uploaded (387.9 KB)
+
+🔎  Liule Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (392.4 KB)
+  ✅  Photo 2/5 uploaded (269.4 KB)
+  ✅  Photo 3/5 uploaded (199.6 KB)
+  ✅  Photo 4/5 uploaded (274.6 KB)
+  ✅  Photo 5/5 uploaded (126.6 KB)
+
+🔎  Kaldi's Coffee (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (462.8 KB)
+  ✅  Photo 2/5 uploaded (495.4 KB)
+  ✅  Photo 3/5 uploaded (243.8 KB)
+  ✅  Photo 4/5 uploaded (348.1 KB)
+  ✅  Photo 5/5 uploaded (543.8 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     18/20 places
+📸  Photos saved:  80
+❓  Not on Google: 0
+📭  No photos:     2
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: d053f43d..., raw fetch: 80)
+
+🔎  National village (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (970.6 KB)
+  ✅  Photo 2/5 uploaded (236.8 KB)
+  ✅  Photo 3/5 uploaded (325.1 KB)
+  ✅  Photo 4/5 uploaded (1108.4 KB)
+  ✅  Photo 5/5 uploaded (491.4 KB)
+
+🔎  Genet Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (315.2 KB)
+  ✅  Photo 2/5 uploaded (127.8 KB)
+  ✅  Photo 3/5 uploaded (449.6 KB)
+  ✅  Photo 4/5 uploaded (386.2 KB)
+  ✅  Photo 5/5 uploaded (217.6 KB)
+
+🔎  Lime Tree (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (910.5 KB)
+  ✅  Photo 2/5 uploaded (366.8 KB)
+  ✅  Photo 3/5 uploaded (355.0 KB)
+  ✅  Photo 4/5 uploaded (287.7 KB)
+  ✅  Photo 5/5 uploaded (349.3 KB)
+
+🔎  መካኒሣ ቆጣሪ የጋራ መኖሪያ ቤት (museum, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (657.2 KB)
+  ✅  Photo 2/2 uploaded (354.8 KB)
+
+🔎  Enda kwaja (guesthouse, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+🔎  Andualem Cafe & Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (447.0 KB)
+  ✅  Photo 2/5 uploaded (479.1 KB)
+  ✅  Photo 3/5 uploaded (247.9 KB)
+  ✅  Photo 4/5 uploaded (321.5 KB)
+  ✅  Photo 5/5 uploaded (309.4 KB)
+
+🔎  Duo Wei Ju (restaurant, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (937.5 KB)
+
+🔎  Elilly International Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (392.4 KB)
+  ✅  Photo 2/5 uploaded (269.4 KB)
+  ✅  Photo 3/5 uploaded (199.6 KB)
+  ✅  Photo 4/5 uploaded (274.6 KB)
+  ✅  Photo 5/5 uploaded (126.6 KB)
+
+🔎  Nigussie Dimamu  ንጉሴ ድማሙ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (402.0 KB)
+  ✅  Photo 2/5 uploaded (492.5 KB)
+  ✅  Photo 3/5 uploaded (786.8 KB)
+  ✅  Photo 4/5 uploaded (305.3 KB)
+  ✅  Photo 5/5 uploaded (189.3 KB)
+
+🔎  Faafen Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (282.2 KB)
+  ✅  Photo 2/5 uploaded (284.1 KB)
+  ✅  Photo 3/5 uploaded (221.6 KB)
+  ✅  Photo 4/5 uploaded (293.0 KB)
+  ✅  Photo 5/5 uploaded (462.6 KB)
+
+🔎  Kaldis Coffee (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Coffee Plus (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  IDCON  (Infrastructure Design Consultants) (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Lao Xiang Shi Chinese Restorant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (287.1 KB)
+  ✅  Photo 2/5 uploaded (614.6 KB)
+  ✅  Photo 3/5 uploaded (773.8 KB)
+  ✅  Photo 4/5 uploaded (542.7 KB)
+  ✅  Photo 5/5 uploaded (550.8 KB)
+
+🔎  Angla Burger (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (675.7 KB)
+  ✅  Photo 2/5 uploaded (343.3 KB)
+  ✅  Photo 3/5 uploaded (748.0 KB)
+  ✅  Photo 4/5 uploaded (321.5 KB)
+  ✅  Photo 5/5 uploaded (434.4 KB)
+
+🔎  Vuvuzela Club (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (88.9 KB)
+  ✅  Photo 2/5 uploaded (235.5 KB)
+  ✅  Photo 3/5 uploaded (811.9 KB)
+  ✅  Photo 4/5 uploaded (283.8 KB)
+  ✅  Photo 5/5 uploaded (268.5 KB)
+
+🔎  ጀሞ-ሚካኤል አደባባይ (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (62.3 KB)
+  ✅  Photo 2/5 uploaded (350.9 KB)
+  ✅  Photo 3/5 uploaded (322.2 KB)
+  ✅  Photo 4/5 uploaded (562.2 KB)
+  ✅  Photo 5/5 uploaded (926.2 KB)
+
+🔎  Mubarak one (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (484.2 KB)
+  ✅  Photo 2/5 uploaded (415.4 KB)
+  ✅  Photo 3/5 uploaded (213.8 KB)
+  ✅  Photo 4/5 uploaded (242.8 KB)
+  ✅  Photo 5/5 uploaded (118.3 KB)
+
+🔎  Selam Pension (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (526.3 KB)
+  ✅  Photo 2/5 uploaded (474.6 KB)
+  ✅  Photo 3/5 uploaded (683.3 KB)
+  ✅  Photo 4/5 uploaded (200.2 KB)
+  ✅  Photo 5/5 uploaded (311.8 KB)
+
+🔎  Ras Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (633.4 KB)
+  ✅  Photo 2/5 uploaded (207.4 KB)
+  ✅  Photo 3/5 uploaded (469.8 KB)
+  ✅  Photo 4/5 uploaded (587.1 KB)
+  ✅  Photo 5/5 uploaded (293.9 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     16/20 places
+📸  Photos saved:  73
+❓  Not on Google: 1
+📭  No photos:     3
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: e4380e29..., raw fetch: 80)
+
+🔎  Ahadu Special Juice (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (469.9 KB)
+  ✅  Photo 2/5 uploaded (380.3 KB)
+  ✅  Photo 3/5 uploaded (456.5 KB)
+  ✅  Photo 4/5 uploaded (191.2 KB)
+  ✅  Photo 5/5 uploaded (487.6 KB)
+
+🔎  BOSS (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (348.0 KB)
+  ✅  Photo 2/5 uploaded (319.9 KB)
+  ✅  Photo 3/5 uploaded (465.0 KB)
+  ✅  Photo 4/5 uploaded (339.2 KB)
+  ✅  Photo 5/5 uploaded (317.3 KB)
+
+🔎  The Goat Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (252.1 KB)
+  ✅  Photo 2/5 uploaded (380.8 KB)
+  ✅  Photo 3/5 uploaded (478.8 KB)
+  ✅  Photo 4/5 uploaded (222.3 KB)
+  ✅  Photo 5/5 uploaded (354.3 KB)
+
+🔎  አበበ   Abebe (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (448.0 KB)
+  ✅  Photo 2/5 uploaded (494.8 KB)
+  ✅  Photo 3/5 uploaded (248.7 KB)
+  ✅  Photo 4/5 uploaded (1062.4 KB)
+  ✅  Photo 5/5 uploaded (488.3 KB)
+
+🔎  Hewan (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (140.8 KB)
+  ✅  Photo 2/5 uploaded (124.5 KB)
+  ✅  Photo 3/5 uploaded (72.4 KB)
+  ✅  Photo 4/5 uploaded (491.4 KB)
+  ✅  Photo 5/5 uploaded (136.0 KB)
+
+🔎  Gojab Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (478.4 KB)
+  ✅  Photo 2/5 uploaded (247.1 KB)
+  ✅  Photo 3/5 uploaded (601.1 KB)
+  ✅  Photo 4/5 uploaded (1272.9 KB)
+  ✅  Photo 5/5 uploaded (1881.8 KB)
+
+🔎  CCD መግቢያ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (382.7 KB)
+  ✅  Photo 2/5 uploaded (218.9 KB)
+  ✅  Photo 3/5 uploaded (490.7 KB)
+  ✅  Photo 4/5 uploaded (651.1 KB)
+  ✅  Photo 5/5 uploaded (251.2 KB)
+
+🔎  Parkdale Burger (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  አዲስ አበባ ሙዚየም (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (633.8 KB)
+  ✅  Photo 2/5 uploaded (496.3 KB)
+  ✅  Photo 3/5 uploaded (515.8 KB)
+  ✅  Photo 4/5 uploaded (196.5 KB)
+  ✅  Photo 5/5 uploaded (643.3 KB)
+
+🔎  Life Pension No 2 (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  TEBABER REAL STATE (guesthouse, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (280.0 KB)
+
+🔎  Zoma Museum (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (651.9 KB)
+  ✅  Photo 2/5 uploaded (550.5 KB)
+  ✅  Photo 3/5 uploaded (607.8 KB)
+  ✅  Photo 4/5 uploaded (533.9 KB)
+  ✅  Photo 5/5 uploaded (1044.4 KB)
+
+🔎  Reyan Muslim Restaurant and Butchery (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (358.4 KB)
+  ✅  Photo 2/5 uploaded (287.1 KB)
+  ✅  Photo 3/5 uploaded (148.8 KB)
+  ✅  Photo 4/5 uploaded (628.3 KB)
+  ✅  Photo 5/5 uploaded (585.4 KB)
+
+🔎  ቲቶ ቡርገር (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (502.0 KB)
+  ✅  Photo 2/5 uploaded (257.1 KB)
+  ✅  Photo 3/5 uploaded (443.7 KB)
+  ✅  Photo 4/5 uploaded (366.1 KB)
+  ✅  Photo 5/5 uploaded (526.8 KB)
+
+🔎  Andiamo (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (627.3 KB)
+  ✅  Photo 2/5 uploaded (161.9 KB)
+  ✅  Photo 3/5 uploaded (194.5 KB)
+  ✅  Photo 4/5 uploaded (446.2 KB)
+  ✅  Photo 5/5 uploaded (266.9 KB)
+
+🔎  Lomi Guest House (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (263.8 KB)
+  ✅  Photo 2/5 uploaded (270.3 KB)
+  ✅  Photo 3/5 uploaded (604.8 KB)
+  ✅  Photo 4/5 uploaded (948.2 KB)
+  ✅  Photo 5/5 uploaded (491.4 KB)
+
+🔎  እምቢልታ ሆቴል (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (367.5 KB)
+  ✅  Photo 2/5 uploaded (132.1 KB)
+  ✅  Photo 3/5 uploaded (851.6 KB)
+  ✅  Photo 4/5 uploaded (292.2 KB)
+  ✅  Photo 5/5 uploaded (141.4 KB)
+
+🔎  Melek Burguer & Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (469.1 KB)
+  ✅  Photo 2/5 uploaded (391.4 KB)
+  ✅  Photo 3/5 uploaded (556.3 KB)
+  ✅  Photo 4/5 uploaded (339.8 KB)
+  ✅  Photo 5/5 uploaded (216.7 KB)
+
+🔎  top ten hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (271.1 KB)
+  ✅  Photo 2/5 uploaded (320.7 KB)
+  ✅  Photo 3/5 uploaded (620.2 KB)
+  ✅  Photo 4/5 uploaded (138.2 KB)
+  ✅  Photo 5/5 uploaded (68.3 KB)
+
+🔎  Washington Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (225.0 KB)
+  ✅  Photo 2/5 uploaded (111.1 KB)
+  ✅  Photo 3/5 uploaded (251.7 KB)
+  ✅  Photo 4/5 uploaded (128.0 KB)
+  ✅  Photo 5/5 uploaded (873.8 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     18/20 places
+📸  Photos saved:  86
+❓  Not on Google: 0
+📭  No photos:     2
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 16 places (cursor: f4e15fd0..., raw fetch: 43)
+
+🔎  Münch German Bakery (cafe, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+🔎  Kaldi's Coffee (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (358.3 KB)
+  ✅  Photo 2/5 uploaded (392.5 KB)
+  ✅  Photo 3/5 uploaded (255.9 KB)
+  ✅  Photo 4/5 uploaded (995.4 KB)
+  ✅  Photo 5/5 uploaded (164.9 KB)
+
+🔎  Limetree Bole (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (301.9 KB)
+  ✅  Photo 2/5 uploaded (316.4 KB)
+  ✅  Photo 3/5 uploaded (217.1 KB)
+  ✅  Photo 4/5 uploaded (200.5 KB)
+  ✅  Photo 5/5 uploaded (254.0 KB)
+
+🔎  Darasalaam Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Molis (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (694.3 KB)
+  ✅  Photo 2/5 uploaded (362.6 KB)
+  ✅  Photo 3/5 uploaded (379.0 KB)
+  ✅  Photo 4/5 uploaded (599.4 KB)
+  ✅  Photo 5/5 uploaded (330.5 KB)
+
+🔎  ሸገር ባር ና resturant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tomoca (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (659.5 KB)
+  ✅  Photo 2/5 uploaded (401.3 KB)
+  ✅  Photo 3/5 uploaded (149.8 KB)
+  ✅  Photo 4/5 uploaded (387.6 KB)
+  ✅  Photo 5/5 uploaded (722.4 KB)
+
+🔎  እያሱ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (350.3 KB)
+  ✅  Photo 2/5 uploaded (845.2 KB)
+  ✅  Photo 3/5 uploaded (375.9 KB)
+  ✅  Photo 4/5 uploaded (161.1 KB)
+  ✅  Photo 5/5 uploaded (321.9 KB)
+
+🔎  Namrud Cafe (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  مطعم الملك    يمني (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (269.8 KB)
+  ✅  Photo 2/5 uploaded (310.8 KB)
+  ✅  Photo 3/5 uploaded (442.2 KB)
+  ✅  Photo 4/5 uploaded (212.1 KB)
+  ✅  Photo 5/5 uploaded (52.2 KB)
+
+🔎  Maleda Cafe & Restaurant (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (204.9 KB)
+  ✅  Photo 2/5 uploaded (177.8 KB)
+  ✅  Photo 3/5 uploaded (495.8 KB)
+  ✅  Photo 4/5 uploaded (945.3 KB)
+  ✅  Photo 5/5 uploaded (775.1 KB)
+
+🔎  National (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (623.3 KB)
+  ✅  Photo 2/5 uploaded (720.4 KB)
+  ✅  Photo 3/5 uploaded (448.0 KB)
+  ✅  Photo 4/5 uploaded (343.6 KB)
+  ✅  Photo 5/5 uploaded (924.8 KB)
+
+🔎  Edna Addis (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (22.6 KB)
+  ✅  Photo 2/5 uploaded (31.3 KB)
+  ✅  Photo 3/5 uploaded (38.3 KB)
+  ✅  Photo 4/5 uploaded (45.7 KB)
+  ✅  Photo 5/5 uploaded (90.7 KB)
+
+🔎  Maya's restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (354.2 KB)
+  ✅  Photo 2/5 uploaded (95.0 KB)
+  ✅  Photo 3/5 uploaded (145.3 KB)
+  ✅  Photo 4/5 uploaded (215.1 KB)
+  ✅  Photo 5/5 uploaded (950.2 KB)
+
+🔎  Sister's Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (116.9 KB)
+  ✅  Photo 2/5 uploaded (852.8 KB)
+  ✅  Photo 3/5 uploaded (232.9 KB)
+  ✅  Photo 4/5 uploaded (234.0 KB)
+  ✅  Photo 5/5 uploaded (387.9 KB)
+
+🔎  Melala Addis Bed&Breakfast (guesthouse, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     11/16 places
+📸  Photos saved:  55
+❓  Not on Google: 2
+📭  No photos:     3
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+All places scanned - cursor reset
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: start, raw fetch: 80)
+
+🔎  Tsedeye Pizzeria (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (657.9 KB)
+  ✅  Photo 2/5 uploaded (269.6 KB)
+  ✅  Photo 3/5 uploaded (441.0 KB)
+  ✅  Photo 4/5 uploaded (575.6 KB)
+  ✅  Photo 5/5 uploaded (609.2 KB)
+
+🔎  Noah Bar & Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (367.1 KB)
+  ✅  Photo 2/5 uploaded (529.4 KB)
+  ✅  Photo 3/5 uploaded (142.7 KB)
+  ✅  Photo 4/5 uploaded (429.0 KB)
+  ✅  Photo 5/5 uploaded (304.5 KB)
+
+🔎  Adwa Victory Memorial (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (576.7 KB)
+  ✅  Photo 2/5 uploaded (715.9 KB)
+  ✅  Photo 3/5 uploaded (501.9 KB)
+  ✅  Photo 4/5 uploaded (219.4 KB)
+  ✅  Photo 5/5 uploaded (514.0 KB)
+
+🔎  አባይነህ ቤት (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (333.4 KB)
+  ✅  Photo 2/5 uploaded (247.6 KB)
+  ✅  Photo 3/5 uploaded (80.1 KB)
+  ✅  Photo 4/5 uploaded (97.9 KB)
+  ✅  Photo 5/5 uploaded (258.2 KB)
+
+🔎  Liule Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (392.4 KB)
+  ✅  Photo 2/5 uploaded (269.4 KB)
+  ✅  Photo 3/5 uploaded (199.6 KB)
+  ✅  Photo 4/5 uploaded (274.6 KB)
+  ✅  Photo 5/5 uploaded (126.6 KB)
+
+🔎  Bros Bar & Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Sunspot (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (481.8 KB)
+  ✅  Photo 2/5 uploaded (178.6 KB)
+  ✅  Photo 3/5 uploaded (442.7 KB)
+  ✅  Photo 4/5 uploaded (630.7 KB)
+  ✅  Photo 5/5 uploaded (410.2 KB)
+
+🔎  Wudasie hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (589.3 KB)
+  ✅  Photo 2/5 uploaded (261.8 KB)
+  ✅  Photo 3/5 uploaded (686.4 KB)
+  ✅  Photo 4/5 uploaded (456.6 KB)
+  ✅  Photo 5/5 uploaded (54.6 KB)
+
+🔎  ፓሽን በርገር (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (481.9 KB)
+  ✅  Photo 2/5 uploaded (511.2 KB)
+  ✅  Photo 3/5 uploaded (256.9 KB)
+  ✅  Photo 4/5 uploaded (396.7 KB)
+  ✅  Photo 5/5 uploaded (452.4 KB)
+
+🔎  Cherkos to Mexico Station (transport, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (542.5 KB)
+  ✅  Photo 2/5 uploaded (532.3 KB)
+  ✅  Photo 3/5 uploaded (393.0 KB)
+  ✅  Photo 4/5 uploaded (332.0 KB)
+  ✅  Photo 5/5 uploaded (357.8 KB)
+
+🔎  Quara Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (354.5 KB)
+  ✅  Photo 2/5 uploaded (584.8 KB)
+  ✅  Photo 3/5 uploaded (161.1 KB)
+  ✅  Photo 4/5 uploaded (282.8 KB)
+  ✅  Photo 5/5 uploaded (343.7 KB)
+
+🔎  Monalisa Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (982.3 KB)
+  ✅  Photo 2/5 uploaded (194.0 KB)
+  ✅  Photo 3/5 uploaded (397.9 KB)
+  ✅  Photo 4/5 uploaded (134.6 KB)
+  ✅  Photo 5/5 uploaded (240.2 KB)
+
+🔎  Vanquish lounge (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (109.6 KB)
+  ✅  Photo 2/5 uploaded (310.1 KB)
+  ✅  Photo 3/5 uploaded (299.7 KB)
+  ✅  Photo 4/5 uploaded (268.2 KB)
+  ✅  Photo 5/5 uploaded (239.4 KB)
+
+🔎  Ras View (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (633.4 KB)
+  ✅  Photo 2/5 uploaded (207.4 KB)
+  ✅  Photo 3/5 uploaded (469.8 KB)
+  ✅  Photo 4/5 uploaded (587.1 KB)
+  ✅  Photo 5/5 uploaded (293.9 KB)
+
+🔎  ብራውን ቡና (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (56.0 KB)
+  ✅  Photo 2/5 uploaded (491.4 KB)
+  ✅  Photo 3/5 uploaded (188.8 KB)
+  ✅  Photo 4/5 uploaded (390.8 KB)
+  ✅  Photo 5/5 uploaded (527.9 KB)
+
+🔎  my cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (633.6 KB)
+  ✅  Photo 2/5 uploaded (758.9 KB)
+  ✅  Photo 3/5 uploaded (306.9 KB)
+  ✅  Photo 4/5 uploaded (216.5 KB)
+  ✅  Photo 5/5 uploaded (177.1 KB)
+
+🔎  Torhailoch, Abenet (transport, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (446.5 KB)
+  ✅  Photo 2/5 uploaded (395.9 KB)
+  ✅  Photo 3/5 uploaded (430.6 KB)
+  ✅  Photo 4/5 uploaded (1022.6 KB)
+  ✅  Photo 5/5 uploaded (475.7 KB)
+
+🔎  Sofia Kebede  ሶፍያ ከበደ (guesthouse, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (21.9 KB)
+
+🔎  Alex Grocery and Butchery (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (219.8 KB)
+  ✅  Photo 2/5 uploaded (238.4 KB)
+  ✅  Photo 3/5 uploaded (221.0 KB)
+  ✅  Photo 4/5 uploaded (208.5 KB)
+  ✅  Photo 5/5 uploaded (467.3 KB)
+
+🔎  Rose-Rose Cafe Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (308.6 KB)
+  ✅  Photo 2/5 uploaded (200.0 KB)
+  ✅  Photo 3/5 uploaded (216.6 KB)
+  ✅  Photo 4/5 uploaded (92.2 KB)
+  ✅  Photo 5/5 uploaded (283.8 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     19/20 places
+📸  Photos saved:  91
+❓  Not on Google: 0
+📭  No photos:     1
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 13288e62..., raw fetch: 80)
+
+🔎  The Lion of Judah of Haile Selassie I (landmark, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (68.3 KB)
+  ✅  Photo 2/5 uploaded (785.5 KB)
+  ✅  Photo 3/5 uploaded (548.1 KB)
+  ✅  Photo 4/5 uploaded (832.2 KB)
+  ✅  Photo 5/5 uploaded (567.1 KB)
+
+🔎  በላይ ተክሉ ኬክ ቤት (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (469.4 KB)
+  ✅  Photo 2/5 uploaded (392.8 KB)
+  ✅  Photo 3/5 uploaded (291.5 KB)
+  ✅  Photo 4/5 uploaded (662.4 KB)
+  ✅  Photo 5/5 uploaded (356.5 KB)
+
+🔎  TOMOCA (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (659.5 KB)
+  ✅  Photo 2/5 uploaded (401.3 KB)
+  ✅  Photo 3/5 uploaded (149.8 KB)
+  ✅  Photo 4/5 uploaded (387.6 KB)
+  ✅  Photo 5/5 uploaded (722.4 KB)
+
+🔎  Jah Bar & Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Dedebi (park, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+🔎  ሜትሮፖሊታን ሪል እስቴት (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (341.7 KB)
+  ✅  Photo 2/5 uploaded (227.5 KB)
+  ✅  Photo 3/5 uploaded (281.5 KB)
+  ✅  Photo 4/5 uploaded (760.6 KB)
+  ✅  Photo 5/5 uploaded (806.8 KB)
+
+🔎  Hua Xing (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (146.6 KB)
+  ✅  Photo 2/5 uploaded (194.9 KB)
+  ✅  Photo 3/5 uploaded (57.1 KB)
+  ✅  Photo 4/5 uploaded (295.4 KB)
+  ⚠️  Photo 5 failed: Upload failed: Bad Gateway
+
+🔎  ደገሰ ሆቴል (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (442.3 KB)
+  ✅  Photo 2/5 uploaded (135.4 KB)
+  ✅  Photo 3/5 uploaded (253.3 KB)
+  ✅  Photo 4/5 uploaded (2051.8 KB)
+  ✅  Photo 5/5 uploaded (221.3 KB)
+
+🔎  Assiha Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1217.5 KB)
+  ✅  Photo 2/5 uploaded (567.2 KB)
+  ✅  Photo 3/5 uploaded (552.9 KB)
+  ✅  Photo 4/5 uploaded (373.6 KB)
+  ✅  Photo 5/5 uploaded (620.3 KB)
+
+🔎  Da Tang Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (284.0 KB)
+  ✅  Photo 2/5 uploaded (330.7 KB)
+  ✅  Photo 3/5 uploaded (391.8 KB)
+  ✅  Photo 4/5 uploaded (267.9 KB)
+  ✅  Photo 5/5 uploaded (239.0 KB)
+
+🔎  Desalech Kitfo (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (307.9 KB)
+  ✅  Photo 2/5 uploaded (472.2 KB)
+  ✅  Photo 3/5 uploaded (372.7 KB)
+  ✅  Photo 4/5 uploaded (292.5 KB)
+  ✅  Photo 5/5 uploaded (438.1 KB)
+
+🔎  Ethiopia Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (423.5 KB)
+  ✅  Photo 2/5 uploaded (113.0 KB)
+  ✅  Photo 3/5 uploaded (532.7 KB)
+  ✅  Photo 4/5 uploaded (444.7 KB)
+  ✅  Photo 5/5 uploaded (391.2 KB)
+
+🔎  ቡልቡላ ኮንዶሚኒየም (park, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Mahilet Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Garden of Coffee (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (689.1 KB)
+  ✅  Photo 2/5 uploaded (656.6 KB)
+  ✅  Photo 3/5 uploaded (626.9 KB)
+  ✅  Photo 4/5 uploaded (485.9 KB)
+  ✅  Photo 5/5 uploaded (451.0 KB)
+
+🔎  Archaeology Museum (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (623.3 KB)
+  ✅  Photo 2/5 uploaded (720.4 KB)
+  ✅  Photo 3/5 uploaded (448.0 KB)
+  ✅  Photo 4/5 uploaded (343.6 KB)
+  ✅  Photo 5/5 uploaded (924.8 KB)
+
+🔎  Ismael Tibs & Kitfo (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (591.5 KB)
+  ✅  Photo 2/5 uploaded (768.5 KB)
+  ✅  Photo 3/5 uploaded (516.4 KB)
+  ✅  Photo 4/5 uploaded (852.5 KB)
+  ✅  Photo 5/5 uploaded (421.5 KB)
+
+🔎  Menyetebes Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (301.6 KB)
+  ✅  Photo 2/5 uploaded (402.1 KB)
+  ✅  Photo 3/5 uploaded (740.5 KB)
+  ✅  Photo 4/5 uploaded (256.7 KB)
+  ✅  Photo 5/5 uploaded (461.1 KB)
+
+🔎  Lavera Cafe (cafe, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (233.7 KB)
+  ✅  Photo 2/4 uploaded (271.8 KB)
+  ✅  Photo 3/4 uploaded (191.2 KB)
+  ✅  Photo 4/4 uploaded (309.0 KB)
+
+🔎  Agaz Dibora Hotel (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     15/20 places
+📸  Photos saved:  73
+❓  Not on Google: 1
+📭  No photos:     4
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 27c85d1d..., raw fetch: 80)
+
+🔎  MY FAMILY HOME (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  አንተነህ ቤት      Anteneh home (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (261.3 KB)
+  ✅  Photo 2/5 uploaded (781.9 KB)
+  ✅  Photo 3/5 uploaded (204.6 KB)
+  ✅  Photo 4/5 uploaded (720.1 KB)
+  ✅  Photo 5/5 uploaded (341.3 KB)
+
+🔎  አንተነህ ቤት         Anteneh House (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (261.3 KB)
+  ✅  Photo 2/5 uploaded (781.9 KB)
+  ✅  Photo 3/5 uploaded (204.6 KB)
+  ✅  Photo 4/5 uploaded (720.1 KB)
+  ✅  Photo 5/5 uploaded (341.3 KB)
+
+🔎  Kaldis coffee (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (829.4 KB)
+  ✅  Photo 2/5 uploaded (327.0 KB)
+  ✅  Photo 3/5 uploaded (413.8 KB)
+  ✅  Photo 4/5 uploaded (349.4 KB)
+  ✅  Photo 5/5 uploaded (393.6 KB)
+
+🔎  Tor Hailoch (Mini Bus Station) (transport, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (558.2 KB)
+  ✅  Photo 2/5 uploaded (329.4 KB)
+  ✅  Photo 3/5 uploaded (374.0 KB)
+  ✅  Photo 4/5 uploaded (580.3 KB)
+  ✅  Photo 5/5 uploaded (420.8 KB)
+
+🔎  Shalla Guesthouse (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (430.6 KB)
+  ✅  Photo 2/5 uploaded (814.9 KB)
+  ✅  Photo 3/5 uploaded (151.5 KB)
+  ✅  Photo 4/5 uploaded (203.7 KB)
+  ✅  Photo 5/5 uploaded (329.4 KB)
+
+🔎  Anteneh's home  የአንተነህ ቤት (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (261.3 KB)
+  ✅  Photo 2/5 uploaded (781.9 KB)
+  ✅  Photo 3/5 uploaded (204.6 KB)
+  ✅  Photo 4/5 uploaded (720.1 KB)
+  ✅  Photo 5/5 uploaded (341.3 KB)
+
+🔎  Samenet Pizza (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (88.9 KB)
+  ✅  Photo 2/5 uploaded (440.7 KB)
+  ✅  Photo 3/5 uploaded (177.4 KB)
+  ✅  Photo 4/5 uploaded (43.0 KB)
+  ✅  Photo 5/5 uploaded (594.9 KB)
+
+🔎  La coquette (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  La Parisienne Cafe (Bole) (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (678.1 KB)
+  ✅  Photo 2/5 uploaded (341.8 KB)
+  ✅  Photo 3/5 uploaded (401.9 KB)
+  ✅  Photo 4/5 uploaded (333.9 KB)
+  ✅  Photo 5/5 uploaded (452.9 KB)
+
+🔎  Centro (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (366.3 KB)
+  ✅  Photo 2/5 uploaded (1061.3 KB)
+  ✅  Photo 3/5 uploaded (562.2 KB)
+  ✅  Photo 4/5 uploaded (624.9 KB)
+  ✅  Photo 5/5 uploaded (497.8 KB)
+
+🔎  Abyssinia (cafe, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (342.9 KB)
+  ✅  Photo 2/4 uploaded (433.0 KB)
+  ✅  Photo 3/4 uploaded (530.3 KB)
+  ✅  Photo 4/4 uploaded (411.0 KB)
+
+🔎  ሚስጥር ቡና እና ምግብ (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (65.7 KB)
+  ✅  Photo 2/5 uploaded (149.2 KB)
+  ✅  Photo 3/5 uploaded (268.8 KB)
+  ✅  Photo 4/5 uploaded (292.1 KB)
+  ✅  Photo 5/5 uploaded (554.2 KB)
+
+🔎  AASTU Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (256.8 KB)
+  ✅  Photo 2/5 uploaded (267.1 KB)
+  ✅  Photo 3/5 uploaded (381.5 KB)
+  ✅  Photo 4/5 uploaded (449.2 KB)
+  ✅  Photo 5/5 uploaded (338.7 KB)
+
+🔎  Sonz Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (325.6 KB)
+  ✅  Photo 2/5 uploaded (207.0 KB)
+  ✅  Photo 3/5 uploaded (172.2 KB)
+  ✅  Photo 4/5 uploaded (97.3 KB)
+  ✅  Photo 5/5 uploaded (184.0 KB)
+
+🔎  Aster Tej (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (322.4 KB)
+  ✅  Photo 2/5 uploaded (347.3 KB)
+  ✅  Photo 3/5 uploaded (308.8 KB)
+  ✅  Photo 4/5 uploaded (276.7 KB)
+  ✅  Photo 5/5 uploaded (332.7 KB)
+
+🔎  Backyard Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (449.3 KB)
+  ✅  Photo 2/5 uploaded (642.3 KB)
+  ✅  Photo 3/5 uploaded (151.4 KB)
+  ✅  Photo 4/5 uploaded (265.3 KB)
+  ✅  Photo 5/5 uploaded (120.5 KB)
+
+🔎  Abucci (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (253.6 KB)
+  ✅  Photo 2/5 uploaded (227.5 KB)
+  ✅  Photo 3/5 uploaded (330.9 KB)
+  ✅  Photo 4/5 uploaded (204.1 KB)
+  ✅  Photo 5/5 uploaded (399.9 KB)
+
+🔎  Casa Bonita Bar and Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (355.8 KB)
+  ✅  Photo 2/5 uploaded (834.7 KB)
+  ✅  Photo 3/5 uploaded (407.0 KB)
+  ✅  Photo 4/5 uploaded (708.8 KB)
+  ✅  Photo 5/5 uploaded (539.6 KB)
+
+🔎  Juice World (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (28.8 KB)
+  ✅  Photo 2/5 uploaded (155.8 KB)
+  ✅  Photo 3/5 uploaded (275.8 KB)
+  ✅  Photo 4/5 uploaded (137.3 KB)
+  ✅  Photo 5/5 uploaded (193.2 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     18/20 places
+📸  Photos saved:  89
+❓  Not on Google: 0
+📭  No photos:     2
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 3c0061ae..., raw fetch: 80)
+
+🔎  Alemu Gemeda Home  አለሙ ቤት (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  መአዛ  Meaza Cafe (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (398.9 KB)
+  ✅  Photo 2/5 uploaded (393.2 KB)
+  ✅  Photo 3/5 uploaded (364.9 KB)
+  ✅  Photo 4/5 uploaded (605.1 KB)
+  ✅  Photo 5/5 uploaded (446.4 KB)
+
+🔎  Amico Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (620.3 KB)
+  ✅  Photo 2/5 uploaded (536.8 KB)
+  ✅  Photo 3/5 uploaded (338.6 KB)
+  ✅  Photo 4/5 uploaded (216.2 KB)
+  ✅  Photo 5/5 uploaded (318.5 KB)
+
+🔎  Magnolia Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (982.3 KB)
+  ✅  Photo 2/5 uploaded (194.0 KB)
+  ✅  Photo 3/5 uploaded (397.9 KB)
+  ✅  Photo 4/5 uploaded (134.6 KB)
+  ✅  Photo 5/5 uploaded (240.2 KB)
+
+🔎  China Natural Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (87.6 KB)
+  ✅  Photo 2/5 uploaded (47.4 KB)
+  ✅  Photo 3/5 uploaded (372.4 KB)
+  ✅  Photo 4/5 uploaded (54.6 KB)
+  ✅  Photo 5/5 uploaded (387.9 KB)
+
+🔎  Dave Restaurant and Lounge (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (432.7 KB)
+  ✅  Photo 2/5 uploaded (342.9 KB)
+  ✅  Photo 3/5 uploaded (518.8 KB)
+  ✅  Photo 4/5 uploaded (490.6 KB)
+  ✅  Photo 5/5 uploaded (465.2 KB)
+
+🔎  Denver (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (558.3 KB)
+  ✅  Photo 2/5 uploaded (320.9 KB)
+  ✅  Photo 3/5 uploaded (246.6 KB)
+  ✅  Photo 4/5 uploaded (359.8 KB)
+  ✅  Photo 5/5 uploaded (206.8 KB)
+
+🔎  Al Wadi (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (469.8 KB)
+  ✅  Photo 2/5 uploaded (345.7 KB)
+  ✅  Photo 3/5 uploaded (253.4 KB)
+  ✅  Photo 4/5 uploaded (279.9 KB)
+  ✅  Photo 5/5 uploaded (987.3 KB)
+
+🔎  Benazo Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1221.0 KB)
+  ✅  Photo 2/5 uploaded (429.4 KB)
+  ✅  Photo 3/5 uploaded (753.5 KB)
+  ✅  Photo 4/5 uploaded (731.3 KB)
+  ✅  Photo 5/5 uploaded (319.1 KB)
+
+🔎  Mulu Café (coffee, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Kaldis (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (358.3 KB)
+  ✅  Photo 2/5 uploaded (392.5 KB)
+  ✅  Photo 3/5 uploaded (255.9 KB)
+  ✅  Photo 4/5 uploaded (995.4 KB)
+  ✅  Photo 5/5 uploaded (164.9 KB)
+
+🔎  ካሲምቦ ካፌ እና ሬስቶራንት (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  “Red Terror” Martyrs’ Memorial Museum (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (505.3 KB)
+  ✅  Photo 2/5 uploaded (259.6 KB)
+  ✅  Photo 3/5 uploaded (406.9 KB)
+  ✅  Photo 4/5 uploaded (564.0 KB)
+  ✅  Photo 5/5 uploaded (457.9 KB)
+
+🔎  Meaza Shiro (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (387.5 KB)
+  ✅  Photo 2/5 uploaded (278.4 KB)
+  ✅  Photo 3/5 uploaded (975.4 KB)
+  ✅  Photo 4/5 uploaded (1205.5 KB)
+  ✅  Photo 5/5 uploaded (533.6 KB)
+
+🔎  Sky Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (846.5 KB)
+  ✅  Photo 2/5 uploaded (477.5 KB)
+  ✅  Photo 3/5 uploaded (703.4 KB)
+  ✅  Photo 4/5 uploaded (630.2 KB)
+  ✅  Photo 5/5 uploaded (423.0 KB)
+
+🔎  Asena Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (465.3 KB)
+  ✅  Photo 2/5 uploaded (223.8 KB)
+  ✅  Photo 3/5 uploaded (218.6 KB)
+  ✅  Photo 4/5 uploaded (329.8 KB)
+  ✅  Photo 5/5 uploaded (271.1 KB)
+
+🔎  Madre Teresa (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (308.9 KB)
+  ✅  Photo 2/5 uploaded (326.0 KB)
+  ✅  Photo 3/5 uploaded (251.1 KB)
+  ✅  Photo 4/5 uploaded (503.2 KB)
+  ✅  Photo 5/5 uploaded (751.4 KB)
+
+🔎  Sai Hotel (hotel, Dire Dawa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (284.5 KB)
+  ✅  Photo 2/5 uploaded (336.0 KB)
+  ✅  Photo 3/5 uploaded (364.4 KB)
+  ✅  Photo 4/5 uploaded (496.9 KB)
+  ✅  Photo 5/5 uploaded (180.2 KB)
+
+🔎  Geneva Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (437.9 KB)
+  ✅  Photo 2/5 uploaded (290.8 KB)
+  ✅  Photo 3/5 uploaded (934.2 KB)
+  ✅  Photo 4/5 uploaded (461.9 KB)
+  ✅  Photo 5/5 uploaded (448.5 KB)
+
+🔎  Marseille Cafe & Restaurant (restaurant, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (459.1 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     17/20 places
+📸  Photos saved:  81
+❓  Not on Google: 0
+📭  No photos:     3
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 51ae3a76..., raw fetch: 80)
+
+🔎  Sunshine app cmc (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (266.6 KB)
+  ✅  Photo 2/5 uploaded (359.8 KB)
+  ✅  Photo 3/5 uploaded (91.1 KB)
+  ✅  Photo 4/5 uploaded (1235.0 KB)
+  ✅  Photo 5/5 uploaded (1413.5 KB)
+
+🔎  Raeiy Restaurant and Juice (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Foyat Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (475.8 KB)
+  ✅  Photo 2/5 uploaded (199.6 KB)
+  ✅  Photo 3/5 uploaded (334.1 KB)
+  ✅  Photo 4/5 uploaded (214.2 KB)
+  ✅  Photo 5/5 uploaded (318.8 KB)
+
+🔎  Babu Cafe (cafe, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+🔎  Igloo (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (212.3 KB)
+  ✅  Photo 2/5 uploaded (464.9 KB)
+  ✅  Photo 3/5 uploaded (673.1 KB)
+  ✅  Photo 4/5 uploaded (309.7 KB)
+  ✅  Photo 5/5 uploaded (161.5 KB)
+
+🔎  Adites Guesthouse (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (280.4 KB)
+  ✅  Photo 2/5 uploaded (69.6 KB)
+  ✅  Photo 3/5 uploaded (55.5 KB)
+  ✅  Photo 4/5 uploaded (280.0 KB)
+  ✅  Photo 5/5 uploaded (400.7 KB)
+
+🔎  Dink Donut (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (358.2 KB)
+  ✅  Photo 2/5 uploaded (411.3 KB)
+  ✅  Photo 3/5 uploaded (455.6 KB)
+  ✅  Photo 4/5 uploaded (653.1 KB)
+  ✅  Photo 5/5 uploaded (117.7 KB)
+
+🔎  Kona - Cafe & Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (910.5 KB)
+  ✅  Photo 2/5 uploaded (366.8 KB)
+  ✅  Photo 3/5 uploaded (355.0 KB)
+  ✅  Photo 4/5 uploaded (287.7 KB)
+  ✅  Photo 5/5 uploaded (349.3 KB)
+
+🔎  Abem Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (508.6 KB)
+  ✅  Photo 2/5 uploaded (686.3 KB)
+  ✅  Photo 3/5 uploaded (335.9 KB)
+  ✅  Photo 4/5 uploaded (140.0 KB)
+  ✅  Photo 5/5 uploaded (1650.6 KB)
+
+🔎  Asa 365 - Fish House (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (539.6 KB)
+  ✅  Photo 2/5 uploaded (569.3 KB)
+  ✅  Photo 3/5 uploaded (525.4 KB)
+  ✅  Photo 4/5 uploaded (431.7 KB)
+  ✅  Photo 5/5 uploaded (376.1 KB)
+
+🔎  Solish Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (433.2 KB)
+  ✅  Photo 2/5 uploaded (215.1 KB)
+  ✅  Photo 3/5 uploaded (187.2 KB)
+  ✅  Photo 4/5 uploaded (201.2 KB)
+  ✅  Photo 5/5 uploaded (730.0 KB)
+
+🔎  Gusto (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (507.5 KB)
+  ✅  Photo 2/5 uploaded (189.0 KB)
+  ✅  Photo 3/5 uploaded (388.6 KB)
+  ✅  Photo 4/5 uploaded (447.4 KB)
+  ✅  Photo 5/5 uploaded (148.8 KB)
+
+🔎  Daily coffee (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (329.4 KB)
+  ✅  Photo 2/5 uploaded (223.5 KB)
+  ✅  Photo 3/5 uploaded (247.6 KB)
+  ✅  Photo 4/5 uploaded (244.0 KB)
+  ✅  Photo 5/5 uploaded (151.2 KB)
+
+🔎  Meklit Bar & Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Family Cozy Bed and Breakfast (guesthouse, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+🔎  Umami (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (782.8 KB)
+  ✅  Photo 2/5 uploaded (574.9 KB)
+  ✅  Photo 3/5 uploaded (255.3 KB)
+  ✅  Photo 4/5 uploaded (631.0 KB)
+  ✅  Photo 5/5 uploaded (1053.8 KB)
+
+🔎  Maed Bar and Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tsige Shiro (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (615.4 KB)
+  ✅  Photo 2/5 uploaded (275.5 KB)
+  ✅  Photo 3/5 uploaded (401.8 KB)
+  ✅  Photo 4/5 uploaded (1375.0 KB)
+  ✅  Photo 5/5 uploaded (827.1 KB)
+
+🔎  ቃል ካፌ (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (624.0 KB)
+  ✅  Photo 2/5 uploaded (265.8 KB)
+  ✅  Photo 3/5 uploaded (497.3 KB)
+  ✅  Photo 4/5 uploaded (269.2 KB)
+  ✅  Photo 5/5 uploaded (461.4 KB)
+
+🔎  ባርክልኝ ክርስቶፎል (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (62.3 KB)
+  ✅  Photo 2/5 uploaded (350.9 KB)
+  ✅  Photo 3/5 uploaded (322.2 KB)
+  ✅  Photo 4/5 uploaded (562.2 KB)
+  ✅  Photo 5/5 uploaded (926.2 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     15/20 places
+📸  Photos saved:  75
+❓  Not on Google: 2
+📭  No photos:     3
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 641814b3..., raw fetch: 80)
+
+🔎  Degu Hotel (restaurant, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (1137.3 KB)
+  ✅  Photo 2/2 uploaded (1226.0 KB)
+
+🔎  Amro Chicken (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (389.1 KB)
+  ✅  Photo 2/5 uploaded (241.6 KB)
+  ✅  Photo 3/5 uploaded (265.4 KB)
+  ✅  Photo 4/5 uploaded (1837.4 KB)
+  ✅  Photo 5/5 uploaded (360.3 KB)
+
+🔎  Tedi home ቴዎድሮስ ፀጋዬ (guesthouse, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (336.4 KB)
+  ✅  Photo 2/4 uploaded (426.5 KB)
+  ✅  Photo 3/4 uploaded (97.1 KB)
+  ✅  Photo 4/4 uploaded (300.2 KB)
+
+🔎  Fikadu Zeleka (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (675.6 KB)
+  ✅  Photo 2/5 uploaded (144.8 KB)
+  ✅  Photo 3/5 uploaded (813.0 KB)
+  ✅  Photo 4/5 uploaded (144.7 KB)
+  ✅  Photo 5/5 uploaded (239.4 KB)
+
+🔎  ሀያት መኝታ ቤት (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (443.8 KB)
+  ✅  Photo 2/5 uploaded (508.6 KB)
+  ✅  Photo 3/5 uploaded (530.6 KB)
+  ✅  Photo 4/5 uploaded (421.7 KB)
+  ✅  Photo 5/5 uploaded (501.9 KB)
+
+🔎  Tossa terara Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Korebtama Menafesha Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (971.8 KB)
+  ✅  Photo 2/5 uploaded (884.8 KB)
+  ✅  Photo 3/5 uploaded (644.8 KB)
+  ✅  Photo 4/5 uploaded (70.8 KB)
+  ✅  Photo 5/5 uploaded (70.4 KB)
+
+🔎  Arenguade Gorf Hotel (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (206.7 KB)
+  ✅  Photo 2/5 uploaded (516.9 KB)
+  ✅  Photo 3/5 uploaded (203.0 KB)
+  ✅  Photo 4/5 uploaded (929.5 KB)
+  ✅  Photo 5/5 uploaded (1081.5 KB)
+
+🔎  Tadesse Fish (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (484.6 KB)
+  ✅  Photo 2/5 uploaded (70.9 KB)
+  ✅  Photo 3/5 uploaded (400.7 KB)
+  ✅  Photo 4/5 uploaded (681.0 KB)
+  ✅  Photo 5/5 uploaded (308.0 KB)
+
+🔎  KOICA (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (662.0 KB)
+  ✅  Photo 2/5 uploaded (406.6 KB)
+  ✅  Photo 3/5 uploaded (608.7 KB)
+  ✅  Photo 4/5 uploaded (140.4 KB)
+  ✅  Photo 5/5 uploaded (138.3 KB)
+
+🔎  Ugbaad Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Flintstone Homes (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (878.9 KB)
+  ✅  Photo 2/5 uploaded (443.1 KB)
+  ✅  Photo 3/5 uploaded (439.0 KB)
+  ✅  Photo 4/5 uploaded (562.2 KB)
+  ✅  Photo 5/5 uploaded (297.4 KB)
+
+🔎  Mélange Coffee (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (321.8 KB)
+  ✅  Photo 2/5 uploaded (618.9 KB)
+  ✅  Photo 3/5 uploaded (785.4 KB)
+  ✅  Photo 4/5 uploaded (405.1 KB)
+  ✅  Photo 5/5 uploaded (322.6 KB)
+
+🔎  Yenad Coffee (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (146.2 KB)
+  ✅  Photo 2/5 uploaded (98.7 KB)
+  ✅  Photo 3/5 uploaded (378.6 KB)
+  ✅  Photo 4/5 uploaded (450.2 KB)
+  ✅  Photo 5/5 uploaded (271.7 KB)
+
+🔎  Pizza Hut (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (490.8 KB)
+  ✅  Photo 2/5 uploaded (146.8 KB)
+  ✅  Photo 3/5 uploaded (364.7 KB)
+  ✅  Photo 4/5 uploaded (320.4 KB)
+  ✅  Photo 5/5 uploaded (512.6 KB)
+
+🔎  sheble bar and restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (376.7 KB)
+  ✅  Photo 2/5 uploaded (476.2 KB)
+  ✅  Photo 3/5 uploaded (502.7 KB)
+  ✅  Photo 4/5 uploaded (346.7 KB)
+  ✅  Photo 5/5 uploaded (147.5 KB)
+
+🔎  Tropical (cafe, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (22.3 KB)
+  ✅  Photo 2/2 uploaded (45.8 KB)
+
+🔎  Romita (cafe, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (876.0 KB)
+  ✅  Photo 2/4 uploaded (481.6 KB)
+  ✅  Photo 3/4 uploaded (196.5 KB)
+  ✅  Photo 4/4 uploaded (689.4 KB)
+
+🔎  Gentle Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (350.8 KB)
+  ✅  Photo 2/5 uploaded (829.5 KB)
+  ✅  Photo 3/5 uploaded (184.8 KB)
+  ✅  Photo 4/5 uploaded (238.5 KB)
+  ✅  Photo 5/5 uploaded (117.2 KB)
+
+🔎  Pizzeria Italia (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (340.1 KB)
+  ✅  Photo 2/5 uploaded (790.1 KB)
+  ✅  Photo 3/5 uploaded (228.1 KB)
+  ✅  Photo 4/5 uploaded (228.9 KB)
+  ✅  Photo 5/5 uploaded (472.4 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     18/20 places
+📸  Photos saved:  82
+❓  Not on Google: 0
+📭  No photos:     2
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 7a39bf4c..., raw fetch: 80)
+
+🔎  Beyene Gebretinsae G. House በየነ ገ/ትንሳኤ (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Variety Restaurant (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (910.5 KB)
+  ✅  Photo 2/5 uploaded (366.8 KB)
+  ✅  Photo 3/5 uploaded (355.0 KB)
+  ✅  Photo 4/5 uploaded (287.7 KB)
+  ✅  Photo 5/5 uploaded (349.3 KB)
+
+🔎  Kanaf Bar and Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (707.7 KB)
+  ✅  Photo 2/5 uploaded (2385.0 KB)
+  ✅  Photo 3/5 uploaded (371.4 KB)
+  ✅  Photo 4/5 uploaded (863.7 KB)
+  ✅  Photo 5/5 uploaded (537.5 KB)
+
+🔎  Finfine Adarash Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (667.1 KB)
+  ✅  Photo 2/5 uploaded (493.3 KB)
+  ✅  Photo 3/5 uploaded (600.2 KB)
+  ✅  Photo 4/5 uploaded (374.9 KB)
+  ✅  Photo 5/5 uploaded (634.5 KB)
+
+🔎  ፍሌቨር (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (62.3 KB)
+  ✅  Photo 2/5 uploaded (350.9 KB)
+  ✅  Photo 3/5 uploaded (322.2 KB)
+  ✅  Photo 4/5 uploaded (562.2 KB)
+  ✅  Photo 5/5 uploaded (926.2 KB)
+
+🔎  Sahis Coffee (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (435.6 KB)
+  ✅  Photo 2/5 uploaded (198.9 KB)
+  ✅  Photo 3/5 uploaded (1023.4 KB)
+  ✅  Photo 4/5 uploaded (493.0 KB)
+  ✅  Photo 5/5 uploaded (330.7 KB)
+
+🔎  Winner Pension (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Fisum (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (254.6 KB)
+  ✅  Photo 2/5 uploaded (711.2 KB)
+  ✅  Photo 3/5 uploaded (214.3 KB)
+  ✅  Photo 4/5 uploaded (287.2 KB)
+  ✅  Photo 5/5 uploaded (224.2 KB)
+
+🔎  Juice (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (721.1 KB)
+  ✅  Photo 2/5 uploaded (849.7 KB)
+  ✅  Photo 3/5 uploaded (501.3 KB)
+  ✅  Photo 4/5 uploaded (422.0 KB)
+  ✅  Photo 5/5 uploaded (321.0 KB)
+
+🔎  Desta Pension (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (403.8 KB)
+  ✅  Photo 2/5 uploaded (769.6 KB)
+  ✅  Photo 3/5 uploaded (221.5 KB)
+  ✅  Photo 4/5 uploaded (288.5 KB)
+  ✅  Photo 5/5 uploaded (97.0 KB)
+
+🔎  Shebel Bar and Restoran (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (376.7 KB)
+  ✅  Photo 2/5 uploaded (476.2 KB)
+  ✅  Photo 3/5 uploaded (502.7 KB)
+  ✅  Photo 4/5 uploaded (346.7 KB)
+  ✅  Photo 5/5 uploaded (147.5 KB)
+
+🔎  ቤታ በርገር (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (481.9 KB)
+  ✅  Photo 2/5 uploaded (511.2 KB)
+  ✅  Photo 3/5 uploaded (256.9 KB)
+  ✅  Photo 4/5 uploaded (396.7 KB)
+  ✅  Photo 5/5 uploaded (452.4 KB)
+
+🔎  Millefeuilles (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (470.5 KB)
+  ✅  Photo 2/5 uploaded (599.2 KB)
+  ✅  Photo 3/5 uploaded (679.2 KB)
+  ✅  Photo 4/5 uploaded (447.3 KB)
+  ✅  Photo 5/5 uploaded (394.6 KB)
+
+🔎  Demissie zewde's home ደምሴ (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Ropac Sisay    ሮፓክ ሲሳይ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (534.7 KB)
+  ✅  Photo 2/5 uploaded (473.5 KB)
+  ✅  Photo 3/5 uploaded (733.3 KB)
+  ✅  Photo 4/5 uploaded (408.7 KB)
+  ✅  Photo 5/5 uploaded (185.4 KB)
+
+🔎  Queen's kitchens seller (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (210.3 KB)
+  ✅  Photo 2/5 uploaded (1057.1 KB)
+  ✅  Photo 3/5 uploaded (707.6 KB)
+  ✅  Photo 4/5 uploaded (42.5 KB)
+  ✅  Photo 5/5 uploaded (288.0 KB)
+
+🔎  Yod Abyssinia Sanket Hotel and Industry (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (425.6 KB)
+  ✅  Photo 2/5 uploaded (434.8 KB)
+  ✅  Photo 3/5 uploaded (138.2 KB)
+  ✅  Photo 4/5 uploaded (467.3 KB)
+  ✅  Photo 5/5 uploaded (421.4 KB)
+
+🔎  Hawi Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Free Town Bar & Restaurant (restaurant, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (380.9 KB)
+  ✅  Photo 2/4 uploaded (249.2 KB)
+  ✅  Photo 3/4 uploaded (1617.3 KB)
+  ✅  Photo 4/4 uploaded (305.7 KB)
+
+🔎  Tea Cosy Pastry (cafe, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (161.5 KB)
+  ✅  Photo 2/3 uploaded (147.6 KB)
+  ✅  Photo 3/3 uploaded (313.5 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     16/20 places
+📸  Photos saved:  77
+❓  Not on Google: 0
+📭  No photos:     4
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 88e8617d..., raw fetch: 80)
+
+🔎  The Lion of Judah of Menelik II (landmark, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (68.3 KB)
+  ✅  Photo 2/5 uploaded (785.5 KB)
+  ✅  Photo 3/5 uploaded (548.1 KB)
+  ✅  Photo 4/5 uploaded (832.2 KB)
+  ✅  Photo 5/5 uploaded (567.1 KB)
+
+🔎  Ambrosia Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (258.3 KB)
+  ✅  Photo 2/5 uploaded (579.9 KB)
+  ✅  Photo 3/5 uploaded (581.7 KB)
+  ✅  Photo 4/5 uploaded (772.4 KB)
+  ✅  Photo 5/5 uploaded (541.6 KB)
+
+🔎  La Parisienne (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (678.1 KB)
+  ✅  Photo 2/5 uploaded (341.8 KB)
+  ✅  Photo 3/5 uploaded (401.9 KB)
+  ✅  Photo 4/5 uploaded (333.9 KB)
+  ✅  Photo 5/5 uploaded (452.9 KB)
+
+🔎  ሐመሩሀ ካፌና ሬስቶራንት (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  A tavola (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (324.3 KB)
+  ✅  Photo 2/5 uploaded (422.8 KB)
+  ✅  Photo 3/5 uploaded (354.2 KB)
+  ✅  Photo 4/5 uploaded (5085.5 KB)
+  ✅  Photo 5/5 uploaded (769.3 KB)
+
+🔎  አሌስኮ (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (62.3 KB)
+  ✅  Photo 2/5 uploaded (350.9 KB)
+  ✅  Photo 3/5 uploaded (322.2 KB)
+  ✅  Photo 4/5 uploaded (562.2 KB)
+  ✅  Photo 5/5 uploaded (926.2 KB)
+
+🔎  La Madelene (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1034.3 KB)
+  ✅  Photo 2/5 uploaded (455.4 KB)
+  ✅  Photo 3/5 uploaded (772.7 KB)
+  ✅  Photo 4/5 uploaded (246.4 KB)
+  ✅  Photo 5/5 uploaded (475.0 KB)
+
+🔎  Chacha Bar & Restaurant (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yeabsira (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (206.1 KB)
+  ✅  Photo 2/5 uploaded (85.1 KB)
+  ✅  Photo 3/5 uploaded (317.3 KB)
+  ✅  Photo 4/5 uploaded (62.7 KB)
+  ✅  Photo 5/5 uploaded (370.9 KB)
+
+🔎  Mulu sululta ሙሉ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (482.2 KB)
+  ✅  Photo 2/5 uploaded (308.5 KB)
+  ✅  Photo 3/5 uploaded (489.6 KB)
+  ✅  Photo 4/5 uploaded (314.2 KB)
+  ✅  Photo 5/5 uploaded (672.8 KB)
+
+🔎  Sketch Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (398.0 KB)
+  ✅  Photo 2/5 uploaded (89.6 KB)
+  ✅  Photo 3/5 uploaded (465.0 KB)
+  ✅  Photo 4/5 uploaded (1013.8 KB)
+  ✅  Photo 5/5 uploaded (790.5 KB)
+
+🔎  Bete Abrham Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1323.0 KB)
+  ✅  Photo 2/5 uploaded (455.9 KB)
+  ✅  Photo 3/5 uploaded (436.3 KB)
+  ✅  Photo 4/5 uploaded (488.2 KB)
+  ✅  Photo 5/5 uploaded (616.9 KB)
+
+🔎  abyssinia Coffee (cafe, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (341.1 KB)
+  ✅  Photo 2/4 uploaded (376.9 KB)
+  ✅  Photo 3/4 uploaded (54.8 KB)
+  ✅  Photo 4/4 uploaded (55.4 KB)
+
+🔎  Kaldi's Coffe - Bole MedhaniAlem (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (521.1 KB)
+  ✅  Photo 2/5 uploaded (390.8 KB)
+  ✅  Photo 3/5 uploaded (536.5 KB)
+  ✅  Photo 4/5 uploaded (213.8 KB)
+  ✅  Photo 5/5 uploaded (463.7 KB)
+
+🔎  Alula 2 (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (294.1 KB)
+  ✅  Photo 2/5 uploaded (231.3 KB)
+  ✅  Photo 3/5 uploaded (222.1 KB)
+  ✅  Photo 4/5 uploaded (178.6 KB)
+  ✅  Photo 5/5 uploaded (147.2 KB)
+
+🔎  Ambassador Hotel Bole (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (271.0 KB)
+  ✅  Photo 2/5 uploaded (338.6 KB)
+  ✅  Photo 3/5 uploaded (69.1 KB)
+  ✅  Photo 4/5 uploaded (47.1 KB)
+  ✅  Photo 5/5 uploaded (375.4 KB)
+
+🔎  Bake & Brew (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (417.0 KB)
+  ✅  Photo 2/5 uploaded (126.1 KB)
+  ✅  Photo 3/5 uploaded (147.0 KB)
+  ✅  Photo 4/5 uploaded (180.6 KB)
+  ✅  Photo 5/5 uploaded (114.5 KB)
+
+🔎  Fusion (restaurant, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (337.2 KB)
+  ✅  Photo 2/3 uploaded (303.0 KB)
+  ✅  Photo 3/3 uploaded (57.7 KB)
+
+🔎  Kim (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (356.4 KB)
+  ✅  Photo 2/5 uploaded (504.6 KB)
+  ✅  Photo 3/5 uploaded (314.1 KB)
+  ✅  Photo 4/5 uploaded (205.4 KB)
+  ✅  Photo 5/5 uploaded (232.3 KB)
+
+🔎  Parkdale (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     17/20 places
+📸  Photos saved:  82
+❓  Not on Google: 0
+📭  No photos:     3
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: 9badf31e..., raw fetch: 80)
+
+🔎  St Mary Cafe & Restaurant (cafe, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (59.6 KB)
+  ✅  Photo 2/3 uploaded (444.4 KB)
+  ✅  Photo 3/3 uploaded (530.8 KB)
+
+🔎  Keach cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (581.5 KB)
+  ✅  Photo 2/5 uploaded (464.2 KB)
+  ✅  Photo 3/5 uploaded (288.2 KB)
+  ✅  Photo 4/5 uploaded (690.4 KB)
+  ✅  Photo 5/5 uploaded (497.7 KB)
+
+🔎  Le Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (520.6 KB)
+  ✅  Photo 2/5 uploaded (143.2 KB)
+  ✅  Photo 3/5 uploaded (159.0 KB)
+  ✅  Photo 4/5 uploaded (397.4 KB)
+  ✅  Photo 5/5 uploaded (382.8 KB)
+
+🔎  Bonna Annee Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (593.6 KB)
+  ✅  Photo 2/5 uploaded (421.3 KB)
+  ✅  Photo 3/5 uploaded (656.5 KB)
+  ✅  Photo 4/5 uploaded (722.3 KB)
+  ✅  Photo 5/5 uploaded (895.1 KB)
+
+🔎  ሳሪስ ጨጨሆ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tegene Building (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ሰላምሰው  Selamsew's home (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (342.4 KB)
+  ✅  Photo 2/5 uploaded (646.0 KB)
+  ✅  Photo 3/5 uploaded (1428.6 KB)
+  ✅  Photo 4/5 uploaded (422.7 KB)
+  ✅  Photo 5/5 uploaded (288.3 KB)
+
+🔎  고르곤졸라 파스타 (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (339.7 KB)
+  ✅  Photo 2/5 uploaded (86.7 KB)
+  ✅  Photo 3/5 uploaded (898.2 KB)
+  ✅  Photo 4/5 uploaded (567.4 KB)
+  ✅  Photo 5/5 uploaded (555.3 KB)
+
+🔎  Melesi foundation (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (198.2 KB)
+  ✅  Photo 2/5 uploaded (400.3 KB)
+  ✅  Photo 3/5 uploaded (496.9 KB)
+  ✅  Photo 4/5 uploaded (588.2 KB)
+  ✅  Photo 5/5 uploaded (284.1 KB)
+
+🔎  Care Cafe (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Ika Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (514.6 KB)
+  ✅  Photo 2/5 uploaded (533.0 KB)
+  ✅  Photo 3/5 uploaded (274.0 KB)
+  ✅  Photo 4/5 uploaded (392.0 KB)
+  ✅  Photo 5/5 uploaded (474.1 KB)
+
+🔎  ሮፓክ የመኖሪያ መንደር (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (534.7 KB)
+  ✅  Photo 2/5 uploaded (473.5 KB)
+  ✅  Photo 3/5 uploaded (733.3 KB)
+  ✅  Photo 4/5 uploaded (408.7 KB)
+  ✅  Photo 5/5 uploaded (185.4 KB)
+
+🔎  Rodeo (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (463.5 KB)
+  ✅  Photo 2/5 uploaded (907.5 KB)
+  ✅  Photo 3/5 uploaded (424.8 KB)
+  ✅  Photo 4/5 uploaded (565.7 KB)
+  ✅  Photo 5/5 uploaded (618.5 KB)
+
+🔎  Empire Addis International Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (681.8 KB)
+  ✅  Photo 2/5 uploaded (203.9 KB)
+  ✅  Photo 3/5 uploaded (596.7 KB)
+  ✅  Photo 4/5 uploaded (264.3 KB)
+  ✅  Photo 5/5 uploaded (190.3 KB)
+
+🔎  Azmera Shiro (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (367.7 KB)
+  ✅  Photo 2/5 uploaded (517.6 KB)
+  ✅  Photo 3/5 uploaded (244.4 KB)
+  ✅  Photo 4/5 uploaded (325.2 KB)
+  ✅  Photo 5/5 uploaded (161.0 KB)
+
+🔎  D'Afrique Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (410.4 KB)
+  ✅  Photo 2/5 uploaded (516.9 KB)
+  ✅  Photo 3/5 uploaded (340.5 KB)
+  ✅  Photo 4/5 uploaded (36.7 KB)
+  ✅  Photo 5/5 uploaded (438.6 KB)
+
+🔎  Happiness Bar and Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (344.8 KB)
+  ✅  Photo 2/5 uploaded (399.3 KB)
+  ✅  Photo 3/5 uploaded (349.1 KB)
+  ✅  Photo 4/5 uploaded (175.1 KB)
+  ✅  Photo 5/5 uploaded (180.6 KB)
+
+🔎  Mulugeta G/gergs G. House ሙሉጌታ ገ/ገርግስ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (355.1 KB)
+  ✅  Photo 2/5 uploaded (443.0 KB)
+  ✅  Photo 3/5 uploaded (473.2 KB)
+  ✅  Photo 4/5 uploaded (224.9 KB)
+  ✅  Photo 5/5 uploaded (442.3 KB)
+
+🔎  Alem Buna (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (416.1 KB)
+  ✅  Photo 2/5 uploaded (834.0 KB)
+  ✅  Photo 3/5 uploaded (454.2 KB)
+  ✅  Photo 4/5 uploaded (852.1 KB)
+  ✅  Photo 5/5 uploaded (500.6 KB)
+
+🔎  Jitu Cafe (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     16/20 places
+📸  Photos saved:  78
+❓  Not on Google: 0
+📭  No photos:     4
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: ae5ee03e..., raw fetch: 80)
+
+🔎  እመቤት ሆቴል (hotel, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (266.7 KB)
+
+🔎  Eyob G/tinsae G. House እዮብ (guesthouse, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (43.3 KB)
+
+🔎  ንግስተ ሳባ (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Sweet Pastry & Café (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (550.0 KB)
+  ✅  Photo 2/5 uploaded (494.4 KB)
+  ✅  Photo 3/5 uploaded (341.3 KB)
+  ✅  Photo 4/5 uploaded (384.9 KB)
+  ✅  Photo 5/5 uploaded (427.5 KB)
+
+🔎  St. George's Cathedral Museum (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (426.3 KB)
+  ✅  Photo 2/5 uploaded (573.5 KB)
+  ✅  Photo 3/5 uploaded (1335.3 KB)
+  ✅  Photo 4/5 uploaded (739.7 KB)
+  ✅  Photo 5/5 uploaded (1119.6 KB)
+
+🔎  Kings Hotel - Kaliti (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (682.7 KB)
+  ✅  Photo 2/5 uploaded (204.5 KB)
+  ✅  Photo 3/5 uploaded (586.7 KB)
+  ✅  Photo 4/5 uploaded (256.2 KB)
+  ✅  Photo 5/5 uploaded (382.5 KB)
+
+🔎  Vivo Chicken and Pizza (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (339.0 KB)
+  ✅  Photo 2/5 uploaded (279.0 KB)
+  ✅  Photo 3/5 uploaded (144.2 KB)
+  ✅  Photo 4/5 uploaded (537.9 KB)
+  ✅  Photo 5/5 uploaded (566.3 KB)
+
+🔎  Louvre Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (585.9 KB)
+  ✅  Photo 2/5 uploaded (95.3 KB)
+  ✅  Photo 3/5 uploaded (252.1 KB)
+  ✅  Photo 4/5 uploaded (377.3 KB)
+  ✅  Photo 5/5 uploaded (981.3 KB)
+
+🔎  Z ho (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (424.8 KB)
+  ✅  Photo 2/5 uploaded (302.1 KB)
+  ✅  Photo 3/5 uploaded (251.2 KB)
+  ✅  Photo 4/5 uploaded (216.9 KB)
+  ✅  Photo 5/5 uploaded (520.8 KB)
+
+🔎  Information Technology Park (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (228.5 KB)
+  ✅  Photo 2/5 uploaded (851.4 KB)
+  ✅  Photo 3/5 uploaded (486.1 KB)
+  ✅  Photo 4/5 uploaded (535.4 KB)
+  ✅  Photo 5/5 uploaded (266.8 KB)
+
+🔎  Gotera chat bet (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (498.3 KB)
+  ✅  Photo 2/5 uploaded (662.9 KB)
+  ✅  Photo 3/5 uploaded (360.7 KB)
+  ✅  Photo 4/5 uploaded (338.2 KB)
+  ✅  Photo 5/5 uploaded (847.0 KB)
+
+🔎  Huye Pizzeria and Burger (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Ramada Hotel ራማዳ ሆቴል (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (86.7 KB)
+  ✅  Photo 2/5 uploaded (68.7 KB)
+  ✅  Photo 3/5 uploaded (138.1 KB)
+  ✅  Photo 4/5 uploaded (78.5 KB)
+  ✅  Photo 5/5 uploaded (64.5 KB)
+
+🔎  A tavola (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (324.3 KB)
+  ✅  Photo 2/5 uploaded (422.8 KB)
+  ✅  Photo 3/5 uploaded (354.2 KB)
+  ✅  Photo 4/5 uploaded (5085.5 KB)
+  ✅  Photo 5/5 uploaded (769.3 KB)
+
+🔎  Zola International Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1023.3 KB)
+  ✅  Photo 2/5 uploaded (147.0 KB)
+  ✅  Photo 3/5 uploaded (281.1 KB)
+  ✅  Photo 4/5 uploaded (92.3 KB)
+  ✅  Photo 5/5 uploaded (175.2 KB)
+
+🔎  Menelik II Palace (landmark, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (921.6 KB)
+  ✅  Photo 2/5 uploaded (598.5 KB)
+  ✅  Photo 3/5 uploaded (316.7 KB)
+  ✅  Photo 4/5 uploaded (606.9 KB)
+  ✅  Photo 5/5 uploaded (540.5 KB)
+
+🔎  Cape cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (523.4 KB)
+  ✅  Photo 2/5 uploaded (775.4 KB)
+  ✅  Photo 3/5 uploaded (502.1 KB)
+  ✅  Photo 4/5 uploaded (474.8 KB)
+  ✅  Photo 5/5 uploaded (200.2 KB)
+
+🔎  BATA Restaurant (3rd Floor) (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (414.5 KB)
+  ✅  Photo 2/5 uploaded (672.7 KB)
+  ✅  Photo 3/5 uploaded (234.9 KB)
+  ✅  Photo 4/5 uploaded (570.8 KB)
+  ✅  Photo 5/5 uploaded (574.7 KB)
+
+🔎  Atakilt Salad & Juice (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (672.6 KB)
+  ✅  Photo 2/5 uploaded (217.2 KB)
+  ✅  Photo 3/5 uploaded (554.2 KB)
+  ✅  Photo 4/5 uploaded (428.9 KB)
+  ✅  Photo 5/5 uploaded (635.3 KB)
+
+🔎  Gullele Botanical Gardens (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (414.9 KB)
+  ✅  Photo 2/5 uploaded (433.3 KB)
+  ✅  Photo 3/5 uploaded (632.8 KB)
+  ✅  Photo 4/5 uploaded (1150.1 KB)
+  ✅  Photo 5/5 uploaded (676.5 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     18/20 places
+📸  Photos saved:  82
+❓  Not on Google: 0
+📭  No photos:     2
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: bde2a899..., raw fetch: 80)
+
+🔎  Hilton addis ababa (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (497.5 KB)
+  ✅  Photo 2/5 uploaded (282.9 KB)
+  ✅  Photo 3/5 uploaded (557.8 KB)
+  ✅  Photo 4/5 uploaded (487.2 KB)
+  ✅  Photo 5/5 uploaded (434.8 KB)
+
+🔎  Han Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (418.6 KB)
+  ✅  Photo 2/5 uploaded (250.0 KB)
+  ✅  Photo 3/5 uploaded (368.5 KB)
+  ✅  Photo 4/5 uploaded (196.7 KB)
+  ✅  Photo 5/5 uploaded (446.6 KB)
+
+🔎  Adonis grand Father (guesthouse, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+🔎  ኮኬት ቡና (cafe, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (493.0 KB)
+
+🔎  Tomoca (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (613.8 KB)
+  ✅  Photo 2/5 uploaded (72.0 KB)
+  ✅  Photo 3/5 uploaded (489.2 KB)
+  ✅  Photo 4/5 uploaded (291.6 KB)
+  ✅  Photo 5/5 uploaded (494.7 KB)
+
+🔎  Worknesh Fanta ወርቅነሽ ፋንታ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (299.5 KB)
+  ✅  Photo 2/5 uploaded (270.4 KB)
+  ✅  Photo 3/5 uploaded (449.1 KB)
+  ✅  Photo 4/5 uploaded (374.0 KB)
+  ✅  Photo 5/5 uploaded (279.0 KB)
+
+🔎  Gusto Ristorante (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (507.5 KB)
+  ✅  Photo 2/5 uploaded (189.0 KB)
+  ✅  Photo 3/5 uploaded (388.6 KB)
+  ✅  Photo 4/5 uploaded (447.4 KB)
+  ✅  Photo 5/5 uploaded (148.8 KB)
+
+🔎  Esayas Teshome Tekue Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (259.3 KB)
+  ✅  Photo 2/5 uploaded (801.9 KB)
+  ✅  Photo 3/5 uploaded (522.1 KB)
+  ✅  Photo 4/5 uploaded (468.7 KB)
+  ✅  Photo 5/5 uploaded (905.3 KB)
+
+🔎  Wutma Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (703.0 KB)
+  ✅  Photo 2/5 uploaded (265.4 KB)
+  ✅  Photo 3/5 uploaded (345.5 KB)
+  ✅  Photo 4/5 uploaded (516.4 KB)
+  ✅  Photo 5/5 uploaded (189.1 KB)
+
+🔎  ሰንፔር ኣዲስ ባርና ሬስቶራንት (restaurant, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (266.2 KB)
+  ✅  Photo 2/4 uploaded (215.4 KB)
+  ✅  Photo 3/4 uploaded (223.1 KB)
+  ✅  Photo 4/4 uploaded (146.6 KB)
+
+🔎  Liya Guest House (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (258.3 KB)
+  ✅  Photo 2/5 uploaded (205.6 KB)
+  ✅  Photo 3/5 uploaded (119.6 KB)
+  ✅  Photo 4/5 uploaded (164.4 KB)
+  ✅  Photo 5/5 uploaded (153.5 KB)
+
+🔎  Aziti Bar and Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (846.5 KB)
+  ✅  Photo 2/5 uploaded (477.5 KB)
+  ✅  Photo 3/5 uploaded (703.4 KB)
+  ✅  Photo 4/5 uploaded (630.2 KB)
+  ✅  Photo 5/5 uploaded (423.0 KB)
+
+🔎  Trattoria Gusto (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (507.5 KB)
+  ✅  Photo 2/5 uploaded (189.0 KB)
+  ✅  Photo 3/5 uploaded (388.6 KB)
+  ✅  Photo 4/5 uploaded (447.4 KB)
+  ✅  Photo 5/5 uploaded (148.8 KB)
+
+🔎  TG Bar (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (233.8 KB)
+  ✅  Photo 2/5 uploaded (375.4 KB)
+  ✅  Photo 3/5 uploaded (467.4 KB)
+  ✅  Photo 4/5 uploaded (189.6 KB)
+  ✅  Photo 5/5 uploaded (438.0 KB)
+
+🔎  Kaldi's Coffee (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (922.2 KB)
+  ✅  Photo 2/5 uploaded (822.3 KB)
+  ✅  Photo 3/5 uploaded (241.7 KB)
+  ✅  Photo 4/5 uploaded (460.7 KB)
+  ✅  Photo 5/5 uploaded (468.1 KB)
+
+🔎  አሹ ስጋ ቤት (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (277.0 KB)
+  ✅  Photo 2/5 uploaded (307.4 KB)
+  ✅  Photo 3/5 uploaded (235.7 KB)
+  ✅  Photo 4/5 uploaded (240.8 KB)
+  ✅  Photo 5/5 uploaded (457.1 KB)
+
+🔎  Quality Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (659.5 KB)
+  ✅  Photo 2/5 uploaded (401.3 KB)
+  ✅  Photo 3/5 uploaded (149.8 KB)
+  ✅  Photo 4/5 uploaded (387.6 KB)
+  ✅  Photo 5/5 uploaded (722.4 KB)
+
+🔎  Lucky Cocktail and Noodles (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (716.8 KB)
+  ✅  Photo 2/5 uploaded (473.5 KB)
+  ✅  Photo 3/5 uploaded (295.3 KB)
+  ✅  Photo 4/5 uploaded (494.4 KB)
+  ✅  Photo 5/5 uploaded (491.2 KB)
+
+🔎  Asko Condominium (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  The Canteen (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (244.4 KB)
+  ✅  Photo 2/5 uploaded (338.4 KB)
+  ✅  Photo 3/5 uploaded (557.9 KB)
+  ✅  Photo 4/5 uploaded (429.6 KB)
+  ✅  Photo 5/5 uploaded (678.0 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     18/20 places
+📸  Photos saved:  85
+❓  Not on Google: 1
+📭  No photos:     1
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: d053f43d..., raw fetch: 80)
+
+🔎  Forest (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (292.9 KB)
+  ✅  Photo 2/5 uploaded (566.1 KB)
+  ✅  Photo 3/5 uploaded (1013.3 KB)
+  ✅  Photo 4/5 uploaded (636.6 KB)
+  ✅  Photo 5/5 uploaded (629.3 KB)
+
+🔎  ነህላ አረቢክ ሬስቱራንት (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  ፎርቹን ካፌ እና ሬስቶራንት (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Africa Coffee | አፍሪካ ቡና (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (624.0 KB)
+  ✅  Photo 2/5 uploaded (265.8 KB)
+  ✅  Photo 3/5 uploaded (497.3 KB)
+  ✅  Photo 4/5 uploaded (269.2 KB)
+  ✅  Photo 5/5 uploaded (461.4 KB)
+
+🔎  Yidnekachew   ይድነቃቸው (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (168.0 KB)
+  ✅  Photo 2/5 uploaded (77.2 KB)
+  ✅  Photo 3/5 uploaded (112.6 KB)
+  ✅  Photo 4/5 uploaded (82.9 KB)
+  ✅  Photo 5/5 uploaded (115.3 KB)
+
+🔎  ETT Guesthouse (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (189.2 KB)
+  ✅  Photo 2/5 uploaded (198.6 KB)
+  ✅  Photo 3/5 uploaded (220.1 KB)
+  ✅  Photo 4/5 uploaded (387.8 KB)
+  ✅  Photo 5/5 uploaded (373.9 KB)
+
+🔎  Fanous Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (369.8 KB)
+  ✅  Photo 2/5 uploaded (554.5 KB)
+  ✅  Photo 3/5 uploaded (569.8 KB)
+  ✅  Photo 4/5 uploaded (681.4 KB)
+  ✅  Photo 5/5 uploaded (663.4 KB)
+
+🔎  አይቤክስ ሆቴል  Ibex Hotel (hotel, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (523.1 KB)
+  ✅  Photo 2/4 uploaded (214.2 KB)
+  ✅  Photo 3/4 uploaded (649.0 KB)
+  ✅  Photo 4/4 uploaded (195.1 KB)
+
+🔎  Pizza Corner (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (338.9 KB)
+  ✅  Photo 2/5 uploaded (692.4 KB)
+  ✅  Photo 3/5 uploaded (861.1 KB)
+  ✅  Photo 4/5 uploaded (520.4 KB)
+  ✅  Photo 5/5 uploaded (380.3 KB)
+
+🔎  grazmatch restourant buchery (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (358.4 KB)
+  ✅  Photo 2/5 uploaded (287.1 KB)
+  ✅  Photo 3/5 uploaded (148.8 KB)
+  ✅  Photo 4/5 uploaded (628.3 KB)
+  ✅  Photo 5/5 uploaded (585.4 KB)
+
+🔎  Abinet Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (327.7 KB)
+  ✅  Photo 2/5 uploaded (238.0 KB)
+  ✅  Photo 3/5 uploaded (218.9 KB)
+  ✅  Photo 4/5 uploaded (274.6 KB)
+  ✅  Photo 5/5 uploaded (162.9 KB)
+
+🔎  Denuka Hotel (hotel, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (253.1 KB)
+  ✅  Photo 2/4 uploaded (195.7 KB)
+  ✅  Photo 3/4 uploaded (583.8 KB)
+  ✅  Photo 4/4 uploaded (135.7 KB)
+
+🔎  Statue of Menelik II (landmark, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (921.6 KB)
+  ✅  Photo 2/5 uploaded (598.5 KB)
+  ✅  Photo 3/5 uploaded (316.7 KB)
+  ✅  Photo 4/5 uploaded (606.9 KB)
+  ✅  Photo 5/5 uploaded (540.5 KB)
+
+🔎  Chicken Hut (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (314.5 KB)
+  ✅  Photo 2/5 uploaded (280.7 KB)
+  ✅  Photo 3/5 uploaded (486.5 KB)
+  ✅  Photo 4/5 uploaded (495.6 KB)
+  ✅  Photo 5/5 uploaded (39.5 KB)
+
+🔎  Big Tree (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Yegorad cafe qnd restaurant (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tedela (hotel, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (332.2 KB)
+  ✅  Photo 2/3 uploaded (391.3 KB)
+  ✅  Photo 3/3 uploaded (323.9 KB)
+
+🔎  Hometown Addis Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (703.2 KB)
+  ✅  Photo 2/5 uploaded (135.0 KB)
+  ✅  Photo 3/5 uploaded (238.3 KB)
+  ✅  Photo 4/5 uploaded (361.4 KB)
+  ✅  Photo 5/5 uploaded (410.0 KB)
+
+🔎  Meseret Abebe     መሰረት አበበ (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Konjo Guesthouse (guesthouse, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     14/20 places
+📸  Photos saved:  66
+❓  Not on Google: 1
+📭  No photos:     5
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 20 places (cursor: e4380e29..., raw fetch: 80)
+
+🔎  Emamaye (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1212.8 KB)
+  ✅  Photo 2/5 uploaded (1328.4 KB)
+  ✅  Photo 3/5 uploaded (442.2 KB)
+  ✅  Photo 4/5 uploaded (1162.4 KB)
+  ✅  Photo 5/5 uploaded (145.8 KB)
+
+🔎  Yuhemiya (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (370.3 KB)
+  ✅  Photo 2/5 uploaded (61.5 KB)
+  ✅  Photo 3/5 uploaded (506.2 KB)
+  ✅  Photo 4/5 uploaded (196.0 KB)
+  ✅  Photo 5/5 uploaded (379.3 KB)
+
+🔎  ጌም ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Tigist (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Kafa Bar & Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (426.2 KB)
+  ✅  Photo 2/5 uploaded (1013.7 KB)
+  ✅  Photo 3/5 uploaded (206.1 KB)
+  ✅  Photo 4/5 uploaded (227.5 KB)
+  ✅  Photo 5/5 uploaded (975.5 KB)
+
+🔎  ፉድ ወርልድ (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (524.4 KB)
+  ✅  Photo 2/5 uploaded (400.8 KB)
+  ✅  Photo 3/5 uploaded (287.4 KB)
+  ✅  Photo 4/5 uploaded (185.8 KB)
+  ✅  Photo 5/5 uploaded (264.3 KB)
+
+🔎  Tryst Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (398.0 KB)
+  ✅  Photo 2/5 uploaded (89.6 KB)
+  ✅  Photo 3/5 uploaded (465.0 KB)
+  ✅  Photo 4/5 uploaded (1013.8 KB)
+  ✅  Photo 5/5 uploaded (790.5 KB)
+
+🔎  ሳሪስ ጨጨሆ ሆቴል (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Bridge Hotel (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Wereda 1 (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Chuchu Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (560.2 KB)
+  ✅  Photo 2/5 uploaded (970.0 KB)
+  ✅  Photo 3/5 uploaded (305.0 KB)
+  ✅  Photo 4/5 uploaded (806.7 KB)
+  ✅  Photo 5/5 uploaded (533.9 KB)
+
+🔎  Lion Bar (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (119.5 KB)
+  ✅  Photo 2/5 uploaded (366.3 KB)
+  ✅  Photo 3/5 uploaded (1358.3 KB)
+  ✅  Photo 4/5 uploaded (449.7 KB)
+  ✅  Photo 5/5 uploaded (272.2 KB)
+
+🔎  Aphrodite International Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (951.1 KB)
+  ✅  Photo 2/5 uploaded (131.3 KB)
+  ✅  Photo 3/5 uploaded (217.8 KB)
+  ✅  Photo 4/5 uploaded (219.2 KB)
+  ✅  Photo 5/5 uploaded (76.4 KB)
+
+🔎  አንዋር የሀገር ቤት ጥብስና ክትፎ (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (404.8 KB)
+  ✅  Photo 2/5 uploaded (323.7 KB)
+  ✅  Photo 3/5 uploaded (331.1 KB)
+  ✅  Photo 4/5 uploaded (153.6 KB)
+  ✅  Photo 5/5 uploaded (396.8 KB)
+
+🔎  Kiru Bar & Restaurant (restaurant, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (343.3 KB)
+  ✅  Photo 2/3 uploaded (28.2 KB)
+  ✅  Photo 3/3 uploaded (313.9 KB)
+
+🔎  Bonjour Total (cafe, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (40.2 KB)
+  ✅  Photo 2/2 uploaded (84.2 KB)
+
+🔎  ቤተሰብ ሆቴል (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (233.2 KB)
+  ✅  Photo 2/5 uploaded (154.8 KB)
+  ✅  Photo 3/5 uploaded (168.6 KB)
+  ✅  Photo 4/5 uploaded (163.8 KB)
+  ✅  Photo 5/5 uploaded (495.9 KB)
+
+🔎  Gullele Botanical Garden Offices (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (414.9 KB)
+  ✅  Photo 2/5 uploaded (433.3 KB)
+  ✅  Photo 3/5 uploaded (632.8 KB)
+  ✅  Photo 4/5 uploaded (1150.1 KB)
+  ✅  Photo 5/5 uploaded (676.5 KB)
+
+🔎  Guve terara building (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (188.3 KB)
+  ✅  Photo 2/5 uploaded (720.7 KB)
+  ✅  Photo 3/5 uploaded (472.3 KB)
+  ✅  Photo 4/5 uploaded (374.8 KB)
+  ✅  Photo 5/5 uploaded (248.0 KB)
+
+🔎  Tegen Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1126.0 KB)
+  ✅  Photo 2/5 uploaded (230.8 KB)
+  ✅  Photo 3/5 uploaded (594.1 KB)
+  ✅  Photo 4/5 uploaded (150.8 KB)
+  ✅  Photo 5/5 uploaded (173.1 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     15/20 places
+📸  Photos saved:  70
+❓  Not on Google: 0
+📭  No photos:     5
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🤖 agentic secret storage: https://dotenvx.com/as2
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 0 places (cursor: f4e15fd0..., raw fetch: 43)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+All places scanned - cursor reset
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  override existing env vars with { override: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 3 places (cursor: start, raw fetch: 80)
+
+🔎  Tomoca (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (659.5 KB)
+  ✅  Photo 2/5 uploaded (401.3 KB)
+  ✅  Photo 3/5 uploaded (149.8 KB)
+  ✅  Photo 4/5 uploaded (387.6 KB)
+  ✅  Photo 5/5 uploaded (722.4 KB)
+
+🔎  Mimi Cafe (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Jewel of India (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (578.0 KB)
+  ✅  Photo 2/5 uploaded (552.9 KB)
+  ✅  Photo 3/5 uploaded (668.0 KB)
+  ✅  Photo 4/5 uploaded (358.8 KB)
+  ✅  Photo 5/5 uploaded (187.3 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     2/3 places
+📸  Photos saved:  10
+❓  Not on Google: 0
+📭  No photos:     1
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚡️ secrets for agents: https://dotenvx.com/as2
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 5 places (cursor: 13288e62..., raw fetch: 80)
+
+🔎  Sweet Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (574.9 KB)
+  ✅  Photo 2/5 uploaded (347.6 KB)
+  ✅  Photo 3/5 uploaded (310.7 KB)
+  ✅  Photo 4/5 uploaded (399.8 KB)
+  ✅  Photo 5/5 uploaded (350.0 KB)
+
+🔎  ኦብሳን (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1061.0 KB)
+  ✅  Photo 2/5 uploaded (306.6 KB)
+  ✅  Photo 3/5 uploaded (1111.8 KB)
+  ✅  Photo 4/5 uploaded (583.6 KB)
+  ✅  Photo 5/5 uploaded (365.3 KB)
+
+🔎  Epiphany Cafe (coffee, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (823.7 KB)
+  ✅  Photo 2/4 uploaded (171.1 KB)
+  ✅  Photo 3/4 uploaded (304.5 KB)
+  ✅  Photo 4/4 uploaded (375.3 KB)
+
+🔎  ጎፋ ካምፕ (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (399.1 KB)
+  ✅  Photo 2/5 uploaded (501.6 KB)
+  ✅  Photo 3/5 uploaded (365.5 KB)
+  ✅  Photo 4/5 uploaded (114.6 KB)
+  ✅  Photo 5/5 uploaded (3017.5 KB)
+
+🔎  Addis perka (park, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (283.4 KB)
+  ✅  Photo 2/5 uploaded (533.0 KB)
+  ✅  Photo 3/5 uploaded (545.8 KB)
+  ✅  Photo 4/5 uploaded (381.0 KB)
+  ✅  Photo 5/5 uploaded (394.9 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     5/5 places
+📸  Photos saved:  24
+❓  Not on Google: 0
+📭  No photos:     0
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 4 places (cursor: 27c85d1d..., raw fetch: 80)
+
+🔎  UMMA Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (791.2 KB)
+  ✅  Photo 2/5 uploaded (230.1 KB)
+  ✅  Photo 3/5 uploaded (372.4 KB)
+  ✅  Photo 4/5 uploaded (377.4 KB)
+  ✅  Photo 5/5 uploaded (542.3 KB)
+
+🔎  ፍላሚንጎ ባርና ሬስቶራንት (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (426.2 KB)
+  ✅  Photo 2/5 uploaded (1013.7 KB)
+  ✅  Photo 3/5 uploaded (206.1 KB)
+  ✅  Photo 4/5 uploaded (227.5 KB)
+  ✅  Photo 5/5 uploaded (975.5 KB)
+
+🔎  Best Western Plus Addis Ababa (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (255.8 KB)
+  ✅  Photo 2/5 uploaded (227.2 KB)
+  ✅  Photo 3/5 uploaded (772.5 KB)
+  ✅  Photo 4/5 uploaded (254.8 KB)
+  ✅  Photo 5/5 uploaded (350.8 KB)
+
+🔎  Etaferaw shirobet    እታፈራው ሽሮቤት (hotel, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     3/4 places
+📸  Photos saved:  15
+❓  Not on Google: 0
+📭  No photos:     1
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 5 places (cursor: 3c0061ae..., raw fetch: 80)
+
+🔎  Belly Burger (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (469.1 KB)
+  ✅  Photo 2/5 uploaded (391.4 KB)
+  ✅  Photo 3/5 uploaded (556.3 KB)
+  ✅  Photo 4/5 uploaded (339.8 KB)
+  ✅  Photo 5/5 uploaded (216.7 KB)
+
+🔎  London park (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1536.3 KB)
+  ✅  Photo 2/5 uploaded (588.3 KB)
+  ✅  Photo 3/5 uploaded (1134.5 KB)
+  ✅  Photo 4/5 uploaded (890.7 KB)
+  ✅  Photo 5/5 uploaded (228.6 KB)
+
+🔎  Nok adebabay (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (62.3 KB)
+  ✅  Photo 2/5 uploaded (350.9 KB)
+  ✅  Photo 3/5 uploaded (322.2 KB)
+  ✅  Photo 4/5 uploaded (562.2 KB)
+  ✅  Photo 5/5 uploaded (926.2 KB)
+
+🔎  In- n -Out (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (474.4 KB)
+  ✅  Photo 2/5 uploaded (512.1 KB)
+  ✅  Photo 3/5 uploaded (382.5 KB)
+  ✅  Photo 4/5 uploaded (1949.6 KB)
+  ✅  Photo 5/5 uploaded (498.6 KB)
+
+🔎  Amigo Cafe and Restaurant (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (77.6 KB)
+  ✅  Photo 2/5 uploaded (442.1 KB)
+  ✅  Photo 3/5 uploaded (63.4 KB)
+  ✅  Photo 4/5 uploaded (439.2 KB)
+  ✅  Photo 5/5 uploaded (450.1 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     5/5 places
+📸  Photos saved:  25
+❓  Not on Google: 0
+📭  No photos:     0
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 9 places (cursor: 51ae3a76..., raw fetch: 80)
+
+🔎  Maseltegna (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (2099.7 KB)
+  ✅  Photo 2/5 uploaded (2095.9 KB)
+  ✅  Photo 3/5 uploaded (1155.9 KB)
+  ✅  Photo 4/5 uploaded (1123.1 KB)
+  ✅  Photo 5/5 uploaded (1412.3 KB)
+
+🔎  Life Pension No 1 (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Karl-Marx-Monument (landmark, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Dessie Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (630.2 KB)
+  ✅  Photo 2/5 uploaded (764.0 KB)
+  ✅  Photo 3/5 uploaded (259.0 KB)
+  ✅  Photo 4/5 uploaded (404.0 KB)
+  ✅  Photo 5/5 uploaded (329.1 KB)
+
+🔎  The Brim cafe (cafe, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (28.1 KB)
+  ✅  Photo 2/2 uploaded (317.3 KB)
+
+🔎  Tez butchery and bar (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (231.2 KB)
+  ✅  Photo 2/5 uploaded (370.6 KB)
+  ✅  Photo 3/5 uploaded (599.5 KB)
+  ✅  Photo 4/5 uploaded (883.9 KB)
+  ✅  Photo 5/5 uploaded (74.2 KB)
+
+🔎  ye Erago beti (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Ark Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (353.1 KB)
+  ✅  Photo 2/5 uploaded (174.0 KB)
+  ✅  Photo 3/5 uploaded (99.6 KB)
+  ✅  Photo 4/5 uploaded (196.5 KB)
+  ✅  Photo 5/5 uploaded (269.0 KB)
+
+🔎  Beherawi Taxi Stop (transport, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     5/9 places
+📸  Photos saved:  22
+❓  Not on Google: 0
+📭  No photos:     4
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 7 places (cursor: 641814b3..., raw fetch: 80)
+
+🔎  Ten Ten (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (357.5 KB)
+  ✅  Photo 2/5 uploaded (200.8 KB)
+  ✅  Photo 3/5 uploaded (253.9 KB)
+  ✅  Photo 4/5 uploaded (292.1 KB)
+  ✅  Photo 5/5 uploaded (283.4 KB)
+
+🔎  ፋምናስ ቤት (museum, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (655.9 KB)
+  ✅  Photo 2/5 uploaded (572.6 KB)
+  ✅  Photo 3/5 uploaded (239.0 KB)
+  ✅  Photo 4/5 uploaded (95.1 KB)
+  ✅  Photo 5/5 uploaded (514.6 KB)
+
+🔎  Skylight In-Terminal Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (1140.7 KB)
+  ✅  Photo 2/5 uploaded (250.3 KB)
+  ✅  Photo 3/5 uploaded (868.5 KB)
+  ✅  Photo 4/5 uploaded (618.5 KB)
+  ✅  Photo 5/5 uploaded (875.6 KB)
+
+🔎  ZMAMA HOTEL (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (216.6 KB)
+  ✅  Photo 2/5 uploaded (218.0 KB)
+  ✅  Photo 3/5 uploaded (135.7 KB)
+  ✅  Photo 4/5 uploaded (360.2 KB)
+  ✅  Photo 5/5 uploaded (223.9 KB)
+
+🔎  stadtmobil CarSharing-Station (transport, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+🔎  ዲምትሪ ሆቴል (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (271.0 KB)
+  ✅  Photo 2/5 uploaded (338.6 KB)
+  ✅  Photo 3/5 uploaded (69.1 KB)
+  ✅  Photo 4/5 uploaded (47.1 KB)
+  ✅  Photo 5/5 uploaded (375.4 KB)
+
+🔎  Con Amigo (restaurant, Addis Ababa)
+  📸  Found 2 photo(s) → downloading...
+  ✅  Photo 1/2 uploaded (157.7 KB)
+  ✅  Photo 2/2 uploaded (248.7 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     6/7 places
+📸  Photos saved:  27
+❓  Not on Google: 1
+📭  No photos:     0
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚡️ secrets for agents: https://dotenvx.com/as2
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 0 places (cursor: 7a39bf4c..., raw fetch: 80)
+
+🎉  All places already have images! Nothing to do.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 8 places (cursor: 88e8617d..., raw fetch: 80)
+
+🔎  Earl.wit Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (460.7 KB)
+  ✅  Photo 2/5 uploaded (25.6 KB)
+  ✅  Photo 3/5 uploaded (390.0 KB)
+  ✅  Photo 4/5 uploaded (383.5 KB)
+  ✅  Photo 5/5 uploaded (516.4 KB)
+
+🔎  Dave's Home (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  WGM Apartments (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (2142.6 KB)
+  ✅  Photo 2/5 uploaded (443.0 KB)
+  ✅  Photo 3/5 uploaded (132.9 KB)
+  ✅  Photo 4/5 uploaded (715.4 KB)
+  ✅  Photo 5/5 uploaded (560.5 KB)
+
+🔎  Bonjour (coffee, Addis Ababa)
+  📸  Found 3 photo(s) → downloading...
+  ✅  Photo 1/3 uploaded (705.5 KB)
+  ✅  Photo 2/3 uploaded (405.8 KB)
+  ✅  Photo 3/3 uploaded (395.2 KB)
+
+🔎  Fikat Buna (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (372.7 KB)
+  ✅  Photo 2/5 uploaded (192.1 KB)
+  ✅  Photo 3/5 uploaded (118.6 KB)
+  ✅  Photo 4/5 uploaded (20.0 KB)
+  ✅  Photo 5/5 uploaded (46.2 KB)
+
+🔎  Vila Dize Enze Guest house (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (888.0 KB)
+  ✅  Photo 2/5 uploaded (56.1 KB)
+  ✅  Photo 3/5 uploaded (502.6 KB)
+  ✅  Photo 4/5 uploaded (372.5 KB)
+  ✅  Photo 5/5 uploaded (172.9 KB)
+
+🔎  sunshine chicken (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (331.4 KB)
+  ✅  Photo 2/5 uploaded (700.4 KB)
+  ✅  Photo 3/5 uploaded (352.6 KB)
+  ✅  Photo 4/5 uploaded (565.0 KB)
+  ✅  Photo 5/5 uploaded (343.5 KB)
+
+🔎  Mexico Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (410.4 KB)
+  ✅  Photo 2/5 uploaded (516.9 KB)
+  ✅  Photo 3/5 uploaded (340.5 KB)
+  ✅  Photo 4/5 uploaded (36.7 KB)
+  ✅  Photo 5/5 uploaded (438.6 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     7/8 places
+📸  Photos saved:  33
+❓  Not on Google: 0
+📭  No photos:     1
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  suppress all logs with { quiet: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 3 places (cursor: 9badf31e..., raw fetch: 80)
+
+🔎  Basha (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (539.6 KB)
+  ✅  Photo 2/5 uploaded (682.7 KB)
+  ✅  Photo 3/5 uploaded (692.2 KB)
+  ✅  Photo 4/5 uploaded (466.1 KB)
+  ✅  Photo 5/5 uploaded (555.1 KB)
+
+🔎  Mamush Bucher (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (262.0 KB)
+  ✅  Photo 2/5 uploaded (497.1 KB)
+  ✅  Photo 3/5 uploaded (800.2 KB)
+  ✅  Photo 4/5 uploaded (668.3 KB)
+  ✅  Photo 5/5 uploaded (116.0 KB)
+
+🔎  Belair Hotel (hotel, Addis Ababa)
+  📸  Found 1 photo(s) → downloading...
+  ✅  Photo 1/1 uploaded (393.4 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     3/3 places
+📸  Photos saved:  11
+❓  Not on Google: 0
+📭  No photos:     0
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  suppress all logs with { quiet: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 8 places (cursor: ae5ee03e..., raw fetch: 80)
+
+🔎  Lemen Cafe (coffee, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (519.1 KB)
+  ✅  Photo 2/5 uploaded (403.8 KB)
+  ✅  Photo 3/5 uploaded (527.9 KB)
+  ✅  Photo 4/5 uploaded (887.7 KB)
+  ✅  Photo 5/5 uploaded (436.3 KB)
+
+🔎  Tigist Teferi ትዕግስት ተፈሪ (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Ker Shado Restaurant and Bar (restaurant, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (578.1 KB)
+  ✅  Photo 2/5 uploaded (226.3 KB)
+  ✅  Photo 3/5 uploaded (311.7 KB)
+  ✅  Photo 4/5 uploaded (666.9 KB)
+  ✅  Photo 5/5 uploaded (286.1 KB)
+
+🔎  Mora Heights Hotel (hotel, Arba Minch)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (599.7 KB)
+  ✅  Photo 2/5 uploaded (219.5 KB)
+  ✅  Photo 3/5 uploaded (104.7 KB)
+  ✅  Photo 4/5 uploaded (98.5 KB)
+  ✅  Photo 5/5 uploaded (139.6 KB)
+
+🔎  Belos Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (387.6 KB)
+  ✅  Photo 2/5 uploaded (457.8 KB)
+  ✅  Photo 3/5 uploaded (526.6 KB)
+  ✅  Photo 4/5 uploaded (254.1 KB)
+  ✅  Photo 5/5 uploaded (263.4 KB)
+
+🔎  Residence Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (455.6 KB)
+  ✅  Photo 2/5 uploaded (298.8 KB)
+  ✅  Photo 3/5 uploaded (348.4 KB)
+  ✅  Photo 4/5 uploaded (244.2 KB)
+  ✅  Photo 5/5 uploaded (164.0 KB)
+
+🔎  Tulip Inn (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (297.0 KB)
+  ✅  Photo 2/5 uploaded (197.4 KB)
+  ✅  Photo 3/5 uploaded (407.4 KB)
+  ✅  Photo 4/5 uploaded (180.6 KB)
+  ✅  Photo 5/5 uploaded (253.6 KB)
+
+🔎  Addis live (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     6/8 places
+📸  Photos saved:  30
+❓  Not on Google: 0
+📭  No photos:     2
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 8 places (cursor: bde2a899..., raw fetch: 80)
+
+🔎  Aunt home (guesthouse, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Sani Abacha (cafe, Addis Ababa)
+  ℹ️  Not found on Google Places — skipping
+
+🔎  Roma bar and resturant (cafe, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  St. George Brewery Employees Club (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Jupiter international (Bole) (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (592.7 KB)
+  ✅  Photo 2/5 uploaded (357.5 KB)
+  ✅  Photo 3/5 uploaded (193.3 KB)
+  ✅  Photo 4/5 uploaded (585.9 KB)
+  ✅  Photo 5/5 uploaded (359.9 KB)
+
+🔎  bela addis hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (568.5 KB)
+  ✅  Photo 2/5 uploaded (388.6 KB)
+  ✅  Photo 3/5 uploaded (98.5 KB)
+  ✅  Photo 4/5 uploaded (276.5 KB)
+  ✅  Photo 5/5 uploaded (1374.1 KB)
+
+🔎  Sena (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (574.9 KB)
+  ✅  Photo 2/5 uploaded (556.2 KB)
+  ✅  Photo 3/5 uploaded (592.1 KB)
+  ✅  Photo 4/5 uploaded (328.7 KB)
+  ✅  Photo 5/5 uploaded (609.1 KB)
+
+🔎  Jambo Real Estate, Meskel Flower Apartment (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (361.6 KB)
+  ✅  Photo 2/5 uploaded (238.8 KB)
+  ✅  Photo 3/5 uploaded (432.4 KB)
+  ✅  Photo 4/5 uploaded (325.1 KB)
+  ✅  Photo 5/5 uploaded (469.6 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     4/8 places
+📸  Photos saved:  20
+❓  Not on Google: 1
+📭  No photos:     3
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: ⚙️  suppress all logs with { quiet: true }
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 9 places (cursor: d053f43d..., raw fetch: 80)
+
+🔎  Tsiga Shiro  (restaurant, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Elsa Coffee (Traditional Ethiopian Coffee) (coffee, Addis Ababa)
+  📸  Found 4 photo(s) → downloading...
+  ✅  Photo 1/4 uploaded (665.1 KB)
+  ✅  Photo 2/4 uploaded (810.0 KB)
+  ✅  Photo 3/4 uploaded (484.6 KB)
+  ✅  Photo 4/4 uploaded (322.7 KB)
+
+🔎  Bridge 1 (landmark, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (854.8 KB)
+  ✅  Photo 2/5 uploaded (719.4 KB)
+  ✅  Photo 3/5 uploaded (288.0 KB)
+  ✅  Photo 4/5 uploaded (284.0 KB)
+  ✅  Photo 5/5 uploaded (511.1 KB)
+
+🔎  Tirunesh Hotel (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (319.6 KB)
+  ✅  Photo 2/5 uploaded (108.8 KB)
+  ✅  Photo 3/5 uploaded (311.5 KB)
+  ✅  Photo 4/5 uploaded (410.4 KB)
+  ✅  Photo 5/5 uploaded (425.1 KB)
+
+🔎  Kaldi's Coffee (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (772.9 KB)
+  ✅  Photo 2/5 uploaded (514.0 KB)
+  ✅  Photo 3/5 uploaded (479.0 KB)
+  ✅  Photo 4/5 uploaded (190.3 KB)
+  ✅  Photo 5/5 uploaded (456.1 KB)
+
+🔎  ShebaSign Advertisement Network (museum, Addis Ababa)
+  ℹ️  Found on Google but no photos available
+
+🔎  Jambo bela apartment (guesthouse, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (578.2 KB)
+  ✅  Photo 2/5 uploaded (274.0 KB)
+  ✅  Photo 3/5 uploaded (351.5 KB)
+  ✅  Photo 4/5 uploaded (383.0 KB)
+  ✅  Photo 5/5 uploaded (946.6 KB)
+
+🔎  Miki Cafe (cafe, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (354.9 KB)
+  ✅  Photo 2/5 uploaded (928.3 KB)
+  ✅  Photo 3/5 uploaded (183.8 KB)
+  ✅  Photo 4/5 uploaded (462.8 KB)
+  ✅  Photo 5/5 uploaded (542.0 KB)
+
+🔎  Azzeman (hotel, Addis Ababa)
+  📸  Found 5 photo(s) → downloading...
+  ✅  Photo 1/5 uploaded (901.9 KB)
+  ✅  Photo 2/5 uploaded (592.8 KB)
+  ✅  Photo 3/5 uploaded (940.7 KB)
+  ✅  Photo 4/5 uploaded (167.7 KB)
+  ✅  Photo 5/5 uploaded (381.8 KB)
+
+
+══════════════════════ SUMMARY ══════════════════════
+✅  Processed:     7/9 places
+📸  Photos saved:  34
+❓  Not on Google: 0
+📭  No photos:     2
+💥  Errors:        0
+
+Run again to continue with next batch.
+[dotenv@17.3.1] injecting env (7) from .env.local -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+╔══════════════════════════════════════════════════════╗
+║  AddisView — Google Places Image Migration Script    ║
+╚══════════════════════════════════════════════════════╝
+✅  Bucket "place-images" already exists
+Found 0 places (cursor: e4380e29..., raw fetch: 80)
+
+🎉  All places already have images! Nothing to do.
